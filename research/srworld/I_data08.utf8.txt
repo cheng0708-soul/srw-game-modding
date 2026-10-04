@@ -1,0 +1,407 @@
+<html>
+<head>
+<title>Impact-合体技一览</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+</head>
+
+<body bgcolor="#FFFFFF" background="bg.jpg" link="#6600CC" vlink="#6600CC" alink="#0099CC">
+<div align="center"> 
+  <p align="center"><b><font color="#000099">♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂</font></b></p>
+  <p><font color="#000099"><b><br>
+    合體技一覽</b></font></p>
+  <hr noshade>
+  <font color="#0000FF"><b><br>
+  </b> </font> 
+  <table width="968" cellspacing="0" cellpadding="1" bordercolor="#000000" height="347" border="1">
+    <tr bordercolor="#330099"> 
+      <td height="33" width="188"> 
+        <div align="center"><b><font color="#000099">名称</font></b></div>
+      </td>
+      <td height="33" width="193"> 
+        <div align="center"><font color="#000099"><b>参与攻击的机体</b></font></div>
+      </td>
+      <td height="33" width="106"> 
+        <div align="center"><font color="#000099"><b>氣力orEN限制</b></font></div>
+      </td>
+      <td height="33" width="72"> 
+        <div align="center"><b><font color="#000099">射程</font></b></div>
+      </td>
+      <td height="33" width="80"> 
+        <div align="center"><font color="#000099"><b>攻擊力</b></font></div>
+      </td>
+      <td height="33" width="303"> 
+        <div align="center"><b><font color="#000099">說明</font></b></div>
+      </td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="188" height="60"> 
+        <div align="center"><font size="-1">ランページ·ゴースト</font></div>
+      </td>
+      <td width="193" height="60"> 
+        <p align="center"><font size="-1">アルドアイゼン·リーゼ </font></p>
+        <p align="center"><font size="-1">ヴァイスリッター</font></p>
+      </td>
+      <td width="106" height="60"> 
+        <div align="center"><font size="-1">氣力120,EN60</font></div>
+      </td>
+      <td width="72" height="60"> 
+        <div align="center"><font size="-1">1-2</font></div>
+      </td>
+      <td width="80" height="60"> 
+        <div align="center"><font size="-1">3600→5550</font></div>
+      </td>
+      <td width="303" height="60"> 
+        <p align="left"><font size="-1">主角的夫妻合體技:p</font></p>
+        <p align="left"><font size="-1">女主角放棄純白騎士的回報，威力、射程、EN消耗都不錯，如果配合響介的奇跡將會成為本作中最強技</font></p>
+      </td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td height="62" width="188"> 
+        <div align="center"><font size="-1">石破ラブラブ天驚拳</font></div>
+      </td>
+      <td width="193" height="62"> 
+        <p align="center"><font size="-1">シャイニングガンダムS</font></p>
+        <p align="center"><font size="-1">ゴッドガンダムH</font></p>
+      </td>
+      <td width="106" height="62"> 
+        <div align="center"><font size="-1">氣力140,EN90</font></div>
+      </td>
+      <td width="72" height="62"> 
+        <div align="center"><font size="-1">2-5(P不可)</font></div>
+      </td>
+      <td width="80" height="62"> 
+        <div align="center"><font size="-1">4750→6507</font></div>
+      </td>
+      <td width="303" height="62"> 
+        <div align="left"><font size="-1">不考慮精神，這是全武器中最強的，但是EN消耗很厲害，140的氣力不是那麽容易灌的，加上玲和閃光能力不足，實用性並不如下面兩招<font color="#FF0000">↓↓</font></font></div>
+      </td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="188" height="50"> 
+        <div align="center"><font size="-1">ダブルゴッドフィンガー</font></div>
+      </td>
+      <td width="193" height="50"> 
+        <p align="center"><font size="-1">ゴッドガンダムH</font></p>
+        <p align="center"><font size="-1">ノーベルガンダム</font></p>
+      </td>
+      <td width="106" height="50"> 
+        <div align="center"><font size="-1">氣力130,EN70</font></div>
+      </td>
+      <td width="72" height="50"> 
+        <div align="center"><font size="-1">1</font></div>
+      </td>
+      <td width="80" height="50"> 
+        <div align="center"><font size="-1">4275→5850 </font></div>
+      </td>
+      <td width="303" height="50"> 
+        <div align="left"><font size="-1">地球篇的殺手鐧，肯花點錢改改美少女鋼彈的話就沒有打不下來的BOSS，阿蓮比能力尚可，跟著多蒙混不會吃虧~<br>
+          </font></div>
+      </td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="188" height="50"> 
+        <div align="center"><font size="-1">ダブルダークネスフィンガー</font></div>
+      </td>
+      <td width="193" height="50"> 
+        <p align="center"><font size="-1">ゴッドガンダムH </font></p>
+        <p align="center"><font size="-1">マスターガンダム</font></p>
+      </td>
+      <td width="106" height="50"> 
+        <div align="center"><font size="-1">氣力130,EN70</font></div>
+      </td>
+      <td width="72" height="50"> 
+        <div align="center"><font size="-1">1</font></div>
+      </td>
+      <td width="80" height="50"> 
+        <div align="center"><font size="-1">4650→5887</font></div>
+      </td>
+      <td width="303" height="50"> 
+        <div align="left"><font size="-1">橫行銀河篇的合體技！師匠和多蒙都是格鬥達人，單機能力又極爲出色，一回合配合精神使用2次，BOSS必受重創<br>
+          </font></div>
+      </td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="188" height="46"> 
+        <div align="center"><font size="-1">ダブルシャイニングフィンガー</font></div>
+      </td>
+      <td width="193" height="46"> 
+        <p align="center"><font size="-1">ゴッドガンダムH</font></p>
+        <p align="center"><font size="-1">シャイニングガンダムS</font></p>
+      </td>
+      <td width="106" height="46"> 
+        <div align="center"><font size="-1">氣力130,EN70</font></div>
+      </td>
+      <td width="72" height="46"> 
+        <div align="center"><font size="-1">1</font></div>
+      </td>
+      <td width="80" height="46"> 
+        <div align="center"><font size="-1">4425→5887 </font></div>
+      </td>
+      <td width="303" height="46"> 
+        <div align="left"><font size="-1">實用性比愛愛天驚拳略高，但還是受玲的能力所限<br>
+          </font></div>
+      </td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="188" height="87"> 
+        <div align="center"><font size="-1">ダブルゲキガンフレア</font></div>
+      </td>
+      <td width="193" height="87"> 
+        <p align="center"><font size="-1">エステバリス(アキト)</font></p>
+        <p align="center"><font size="-1">エステバリス(ガイ)</font></p>
+        <p align="center"><font size="-1">限定空戰或OG裝備<br>
+          </font></p>
+      </td>
+      <td width="106" height="87"> 
+        <div align="center"><font size="-1">氣力115,EN60</font></div>
+      </td>
+      <td width="72" height="87"> 
+        <div align="center"><font size="-1">1</font></div>
+      </td>
+      <td width="80" height="87"> 
+        <div align="center"><font size="-1">3862→6137</font></div>
+      </td>
+      <td width="303" height="87"> 
+        <div align="left"><font size="-1">攻擊力相當不錯，氣力要求低，配合熱血造成的傷害相當可觀，但是兩人的迴避能力都不算太好，後期難免成爲靶子...<br>
+          在經過思兼之樹的劇情後，凱的位置可以由百合香代替，又一個情侶合體技:p</font></div>
+      </td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="188" height="24"> 
+        <div align="center"><font size="-1">ダブルアタックなんちゃって</font></div>
+      </td>
+      <td width="193" height="24"> 
+        <p align="center"><font size="-1">エステバリス(リョーコ) </font></p>
+        <p align="center"><font size="-1">エステバリス(イズミ) </font></p>
+        <p align="center"><font size="-1">エステバリス(ヒカル)</font></p>
+        <p align="center"><font size="-1">限定空戰或OG裝備</font></p>
+      </td>
+      <td width="106" height="24"> 
+        <div align="center"><font size="-1">EN40</font></div>
+      </td>
+      <td width="72" height="24"> 
+        <div align="center"><font size="-1">1-3</font></div>
+      </td>
+      <td width="80" height="24"> 
+        <div align="center"><font size="-1">3024→5200</font></div>
+      </td>
+      <td width="303" height="24"> 
+        <div align="left"><font size="-1">沒氣力要求是最大的優點，射程3格可P，戰術上相當靈活，攻擊力不錯，特別在零改宇宙篇時是不可或缺的戰力 
+          <br>
+          </font></div>
+      </td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="188" height="80"> 
+        <div align="center"><font size="-1">ツインオーラアタック</font></div>
+      </td>
+      <td width="193" height="80"> 
+        <p align="center"><font size="-1">ダンバイン/ダンバイン(トッド)</font></p>
+        <p align="center"><font size="-1">ビルバイン/迷彩ビルバイン</font></p>
+      </td>
+      <td width="106" height="80"> 
+        <div align="center"><font size="-1">氣力120,EN60</font></div>
+      </td>
+      <td width="72" height="80"> 
+        <div align="center"><font size="-1">1(P不可)</font></div>
+      </td>
+      <td width="80" height="80"> 
+        <div align="center"><font size="-1">2925→4875</font></div>
+      </td>
+      <td width="303" height="80"> 
+        <div align="left"><font size="-1">這個...不可P的話放前綫會被當靶子打的@@，氣力要求比奧拉大斬低，但是与修打配合的瑪貝露或托特能力都不太強，又不能用寳津@@<br>
+          因爲對海是A，基本上我除了對決暗黑大將軍那話拿來打大海獸以外就沒用過...<br>
+          </font></div>
+      </td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="188" height="24"> 
+        <div align="center"><font size="-1">Wバーニングファイヤー</font></div>
+      </td>
+      <td width="193" height="24"> 
+        <p align="center"><font size="-1">マジンガーZ </font></p>
+        <p align="center"><font size="-1">グレートマジンガー</font></p>
+      </td>
+      <td width="106" height="24"> 
+        <div align="center"><font size="-1">EN70</font></div>
+      </td>
+      <td width="72" height="24"> 
+        <div align="center"><font size="-1">1-2</font></div>
+      </td>
+      <td width="80" height="24"> 
+        <div align="center"><font size="-1">4087→5887<br>
+          </font></div>
+      </td>
+      <td width="303" height="24"> 
+        <div align="left"><font size="-1">鉄金剛友情合體技，攻擊力起點很高，2格可P的射程也是相當合理的，改造一下會很猛<br>
+          而且瑪麗亞或者弓小姐可以換乘大魔神，想給甲兒玩玩情侶配也未嘗不可:p<br>
+          </font></div>
+      </td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="188" height="24"> 
+        <div align="center"><font size="-1">トリプルマジンガーパンチ</font></div>
+      </td>
+      <td width="193" height="24"> 
+        <p align="center"><font size="-1">マジンガーZ </font></p>
+        <p align="center"><font size="-1">グレートマジンガー </font></p>
+        <p align="center"><font size="-1">グレンダイザー</font></p>
+      </td>
+      <td width="106" height="24"> 
+        <div align="center"><font size="-1">EN35</font></div>
+      </td>
+      <td width="72" height="24"> 
+        <div align="center"><font size="-1">1-3</font></div>
+      </td>
+      <td width="80" height="24"> 
+        <div align="center"><font size="-1">3120→4880</font></div>
+      </td>
+      <td width="303" height="24"> 
+        <div align="left"><font size="-1">三連飛拳，小改一下EN可以作爲主戰武器，但是三機碰頭已經是比較晚的事情了，不能盡情使用<br>
+          也可以組成瑪麗亞+炎純+沙也加的女性格鬥隊:p<br>
+          </font></div>
+      </td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="188" height="54"> 
+        <div align="center"><font size="-1">トリプルマジンガーブレード</font></div>
+      </td>
+      <td width="193" height="54"> 
+        <div align="center"> 
+          <p><font size="-1">マジンガーZ &amp;グレートマジンガー&amp;グレンダイザー</font></p>
+          </div>
+      </td>
+      <td width="106" height="54"> 
+        <div align="center"><font size="-1">EN60</font></div>
+      </td>
+      <td width="72" height="54"> 
+        <div align="center"><font size="-1">1</font></div>
+      </td>
+      <td width="80" height="54"> 
+        <div align="center"><font size="-1">3440→5253</font></div>
+      </td>
+      <td width="303" height="54"> 
+        <div align="left"><font size="-1">由於宇門大介有魂，這招有成爲本作第二強招的潛質，但還是老毛病——合流太晚</font></div>
+      </td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="188" height="24"> 
+        <div align="center"><font size="-1">忍者殺法</font></div>
+      </td>
+      <td width="193" height="24"> 
+        <p align="center"><font size="-1">黑獅子</font></p>
+        <p align="center"><font size="-1">爆龍 </font></p>
+        <p align="center"><font size="-1">鳳雷鷹</font></p>
+      </td>
+      <td width="106" height="24"> 
+        <div align="center"><font size="-1">EN70</font></div>
+      </td>
+      <td width="72" height="24"> 
+        <div align="center"><font size="-1">1-3(P不可)</font></div>
+      </td>
+      <td width="80" height="24"> 
+        <div align="center"><font size="-1">3239→5009</font></div>
+      </td>
+      <td width="303" height="24"> 
+        <div align="left"><font size="-1">不需氣力，3格射程，賬面數據挺漂亮，但是不可P，而且忍者眾EN偏少，兩個下來就幹不了別的事了，這招最大的用處是某話拿熟練<br>
+          </font></div>
+      </td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="188" height="24"> 
+        <div align="center"><font size="-1">殘像殺法</font></div>
+      </td>
+      <td width="193" height="24"> 
+        <p align="center"><font size="-1">零影 </font></p>
+        <p align="center"><font size="-1">飛影</font></p>
+      </td>
+      <td width="106" height="24"> 
+        <div align="center"><font size="-1">EN60</font></div>
+      </td>
+      <td width="72" height="24"> 
+        <div align="center"><font size="-1">2-4(P不可)</font></div>
+      </td>
+      <td width="80" height="24"> 
+        <div align="center"><font size="-1">3375→4800</font></div>
+      </td>
+      <td width="303" height="24"> 
+        <div align="left"><font size="-1">辛苦說得イルボラ的報酬@_@<br>
+          不可移攻實在不爽，好在兩人都有覺醒來彌補；動作相當漂亮，不可不看；但是要完全發揮這招的實力就要改零影，會心疼嗎？</font></div>
+      </td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="188" height="52"> 
+        <div align="center"><font size="-1">天空真劍奧義·重ね鰜鼬</font></div>
+      </td>
+      <td width="193" height="52"> 
+        <p align="center"><font size="-1">ブルー·ジェット</font></p>
+        <p align="center"><font size="-1">ケンリュウ</font></p>
+      </td>
+      <td width="106" height="52"> 
+        <div align="center"><font size="-1">氣力110,EN50</font></div>
+      </td>
+      <td width="72" height="52"> 
+        <div align="center"><font size="-1">1-2(P不可)</font></div>
+      </td>
+      <td width="80" height="52"> 
+        <div align="center"><font size="-1">3337→4762</font></div>
+      </td>
+      <td width="303" height="52"> 
+        <div align="left"><font size="-1">氣力要求挺低，羅姆和傑特都很強，隨便打打就上去了，傑特有突擊，能彌補不可P的缺陷，招式非常帥，兩人都有魂，實用性進一步提升<br>
+          </font></div>
+      </td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="188" height="24"> 
+        <div align="center"><font size="-1">天空真劍奧義·重ね鰜鼬</font></div>
+      </td>
+      <td width="193" height="24"> 
+        <p align="center"><font size="-1">ブルー·ジェット</font></p>
+        <p align="center"><font size="-1">バイカンフー</font></p>
+      </td>
+      <td width="106" height="24"> 
+        <div align="center"><font size="-1">氣力110,EN60</font></div>
+      </td>
+      <td width="72" height="24"> 
+        <div align="center"><font size="-1">1-2(P不可)</font></div>
+      </td>
+      <td width="80" height="24"> 
+        <div align="center"><font size="-1">3637→5137</font></div>
+      </td>
+      <td width="303" height="24"> 
+        <div align="left"><font size="-1">劍狼合身後的改進型，攻擊力UP，但此時用的更多的還是下一招<br>
+          </font></div>
+      </td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="188" height="60"> 
+        <div align="center"><font size="-1">稻妻サイクロン岩盤割る</font></div>
+      </td>
+      <td width="193" height="60"> 
+        <p align="center"><font size="-1">ロッド·ドリル </font></p>
+        <p align="center"><font size="-1">バイカンフー</font></p>
+      </td>
+      <td width="106" height="60"> 
+        <div align="center"><font size="-1">氣力130，EN60</font></div>
+      </td>
+      <td width="72" height="60"> 
+        <div align="center"><font size="-1">1</font></div>
+      </td>
+      <td width="80" height="60"> 
+        <div align="center"><font size="-1">4125→5737</font></div>
+      </td>
+      <td width="303" height="60"> 
+        <div align="left"><font size="-1">非常暴力的攻擊力！羅姆有魂，本來應該是它成爲老大，但是一則羅姆出魂太晚，二則羅姆眾飄忽不定，不能善加利用；盡管如此，在宇宙篇後期還是頭號戰力 
+          <br>
+          </font></div>
+      </td>
+    </tr>
+  </table>
+  <p align="left"><b><font color="#FF0000">（這次居然沒有日月合擊XD） </font></b> </p>
+  <hr noshade>
+  <p><font color="#000099"><a href="I_data07.htm">【Back】</a> <a href="I_top.htm">〖Top〗</a> 
+    <a href="I_data09.htm">【Next】</a></font></p>
+  <p align="left">&nbsp;</p>
+  </div>
+</body>
+</html>

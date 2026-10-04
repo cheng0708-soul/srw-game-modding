@@ -433,3 +433,193 @@ document.addEventListener('DOMContentLoaded', () => {
   renderTimeline('第1部');
   renderDatabase('inheritances');
 });
+
+  // ==============================================================
+  // 7. SRWorld Tactics (Combos, Spirits, Items, Abilities)
+  // ==============================================================
+  const tacticTabs = document.querySelectorAll('.tactic-tab');
+  const tacticDisplay = document.getElementById('tacticDisplay');
+  const tacticSearchInput = document.getElementById('tacticSearchInput');
+  let currentTacticType = 'combos';
+  let tacticSearchQuery = '';
+
+  function renderTactics() {
+    if (!tacticDisplay || !window.SRW_SRWORLD_TACTICS) return;
+    const data = window.SRW_SRWORLD_TACTICS[currentTacticType] || [];
+    tacticDisplay.innerHTML = '';
+
+    const q = tacticSearchQuery.toLowerCase();
+    const filtered = data.filter(item => {
+      const textAll = Object.values(item).join(' ').toLowerCase();
+      return !q || textAll.includes(q);
+    });
+
+    if (filtered.length === 0) {
+      tacticDisplay.innerHTML = `
+        <div style="grid-column: 1/-1; text-align: center; padding: 36px; color: var(--text-muted); font-family: var(--font-hud);">
+          [ ⚠️ 未检测到符合条件的战术数据 ]
+        </div>
+      `;
+      return;
+    }
+
+    if (currentTacticType === 'combos') {
+      // Combos Grid Cards
+      tacticDisplay.className = 'tactics-grid';
+      filtered.forEach(c => {
+        const card = document.createElement('div');
+        card.className = 'combo-card';
+        card.innerHTML = `
+          <div class="combo-card-header">
+            <span class="combo-title">${c.name}</span>
+            <span class="combo-power">💥 ${c.power}</span>
+          </div>
+          <div class="combo-meta">
+            <div><strong style="color: var(--accent-cyan);">参与机体:</strong> ${c.mecha}</div>
+            <div style="display: flex; gap: 14px; margin-top: 4px;">
+              <span><strong>消耗:</strong> <span style="color: var(--accent-amber);">${c.req}</span></span>
+              <span><strong>射程:</strong> ${c.range}</span>
+            </div>
+          </div>
+          <div class="combo-desc">${c.desc}</div>
+        `;
+        tacticDisplay.appendChild(card);
+      });
+    } else {
+      // Table view for Spirits, Items, Skills
+      tacticDisplay.className = 'timeline-table-wrap';
+      const table = document.createElement('table');
+      table.className = 'tactical-table';
+      
+      let thead = '<thead><tr>';
+      if (currentTacticType === 'spirits') {
+        thead += '<th>精神名称</th><th style="width: 100px;">SP 消耗</th><th>效果说明与战术评价</th>';
+      } else if (currentTacticType === 'items') {
+        thead += '<th>强化芯片 / 道具名称</th><th style="width: 140px;">类别</th><th>效果说明</th>';
+      } else {
+        thead += '<th style="width: 200px;">机体 / 机师技能</th><th>效果说明与计算公式</th>';
+      }
+      thead += '</tr></thead>';
+
+      let tbody = '<tbody>';
+      filtered.forEach(item => {
+        tbody += '<tr>';
+        if (currentTacticType === 'spirits') {
+          tbody += `<td style="font-weight: 700; color: var(--accent-gold);">${item.name}</td>`;
+          tbody += `<td style="font-family: var(--font-hud); color: var(--accent-cyan); font-weight: 800;">${item.sp}</td>`;
+          tbody += `<td>${item.desc}</td>`;
+        } else if (currentTacticType === 'items') {
+          tbody += `<td style="font-weight: 700; color: var(--accent-cyan);">${item.name}</td>`;
+          tbody += `<td><span class="stage-badge">${item.category}</span></td>`;
+          tbody += `<td>${item.desc}</td>`;
+        } else {
+          tbody += `<td style="font-weight: 700; color: var(--accent-amber);">${item.name}</td>`;
+          tbody += `<td>${item.desc}</td>`;
+        }
+        tbody += '</tr>';
+      });
+      tbody += '</tbody>';
+
+      table.innerHTML = thead + tbody;
+      tacticDisplay.appendChild(table);
+    }
+  }
+
+  tacticTabs.forEach(tab => {
+    tab.addEventListener('click', () => {
+      playBeep(700, 'sine', 0.05);
+      tacticTabs.forEach(t => t.classList.remove('active'));
+      tab.classList.add('active');
+      currentTacticType = tab.dataset.type;
+      renderTactics();
+    });
+  });
+
+  if (tacticSearchInput) {
+    tacticSearchInput.addEventListener('input', (e) => {
+      tacticSearchQuery = e.target.value.trim();
+      renderTactics();
+    });
+  }
+
+  // ==============================================================
+  // 8. 105 Stages Walkthrough Guide
+  // ==============================================================
+  const stagePartBtns = document.querySelectorAll('.stage-part-btn');
+  const stageListDisplay = document.getElementById('stageListDisplay');
+  const stageSearchInput = document.getElementById('stageSearchInput');
+  let currentStagePart = '第1部 地上篇';
+  let stageSearchQuery = '';
+
+  function renderStagesGuide() {
+    if (!stageListDisplay || !window.SRW_STAGES_GUIDE) return;
+    stageListDisplay.innerHTML = '';
+
+    const q = stageSearchQuery.toLowerCase();
+    const filtered = window.SRW_STAGES_GUIDE.filter(st => {
+      const matchPart = !currentStagePart || st.part === currentStagePart;
+      const matchQ = !q || 
+                     st.title.toLowerCase().includes(q) || 
+                     st.skill_req.toLowerCase().includes(q) || 
+                     st.scene.toLowerCase().includes(q) ||
+                     st.tactics.toLowerCase().includes(q);
+      return matchPart && matchQ;
+    });
+
+    if (filtered.length === 0) {
+      stageListDisplay.innerHTML = `
+        <div style="text-align: center; padding: 48px; color: var(--text-muted); font-family: var(--font-hud);">
+          [ ⚠️ 未检测到符合条件的战术关卡攻略 ]
+        </div>
+      `;
+      return;
+    }
+
+    filtered.forEach(st => {
+      const card = document.createElement('div');
+      card.className = 'stage-walkthrough-card';
+      card.innerHTML = `
+        <div class="stage-wt-header">
+          <div class="stage-wt-badge">${st.part} · ${st.scene}</div>
+          <h3 class="stage-wt-title">${st.stage_number} ${st.title}</h3>
+        </div>
+        <div class="stage-wt-body">
+          <div class="stage-wt-skill">
+            <span class="skill-label">⭐ 熟练度判定条件:</span>
+            <span class="skill-content">${st.skill_req}</span>
+          </div>
+          ${st.enemies ? `
+          <div class="stage-wt-enemies">
+            <span class="enemy-label">⚔️ 敌方初期配置:</span>
+            <span class="enemy-content">${st.enemies}</span>
+          </div>` : ''}
+          <div class="stage-wt-tactics">
+            <span class="tactics-label">💡 战术作战指导:</span>
+            <p class="tactics-content">${st.tactics}</p>
+          </div>
+        </div>
+      `;
+      stageListDisplay.appendChild(card);
+    });
+  }
+
+  stagePartBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      playBeep(650, 'triangle', 0.05);
+      stagePartBtns.forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      currentStagePart = btn.dataset.part;
+      renderStagesGuide();
+    });
+  });
+
+  if (stageSearchInput) {
+    stageSearchInput.addEventListener('input', (e) => {
+      stageSearchQuery = e.target.value.trim();
+      renderStagesGuide();
+    });
+  }
+
+  // Initial render of new sections
+  renderTactics();
+  renderStagesGuide();

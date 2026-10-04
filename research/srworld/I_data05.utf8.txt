@@ -1,0 +1,456 @@
+<html>
+<head>
+<title>Impact-技能一览</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+</head>
+
+<body bgcolor="#FFFFFF" background="bg.jpg" link="#6600CC" vlink="#6600CC" alink="#0099CC">
+<div align="center"> 
+  <p align="center"><b><font color="#000099">♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂</font></b></p>
+  <p><font color="#000099"><b><br>
+    機體特殊技能&amp;人物特殊技能<br>
+    </b></font></p>
+  <hr noshade>
+  <p align="left"><font color="#0000FF"><b>機體特殊技能：<br>
+    </b> </font> </p>
+  <table width="968" cellspacing="0" cellpadding="1" bordercolor="#000000" height="347" border="1">
+    <tr bordercolor="#330099"> 
+      <td height="33" width="184"> 
+        <div align="center"><b><font color="#000099">技能名称</font></b></div>
+      </td>
+      <td height="33" width="774"> 
+        <div align="center"><b><font color="#000099">说明</font></b></div>
+      </td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="184" height="45"> 
+        <div align="center"><font size="-1">盾防</font></div>
+      </td>
+      <td width="774" height="45"><font size="-1">（這個其實不出列在技能欄裏，不過也說一下）擁有盾的機體（EN條下的黃色標誌），且駕駛員擁有特技“防禦”，在受到攻擊時會自動使用盾防禦；如果傷害度超過了盾的耐久，則盾使用次數-1，如果傷害度低於盾耐久度，則機體受傷害0，盾使用次數不減；盾使用次數可以在格納庫改造，耐久度隨駕駛員防禦技能等級提升而提升，<font color="#0000FF">公式為：盾耐久=500+（防禦等級-1）*100 
+        </font></font> 
+        <p></p>
+      </td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td height="47" width="184"> 
+        <div align="center"><font size="-1">劍切（同上）</font></div>
+      </td>
+      <td width="774" height="47"><font size="-1">擁有近距格鬥係武器的機體，如果駕駛員擁有特技“防禦”，在受到實體彈或者埋身格鬥攻擊時有一定幾率發動此特技，完全擋格敵人的攻擊，但是對近距必殺係攻擊無效，被帶有“必中”效果的精神指令克制；<font color="#0000FF">計算公式：劍切機率=防禦等級/(14+X)</font> 
+        附註：<font color="#336600">X隨攻擊者變動，敵攻=10，NPC攻=2，我攻=0（由此可以看到敵人那BT的劍切幾率是怎麽來的）</font></font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="184" height="24"> 
+        <div align="center"><font size="-1">分離</font></div>
+      </td>
+      <td width="774" height="24"><font size="-1">某些擁有核心駕駛單位的機體具有此能力，如GP-03，但是一旦分離後直到本話終結都不可再合體（忍者眾和飛影是特例）</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="184" height="24"> 
+        <div align="center"><font size="-1">合體</font></div>
+      </td>
+      <td width="774" height="24"><font size="-1">特定機體擁有的能力，例如忍者眾</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="184" height="24"> 
+        <div align="center"><font size="-1">變形</font></div>
+      </td>
+      <td width="774" height="24"><font size="-1">機體可以在不同形態閒切換，例如MS-MA，蓋塔等</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="184" height="24"> 
+        <div align="center"><font size="-1">換裝</font></div>
+      </td>
+      <td width="774" height="24"><font size="-1">エステバリス小隊特有能力，換裝後不能換回原裝備</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="184" height="24"> 
+        <div align="center"><font size="-1">合身</font></div>
+      </td>
+      <td width="774" height="24"><font size="-1">ケンリュウ專用，氣力130發動，可選擇變身為バイカンフー</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="184" height="24"> 
+        <div align="center"><font size="-1">補給裝置</font></div>
+      </td>
+      <td width="774" height="24"><font size="-1">指定的機體EN/彈藥全回復，氣力-10</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="184" height="24"> 
+        <div align="center"><font size="-1">修理裝置</font></div>
+      </td>
+      <td width="774" height="24"><font size="-1">指定的鄰接機體HP回復，回復量=500+（駕駛員等級X60）</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="184" height="24"> 
+        <div align="center"><font size="-1">HP回復（大）</font></div>
+      </td>
+      <td width="774" height="24"><font size="-1">我方回合開始時，自動回復30%MAXHP</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="184" height="24"> 
+        <div align="center"><font size="-1">HP回復（小）</font></div>
+      </td>
+      <td width="774" height="24"><font size="-1">我方回合開始時，自動回復10%MAXHP</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="184" height="24"> 
+        <div align="center"><font size="-1">EN回復（大）</font></div>
+      </td>
+      <td width="774" height="24"><font size="-1">我方回合開始時，自動回復30%MAXEN </font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="184" height="24"> 
+        <div align="center"><font size="-1">EN回復（小）</font></div>
+      </td>
+      <td width="774" height="24"><font size="-1">我方回合開始時，自動回復10%MAXEN</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="184" height="24"> 
+        <div align="center"><font size="-1">SP回復</font></div>
+      </td>
+      <td width="774" height="24"><font size="-1">我方回合開始時，自動回復全駕駛員10%MAXSP</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="184" height="24"> 
+        <div align="center"><font size="-1">強化パーツ使用</font></div>
+      </td>
+      <td width="774" height="24"><font size="-1">能夠對鄰接機體使用消費性強化部件</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="184" height="24"> 
+        <div align="center"><font size="-1">重力波ビーム</font></div>
+      </td>
+      <td width="774" height="24"><font size="-1">機動戰艦係特殊能力，我方回合開始時，エステバリス隊EN全回復</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="184" height="24"> 
+        <div align="center"><font size="-1">要·重力波ビーム</font></div>
+      </td>
+      <td width="774" height="24"><font size="-1">當エステバリス隊脫離撫子號重力波範圍時該能力生效，移動、攻擊、援護、迴避、防禦均額外消耗EN5，EN為0後除使用精神外行動不能，只有再度進入重力波範圍才能恢復</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="184" height="41"> 
+        <div align="center"><font size="-1">ボソンジャンプ</font></div>
+      </td>
+      <td width="774" height="41"><font size="-1">無視障礙物進行移動</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="184" height="24"> 
+        <div align="center"><font size="-1">分身</font></div>
+      </td>
+      <td width="774" height="24"><font size="-1">氣力130發動，當被判定命中時以50%幾率閃躲</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="184" height="24"> 
+        <div align="center"><font size="-1">マッハスベシャル</font></div>
+      </td>
+      <td width="774" height="24"><font size="-1">相當於分身，ゲッターライガー專用</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="184" height="24"> 
+        <div align="center"><font size="-1">ゲッタービション</font></div>
+      </td>
+      <td width="774" height="24"><font size="-1">相當於分身，ゲッター2專用</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="184" height="27"> 
+        <div align="center"><font size="-1">オープンゲット</font></div>
+      </td>
+      <td width="774" height="27"><font size="-1">氣力120發動，當被判定命中時以25%幾率閃躲，ゲッター、ゲッターG專用 
+        </font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="184" height="24"> 
+        <div align="center"><font size="-1">ゴッドシャドー</font></div>
+      </td>
+      <td width="774" height="24"><font size="-1">相當於分身，ゴッドガンダムH專用</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="184" height="24"> 
+        <div align="center"><font size="-1">ビームコート</font></div>
+      </td>
+      <td width="774" height="24"><font size="-1">B係武器損傷減輕700 ，EN消費5</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="184" height="24"> 
+        <div align="center"><font size="-1">Iフィールド</font></div>
+      </td>
+      <td width="774" height="24"><font size="-1">B係武器損傷減輕850 ，EN消費5</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="184" height="24"> 
+        <div align="center"><font size="-1">Iフィールド（ν）</font></div>
+      </td>
+      <td width="774" height="24"><font size="-1">B係武器損傷減輕900 ，EN消費10，氣力110發動，νガンダムHWS專用</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="184" height="24"> 
+        <div align="center"><font size="-1">オーラバリア</font></div>
+      </td>
+      <td width="774" height="24"><font size="-1">近身格鬥係以外的武器損傷1500以下無效化，EN消費5，氣力110發動</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="184" height="24"> 
+        <div align="center"><font size="-1">ゴッドハンドファイナル</font></div>
+      </td>
+      <td width="774" height="24"><font size="-1">全武器損傷1500以下無效化，EN消費5，氣力110發動，バイカンフー專用</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="184" height="24"> 
+        <div align="center"><font size="-1">ディストーション·フィールド</font></div>
+      </td>
+      <td width="774" height="24"><font size="-1">B係武器損傷減輕1500 ，グラビティ係武器損傷減輕2500，其它武器損傷減輕1000，被ゲギガンランサー或フィールドランサー克制，EN消費20</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="184" height="24"> 
+        <div align="center"><font size="-1">ディストーションブロック</font></div>
+      </td>
+      <td width="774" height="24"><font size="-1">所受傷害上限為3000，防禦時上限1500，EN消費10</font></td>
+    </tr>
+  </table>
+  <p align="left"><b><font color="#FF0000">補注：男女主角的大技（女主角限定純白騎士）和木連軍的跳躍炮可以無視任何防禦罩</font></b><b><font color="#FF0000"><br>
+    </font></b></p>
+  <hr noshade>
+  <p align="left"><b><font color="#000099">人物特殊技能</font></b></p>
+  <table width="968" cellspacing="0" cellpadding="1" bordercolor="#000000" height="347" border="1">
+    <tr bordercolor="#330099"> 
+      <td height="33" width="106"> 
+        <div align="center"><b><font color="#000099">技能名称</font></b></div>
+      </td>
+      <td height="33" width="852"> 
+        <div align="center"><b><font color="#000099">说明</font></b></div>
+      </td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="106" height="45"> 
+        <div align="center"><font size="-1" color="#FF0000">集中力</font></div>
+      </td>
+      <td width="852" height="45"><font size="-1">SP消費量成爲80%</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td height="47" width="106"> 
+        <div align="center"><font size="-1">精神力+15</font></div>
+      </td>
+      <td width="852" height="47"><font size="-1">人物SP+15，直接體現在當前SP總量上</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="106" height="24"> 
+        <div align="center"><font size="-1">迴避率+15</font></div>
+      </td>
+      <td width="852" height="24"><font size="-1">人物迴避能力+15，直接體現在人物狀態欄的參數中</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="106" height="24"> 
+        <div align="center"><font size="-1">命中率+20</font></div>
+      </td>
+      <td width="852" height="24"><font size="-1">人物命中能力+20，直接體現在人物狀態欄的參數中</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="106" height="24"> 
+        <div align="center"><font size="-1">特殊技能LV+1</font></div>
+      </td>
+      <td width="852" height="24"><font size="-1">有LV標誌的技能等級+1，<font color="#0000FF">佔據一個技能欄</font></font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="106" height="24"> 
+        <div align="center"><font size="-1">鬥爭心</font></div>
+      </td>
+      <td width="852" height="24"><font size="-1">出擊時駕駛員初始氣力105</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="106" height="24"> 
+        <div align="center"><font size="-1">クリティカル+25</font></div>
+      </td>
+      <td width="852" height="24"><font size="-1">武器CT補正+25，直接體現在武器欄中</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="106" height="24"> 
+        <div align="center"><font size="-1">底力</font></div>
+      </td>
+      <td width="852" height="24"><font size="-1">HP損失一定程度後發動，對命中、迴避、裝甲、CT進行補正；隨等級提高發動時機提前，滿足<font color="#0000FF">（殘存HP比例&lt;底力等級*10%）</font>即發動 
+        ；發動後命中/迴避/裝甲+5%，CT+8，此後HP每減少10%，命中/迴避/裝甲+5%，CT+8</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="106" height="24"> 
+        <div align="center"><font size="-1">精神力+5</font></div>
+      </td>
+      <td width="852" height="24"><font size="-1">人物SP+5，直接體現在當前SP總量上</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="106" height="24"> 
+        <div align="center"><font size="-1">迴避率+10</font></div>
+      </td>
+      <td width="852" height="24"><font size="-1">人物迴避能力+10，直接體現在人物狀態欄的參數中</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="106" height="24"> 
+        <div align="center"><font size="-1">命中率+10</font></div>
+      </td>
+      <td width="852" height="24"><font size="-1">人物命中能力+10，直接體現在人物狀態欄的參數中</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="106" height="24"> 
+        <div align="center"><font size="-1">クリティカル+15</font></div>
+      </td>
+      <td width="852" height="24"><font size="-1">武器CT補正+15，直接體現在武器欄中</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="106" height="24"> 
+        <div align="center"><font size="-1" color="#FF0000">統率</font></div>
+      </td>
+      <td width="852" height="24"><font size="-1">可以發動同時援護攻擊，詳見第三節<a href="I_data03.htm"><font color="#0000FF">系統簡介</font></a>，LV表示一回合内可發動次數</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="106" height="24"> 
+        <div align="center"><font size="-1">援護攻擊</font></div>
+      </td>
+      <td width="852" height="24"><font size="-1">可以提供援護攻擊，LV表示一回合内可發動次數</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="106" height="24"> 
+        <div align="center"><font size="-1">援護防禦</font></div>
+      </td>
+      <td width="852" height="24"><font size="-1">可以提供援護防禦，LV表示一回合内可發動次數</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="106" height="24"> 
+        <div align="center"><font size="-1">防禦</font></div>
+      </td>
+      <td width="852" height="24"><font size="-1">機體擁有盾或劍係武器時，可以使用盾防或劍切，具體公式參見<font color="#0000FF">機體特殊技能</font></font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="106" height="22"> 
+        <div align="center"><font size="-1">ニュータイプ</font></div>
+      </td>
+      <td width="852" height="22"><font size="-1">每+1級，命中率/迴避率+3%；ファンネル係武器使用可能，NT7時射程+1，NT9時射程+2</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="106" height="24"> 
+        <div align="center"><font size="-1">強化人間</font></div>
+      </td>
+      <td width="852" height="24"><font size="-1">LV1-LV6，每+1級，命中率/迴避率+2%，LV6-LV7，+3%，LV7-LV8，+4%，LV8-LV9，+2%；ファンネル係武器使用可能，LV7時射程+1</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="106" height="24"> 
+        <div align="center"><font size="-1">圣戰士</font></div>
+      </td>
+      <td width="852" height="24"><font size="-1">每+1級，迴避率+5%，ハイパーオーラ斬攻擊力+100，オーラバリア在LV1和LV2各+100耐久，此後每級+50</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="106" height="24"> 
+        <div align="center"><font size="-1">忍者</font></div>
+      </td>
+      <td width="852" height="24"><font size="-1">每+1級，命中率/迴避率+2%，CT在LV1和LV2時+3，此後+4；必殺技“忍者殺法”使用可能</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="106" height="24"> 
+        <div align="center"><font size="-1">超能力</font></div>
+      </td>
+      <td width="852" height="24"><font size="-1">LV4時，命中率/迴避率+5%，此後每級+3%，每級提升武器攻擊力50</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="106" height="24"> 
+        <div align="center"><font size="-1">頑固一徹</font></div>
+      </td>
+      <td width="852" height="24"><font size="-1">HP低於50%發動，裝甲+300，被擊中後氣力+2</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="106" height="24"> 
+        <div align="center"><font size="-1">反骨心</font></div>
+      </td>
+      <td width="852" height="24"><font size="-1">HP低於50%發動，裝甲+200，命中率+30，被擊中後氣力+2</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="106" height="24"> 
+        <div align="center"><font size="-1">逆切れ</font></div>
+      </td>
+      <td width="852" height="24"><font size="-1">被擊中後氣力+2</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="106" height="24"> 
+        <div align="center"><font size="-1" color="#FF0000">逆恨み</font></div>
+      </td>
+      <td width="852" height="24"><font size="-1">踫到特定角色後，攻擊力成爲1.5倍，相當於每擊附帶熱血@@</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="106" height="24"> 
+        <div align="center"><font size="-1">野性化</font></div>
+      </td>
+      <td width="852" height="24"><font size="-1">氣力130發動，攻擊力成爲1.2倍，獸戰機隊專用</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="106" height="24"> 
+        <div align="center"><font size="-1" color="#0000FF">預知能力</font></div>
+      </td>
+      <td width="852" height="24"><font size="-1">氣力110發動，本方回合開始時自動附加“ひらめき”</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="106" height="24"> 
+        <div align="center"><font size="-1" color="#FF0000">がんばり屋</font></div>
+      </td>
+      <td width="852" height="24"><font size="-1">氣力120發動，本方回合開始時自動附加“努力”</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="106" height="24"> 
+        <div align="center"><font size="-1" color="#FF0000">念動力</font></div>
+      </td>
+      <td width="852" height="24"><font size="-1">本方回合開始時自動回復1/5MAXSP 好技能@@可惜只得一個人有</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="106" height="24"> 
+        <div align="center"><font size="-1" color="#FF0000">強运</font></div>
+      </td>
+      <td width="852" height="24"><font size="-1">獲得資金1.5倍，可与“幸运”、“祝福”疊加</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="106" height="24"> 
+        <div align="center"><font size="-1">カウンター</font></div>
+      </td>
+      <td width="852" height="24"><font size="-1">在受到敵攻擊時搶先攻擊敵人，LV表示一回合内可發動次數</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="106" height="24"> 
+        <div align="center"><font size="-1" color="#0000FF">先手必勝</font></div>
+      </td>
+      <td width="852" height="24"><font size="-1">氣力120發動，無限使用カウンター</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="106" height="23"> 
+        <div align="center"><font size="-1" color="#0000FF">精神統一</font></div>
+      </td>
+      <td width="852" height="23"><font size="-1">SP殘量不足MAXSP的20%時，本方回合開始時自動回復MAXSP的10%</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="106" height="24"> 
+        <div align="center"><font size="-1" color="#FF0000">起死回生</font></div>
+      </td>
+      <td width="852" height="24"><font size="-1">HP/EN/SP全部不足20%時，本方回合開始時全回復！（想零改挑戰夏亞嗎？那就學會用這個技能吧:p）</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="106" height="24"> 
+        <div align="center"><font size="-1">ナノマシン處理</font></div>
+      </td>
+      <td width="852" height="24"><font size="-1">乘坐エステバリス必需技能</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="106" height="24"> 
+        <div align="center"><font size="-1" color="#FF0000">A級ジャンパー</font></div>
+      </td>
+      <td width="852" height="24"><font size="-1">氣力120發動，可進行ボソンジャンプ</font></td>
+    </tr>
+    <tr bordercolor="#330099"> 
+      <td width="106" height="24"> 
+        <div align="center"><font size="-1" color="#FFCC66">2回行動</font></div>
+      </td>
+      <td width="852" height="24"><font size="-1">這個<font color="#FF0000">逆天</font>的技能只有飛影（<font color="#336633">AI</font>）能用，同學們就不要想了T.T</font></td>
+    </tr>
+  </table>
+  <p align="left"><b><font color="#FF0000"> </font></b><font color="#000099"><b> 
+    </b> </font> </p>
+  <hr noshade>
+  <p><font color="#000099"><a href="I_data05.htm">【Back】</a> <a href="I_top.htm">〖Top〗</a> 
+    <a href="I_data07.htm">【Next】</a></font></p>
+  <p align="left">&nbsp;</p>
+  </div>
+</body>
+</html>

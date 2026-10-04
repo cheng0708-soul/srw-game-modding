@@ -1,0 +1,337 @@
+<html>
+<head>
+<title>Impact-第一部-SCENE 4</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+</head>
+
+<body bgcolor="#FFFFFF" background="bg.jpg" link="#6600CC" vlink="#6600CC" alink="#0099CC">
+<div align="center"> <font color="#000099">★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★</font> 
+  <p align="center"><b><font color="#000066" size="+1">第一部 地上激動篇</font></b></p>
+  <p align="center"><b><font color="#990099">SCENE 4 「地底帝國侵略」</font><br>
+    </b></p>
+  <p align="center"><font color="#000099"><br>
+    ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆</font></p>
+  <hr noshade>
+  <p align="left"><font size="-1"><b><font color="#FF0000" size="+1">本篇注意事項：</font></b></font></p>
+  <p align="left"><font size="-1">■■</font></p>
+  <p align="left"><font size="-1">1.第一個關卡“獸戰機隊基地”中，如果此前在SCENE1讓暗黑大將軍成功竊取大魔神的設計圖，而且鉄也沒有上宇宙的話，可以讓鉄也在此話<font color="#0000FF">説得量產型大魔神</font>；如果甲兒在這話登場，出現的將是タンデ，打倒他後得到<font color="#0000FF">V-UPユニット（U）</font></font></p>
+  <p align="left"><font size="-1">2.<font color="#660000">按照南原コネクション→大西洋火山島的順序選擇，夏京會作爲敵增援出現</font>；不過順序反過來的話就不會，因爲那個時候他已經被萊丁幹掉了:p</font></p>
+  <p align="left"><font size="-1">3.在最後一話「嵐の中で輝いて」中，<font color="#0000FF">如果此前發生了雪山事件，那麽シロー就能夠說得アイナ</font>；此後用<font color="#0000FF">アイナ和バーニィ</font>先後向ノリス進行說得即可讓他加入<br>
+    如果沒有發生雪山事件，直接擊毀阿普薩拉斯II也能收到愛娜，但是這樣的話就無法使諾利斯和兩架機體加入了</font></p>
+  <p align="left"><font size="-1">4.本SCENE完結後，克連泰沙、萊丁、艾爾珊克上宇宙增援朗德·貝爾，想要改造的請在20話之前完成（<font color="#660000">特別是克連泰沙，這對於宇宙篇前期的戰鬥有莫大的幫助</font>） 
+    </font><br>
+    <font size="-1"> </font></p>
+  <hr>
+  <p align="left"><font color="#0000FF">第17話 絕對零度の罠</font></p>
+  <p align="left"><font size="-1">----------<br>
+    ■■<font color="#660000">戰前準備：超級係全員移動力強化，這一話非常趕時間，廢鐵米氏推進器裝備</font></font></p>
+  <p align="left"><font size="-1">----------<br>
+    <font color="#0000FF">熟練度：</font>擊破暗黑大將軍 ， HP 29000 30%（8700）敗退</font></p>
+  <p align="left"><font size="-1" color="#0000FF">我方初期配置：</font><font size="-1">葉月（ガンドール）、ロミナ（エルシャンク），自選12機</font></p>
+  <p align="left"><font size="-1" color="#0000FF">敵方初期配置：</font><font size="-1">暗黑大將軍、人工知能（量產型グレート）X4、人工知能（機械獸ジェノバM9）X4、人工知能（戰鬥獸オベリウス）X6 
+    </font></p>
+  <p align="left"><font size="-1" color="#0000FF">我方援軍：</font><font size="-1">敵初期配置全滅後 
+    左側陸地 デューク（グレンダイザー）、マリア（アフロダイA） </font></p>
+  <p align="left"><font size="-1" color="#0000FF">敵援</font><font size="-1">：敵初期配置全滅後 
+    左上陸地 ズリル（マザーバーン） HP 22000 30%（6600）敗退、キリカ（ミニフォー） HP 15465 30%（4640）撤退、ベガ兵（ベガ獸ズメズメ）X3、ベガ兵（ミニフォー）X6 
+    </font></p>
+  <p align="left"><font size="-1" color="#0000FF">中立方：</font><font size="-1">5E 
+    飛影</font></p>
+  <p align="left"><font size="-1" color="#0000FF">強化部件：</font><font size="-1">超合金ニューZ（暗黑大將軍）、高性能レーダー（ミニフォー(キリカ)）、對ビームコーティング（マザーバーン）、ブースター（戰鬥獸オベリウス） 
+    </font></p>
+  <p align="left"><font size="-1">----------<br>
+    ■■<font color="#660000">由於一會兒的敵援軍出現在另一個角落，所以最好能夠留一些主力先往左上角慢慢爬，而如果對自己有信心...的話，暗黑大將軍那邊就盡量使用少數精銳吧-0-</font></font></p>
+  <p align="left"><font size="-1" color="#660000">我的陣型是，大魔神、萊丁（這個時候洸已經有援護攻防了）、泰坦3主攻暗黑大將軍；兩只母艦帶領兩個圣戰士對付右側的戰鬥獸；爆竜躲在水裏攻擊水壩附近的敵人，其他人有加速的過來協助一下爆竜，沒加速的就慢慢往左上龜步...</font></p>
+  <p align="left"><font size="-1">1P：兩綫攻勢同時展開，圣戰士每人一個氣合，近身用奧拉斬砍人，30~50%的被彈率請自行解決:p 
+    對付戰鬥獸最好不要採用埋身戰法，被它的1格武器打到會比較痛，另外就是注意一下鹹蛋超人的射程，不要貿然上去被當靶子來打</font></p>
+  <p align="left"><font size="-1">1E：反擊</font></p>
+  <p align="left"><font size="-1">2P：戰鬥獸全滅，鹹蛋一體爆，爆竜移動到大壩旁吸引火力；鉄也和洸互援，進入量產型大魔神的攻擊範圍，預備下回合說得；扎古已經爬到對岸了:p</font></p>
+  <p align="left"><font size="-1">2E：量產大魔神的金鋼火焰非常凶，請在最危急的時候動用洸的援防</font></p>
+  <p align="left"><font size="-1">3P：鉄也說得成功（任意一架，擊墜過版後入手），洸、萬丈排排坐，等著吃暗黑大將軍的超破壞光綫；響介、豹馬加速与巴尼會合<br>
+    雜兵只剩3只量產型跟1只鹹蛋<br>
+    P.S：葉月學會突擊了的話可以好好利用，洸跟鉄也都是能在地面進行援護的</font></p>
+  <p align="left"><font size="-1">3E：被打的好痛啊啊啊XD</font></p>
+  <p align="left"><font size="-1">4P：南綫圍攻暗黑大將軍（他出手太重了啦XD），不要吝惜熱血，反正待會兒也用不上；羅米娜的脫力可以換成信賴來救急<br>
+    兩個圣戰士打完了就回基地補EN，準備對付左上的3只小飛碟</font></p>
+  <p align="left"><font size="-1">4E：反擊</font></p>
+  <p align="left"><font size="-1">5P：給鉄也祝福，努力熱血GB攻擊+萊丁神鳥援護，終于送走了暗黑大將軍<br>
+    敵初期配置全滅後，キリカ出現（剛剛在宇宙打了敗仗逃下來的），大介和瑪麗亞亦追擊而至<br>
+    爲了阻擋追兵，キリカ使用冷凍光綫凍結了基地附近的湖，同時敵增援</font></p>
+  <p align="left"><font size="-1">那麽，左上第二陣，進擊開始！<br>
+    以兩個BOSS為攻擊目標，打不到的就去打ベガ獸ズメズメ，飛碟可以用反擊對付，不要浪費攻擊次數在它身上；大介有統率，可以好好利用</font></p>
+  <p align="left"><font size="-1">5E：飛影到著！</font></p>
+  <p align="left"><font size="-1">6P：飛影合體判定，海魔出擊！響介、豹馬、巴尼，配合大介在BOSS面前佈陣，其他人把小兵清光</font></p>
+  <p align="left"><font size="-1">6E：反擊，對BOSS請盡可能用大招，反正他們的敗退HP很低，熱血一加肯定能打下來 7P：マザーバーン價值1W4，有可能的話給巴尼打爆，多掙7K呢<br>
+    擊退キリカ後，瑪麗亞會以兄妹之情打動她，使她留下了那把能夠治愈放射病的光綫槍</font></p>
+  <p align="left"><font size="-1" color="#660000"><br>
+    7回合，鬥爭心→萬丈（這樣再搭個撲克紋章出來就能用比較厲害的菜刀了，不錯不錯）</font></p>
+  <p align="left"><font size="-1">----------<br>
+    回到極東支部，當日並肩作戰的夥伴只剩下響介和巴尼，還有葉月老大了（野獸眾上了宇宙，08小隊MIA中...）</font></p>
+  <p align="left"><font size="-1">然後談起錠等人去了拜士淵洞，正替他們擔心的時候那個一臉衰樣的ガメラン又出來JJWW，於是我們的王女姐姐終于發怒了（好、好，大快人心！）</font></p>
+  <p align="left"><font size="-1">這時，南原研究所發來求救信號，同時亦傳來了洸的父親遭妖魔帝國綁架的消息</font></p>
+  <p align="left"><font size="-1">----------<br>
+    ■■改造：建議改滿大介的武器，絕對有好處</font></p>
+  <p align="left"><font size="-1">■■強化：如果是一路改造過來的話現在應該無論怎麽分配也行的啦，注意強化一下超級係的移動力就得；而如果衝零改的一定要給鉄也裝上W，因爲下一話又有12XXXHP撤退的可恥BOSS</font></p>
+  <p align="left"><font size="-1">■■換乘：瑪麗亞有2個援護等級，強烈推薦她去坐量產大魔神；巴尼可以換上傑布蘭</font></p>
+  <p align="left"><font size="-1">■■<font color="#660000">版面選擇：南原コネクション</font></font></p>
+  <p align="left"><font size="-1" color="#660000">進入下一話<br>
+    </font><font size="-1"> </font> </p>
+  <hr>
+  <p align="left"><font color="#0000FF">第18話 戰いの風の中へ</font></p>
+  <p align="left"><font size="-1">----------<br>
+    <font color="#0000FF">熟練度：</font>擊破ビッグガルーダ， HP 25000，50%（12500）敗退</font></p>
+  <p align="left"><font size="-1" color="#0000FF">我方初期配置：</font><font size="-1">葉月（ガンドール）、ロミナ（エルシャンク）、豹馬（コン·バトラーV），自選11機</font></p>
+  <p align="left"><font size="-1" color="#0000FF">敵方初期配置：</font><font size="-1">ガルーダ（ビッグガルーダ）、ミーア（マグマ獸デモン） 
+    HP 16300 不撤退、人工知能（マグマ獸デモン）X12、人工知能（マグマ獸ガルムス）X6 </font></p>
+  <p align="left"><font size="-1" color="#0000FF">敵援</font><font size="-1">：1E 
+    シャーキン（ガンテ） HP 19900 50%（9950）敗退、人工知能（ギルディーン）X2、人工知能（巨烈獸マダンガー）X2、人工知能（ドローメ）X4</font></p>
+  <p align="left"><font size="-1" color="#0000FF">強化部件：</font><font size="-1">V－UPユニット（W）（ビッグガルーダ）、メガブースター（ガンテ）、マグネットコーティング（マグマ獸デモン(ミーア)）</font></p>
+  <p align="left"><font size="-1">----------</font><br>
+    <font size="-1"><font color="#990099">（這話跟第一次碰羅麗那話敵我配置方位剛好反過來@@）</font></font></p>
+  <p align="left"><font size="-1">■■<font color="#660000">出陣：拙者的場合是讓大魔神、萊丁、泰坦3、廢鐵主攻南綫，修理機跟進；巴尼、托多負責左下研究所附近的敵人；其餘人馬應付敵援軍</font></font></p>
+  <p align="left"><font size="-1">1P：鉄也隊、巴尼隊分別朝預定方向移動，補給機可以跟上巴尼，準備補EN；本隊往左上角移動，注意排援護陣型</font></p>
+  <p align="left"><font size="-1">1E：夏京出現於最左上角（口胡，才這麽幾個人也敢來攪局麽？）<br>
+    三軍混戰開始</font></p>
+  <p align="left"><font size="-1">2P：北綫往樹林裏移動，一則爲了提高防禦力，二則也是爲了能打到躲在後面的幾只巨烈獸，想免費狙擊？殘念ですの~~<br>
+    南綫一直衝，打不死的就等它們在敵回合自己撞上來（會被打的比較慘就是了XD）</font></p>
+  <p align="left"><font size="-1" color="#FF00FF"><b>說起來...好像我把劇情人物放反了耶@@</b></font><font size="-1"><br>
+    <font color="#990000">（加魯達：葵豹馬！你有種的就給我過來！！</font><br>
+    <font color="#000099">夏京：萊丁！有種的你就不要跑！！）</font><br>
+    @@</font></p>
+  <p align="left"><font size="-1">2E：反擊</font></p>
+  <p align="left"><font size="-1">3P：北綫的部隊盡可能多的殺雜兵，給南綫部隊提供氣力<br>
+    南綫在加速衝的同時處理那些マグマ獸，鉄也的氣力越高越好，可以放萊丁斷後，不但不傷血還免費漲氣力（萊丁和萬丈的盾牌太強了！氣力上了130後完全無視マグマ獸ガルムス的攻擊，當然，我的裝甲快1500:p）<br>
+    巴尼小隊敵陣突入，激闘開始！</font></p>
+  <p align="left"><font size="-1">3E：托多奧拉斬斬斬斬斬——咦，怎麽才這麽點EN，巴尼隨便打幾槍也快空了XD<br>
+    另一邊，萊丁已經反掉敵人n多血了，好樣的~~</font></p>
+  <p align="left"><font size="-1">4P：北綫站位，預備下回合“一擊殺蝦”:p<font color="#990000"><br>
+    南綫...爲什麽萬丈爬的這麽慢！爲什麽響介只有1K不到的HP了！爲什麽關鍵時刻修理機搶經驗去了XD</font><br>
+    想到馬上就要過去挨那小兩口的招，勉強從王女那裏擠出一個信賴給他挂上（其他人的SP還要留著用激勵呢，比起來脫力算是比較不重要那麽一點，汗...）<br>
+    巴尼那邊，你砍樹來我打鳥，順利的很:p 母艦可以順便下來幫幫忙</font></p>
+  <p align="left"><font size="-1"><br>
+    4E：響介硬食加魯達連擕攻擊！還剩下200點不到\￣□￣/ 待會兒還要再挨米亞一次攻擊...<br>
+    <font color="#990000">響介，希望你能活下來（爆）</font><br>
+    但問題是...米亞是最後出手的...也就是說，這麽多戰鬥要全部看一邊...<br>
+    <font color="#FF00FF">不管了，響介，我看好你！幾萬米高空都沒把你怎麽樣，這個機械獸只是小意思！（再爆）</font></font></p>
+  <p align="left"><font size="-1"><b>塞弗羅德大法始動！</b><br>
+    <font color="#FF6600">只見巴尼奇跡般地連閃2次70多的攻擊...</font><br>
+    </font><font color="#333300">巴尼：各位，請叫我創造奇跡的男人吧！</font><font size="-1"><br>
+    <font color="#660000">眾人：閃開閃開！不要佔了我傢小響的运氣！</font></font></p>
+  <p align="left"><font size="-1" color="#990099">終于，塞弗羅德的咒文念到第5遍，響介閃過了61%的攻擊<br>
+    響介：...（擦汗）</font></p>
+  <p align="left"><font size="-1"><br>
+    5P：惡夢還沒有結束<br>
+    忘了克連泰沙是陸A（好象超級係主力就這個是陸A），然後就意味著需要凹CT了@@<br>
+    豹馬的CT率太低了！<br>
+    羅米娜：事到如今，也只有這個辦法了——フォトン砲，發射！<br>
+    豹馬大破！！（狂汗）<br>
+    <font color="#000099">然後現在就是65% X 37%=？<br>
+    不管，慢慢凹吧￣▽￣</font></font></p>
+  <p align="left"><font size="-1">夏京終于拍拍PP走人了<br>
+    還有小兩口<br>
+    先把礙事的米亞做掉，加魯達可以慢慢來，反正我也不想搶5回合:p</font></p>
+  <p align="left"><font size="-1"><br>
+    5E：有萊丁幫著援防就輕鬆多了，響介可以先把王牌用出去一張（裝著大型彈匣呢）</font></p>
+  <p align="left"><font size="-1">6P：鉄也熱血GB攻擊+響介王牌援護！加魯達KO！（當然不要忘了加上努力祝福）<br>
+    孔巴V追擊加魯達，暫時離隊</font></p>
+  <p align="left"><font color="#000066">現在都是些140多氣力，殺紅了眼的人（HP也紅了）<br>
+    那，雑魚們，覺悟吧！</font><font size="-1"><br>
+    （感覺是在用牛刀:p）</font></p>
+  <p align="left"><font size="-1"><br>
+    <font color="#660000">6回合，SP+15→明日香麗（本來準備拿給大作的，誰知他跑掉了XD）</font></font></p>
+  <p align="left"><font size="-1">這個回合數應該是零改的極限了吧，滿意:p</font></p>
+  <p align="left"><font size="-1">----------<br>
+    ■■照舊是以移動力強化爲主，下一話沒有會跑的BOSS，可以松口氣了（我、我要搶5回合...好像不太可能的樣子@@）</font></p>
+  <p align="left"><font size="-1">■■<font color="#660000">版面選擇：大西洋火山島</font></font></p>
+  <p align="left"><font size="-1" color="#660000">進入下一話<br>
+    </font><font size="-1"> </font> </p>
+  <hr>
+  <p align="left"><font color="#0000FF">第19話 皇子、最期の賭け </font></p>
+  <p align="left"><font size="-1">----------<br>
+    ■■<font color="#660000">戰前準備：巴尼換乘扎古改，大型彈匣、W裝備；其他配置參照上一話</font></font></p>
+  <p align="left"><font size="-1">----------<br>
+    <font color="#0000FF">熟練度：</font>以萊丁擊破夏京（HP 32000 ，不撤退）</font></p>
+  <p align="left"><font size="-1" color="#0000FF">我方初期配置：</font><font size="-1">葉月（ガンドール）、ロミナ（エルシャンク）、洸（ライディーン）、神宮寺（ブルーガー）</font></p>
+  <p align="left"><font size="-1" color="#0000FF">敵方初期配置：</font><font size="-1">シャーキン（プリンス＝シャーキン）、人工知能（ガンテ）X2 
+    HP 19000、人工知能（ギルディーン）X6、人工知能（巨烈獸マダンガー）X4、人工知能（ドローメ）X10 </font></p>
+  <p align="left"><font size="-1" color="#0000FF">中立方：</font><font size="-1">敵增援時出現 
+    飛影</font></p>
+  <p align="left"><font size="-1" color="#0000FF">敵援：</font><font size="-1">敵數量10體或以下 
+    人工知能（合體巨烈獸ガードン）X4、人工知能（化石獸バストドン）X6 </font></p>
+  <p align="left"><font size="-1" color="#0000FF">強化部件：</font><font size="-1">精神エナジー裝置（プリンス＝シャーキン）、超合金ニューZ（ガンテ）、アポジモーター（ガンテ）</font></p>
+  <p align="left"><font size="-1">----------<br>
+    <font color="#FF0000">本話只要打倒夏京即告結束</font><br>
+    這麽看來，直取夏京、5回合達成是很簡單的事？但是...這就意味著...要放掉大把的$...<br>
+    <font color="#FFCC00">我要錢...我要錢...（碎碎念）</font></font></p>
+  <p align="left"><font size="-1">管他呢，走一步算一步再説</font></p>
+  <p align="left"><font size="-1"><br>
+    ■■<font color="#FF00FF">（這関又是那首超喜歡的戰場BGM）</font></font></p>
+  <p align="left"><font size="-1" color="#660000">出陣：1.廢鐵、2.爆竜、3.維納斯A、4.バストール、5.傑布蘭、6.登拜因（托多）、7.扎古改、8.泰坦3、9.克連泰沙、10.大魔神、11.量產型大魔神</font></p>
+  <p align="left"><font size="-1">鉄也、廢鐵、爆竜主攻東綫，萬丈、大介、洸、巴尼主攻西綫；兩個圣戰士一人走一邊，母艦也分開走</font></p>
+  <p align="left"><font size="-1">那麽，上吧</font></p>
+  <p align="left"><font size="-1" color="#0000FF">要旨：行動一定要快，一定要在3E把敵援軍打出來，不然5回合絕無希望</font></p>
+  <p align="left"><font size="-1">1P：圣戰士每人氣合一次，洸氣合，葉月和炎純給麥克、大介激勵<br>
+    東綫，遠程火力削弱中間的4只ドローメ，最後一擊留給響介和鉄也；西綫，泰坦3和萊丁先行衝陣，敵人的武器奈何不了他倆的盾牌<br>
+    後援部隊跟進</font></p>
+  <p align="left"><font size="-1">1E：反擊，但是不要過分消耗EN，後面還有2只ガンテ要打</font></p>
+  <p align="left"><font size="-1">2P：ドローメ隊全滅，兩綫先鋒分別逼近ガンテ，大介挂鉄壁，敵陣突入（裝甲3200！哇卡卡卡~~ 
+    後來才想到，其實用不著這麽誇張的，讀盤讀盤XD）</font></p>
+  <p align="left"><font size="-1">2E：西綫大介一騎當千，對雜兵全部飛拳反擊，對ガンテ用天雷；東綫ガンテ會採取攻勢，盡量反擊即可</font></p>
+  <p align="left"><font size="-1">3P：西綫熱血用上，以洸起頭，殲滅ガンテ（最後一擊給巴尼加祝福來打，錢好多的），兩只偽萊丁無視，王女姐姐稍微往下移動，準備給增援吃map<br>
+    東綫不要急著打ガンテ，先打小兵，把敵人數量打到10個（能多打自然最好），鉄也向夏京逼近，準備給他面前的巨烈獸挨個吃飛拳；爆竜斷後</font></p>
+  <p align="left"><font size="-1">3E：敵增援 原先左右兩隊ドローメ的位置，化石獸バストドン各3只；合體巨烈獸ガードンX4，沿著本隊出擊點上方的海岸綫排開<br>
+    同時飛影到著<br>
+    本來預計要給它們吃map的，結果被射程1的化石獸團團圍住XD<br>
+    爆竜一挑四，不要怕少血，反正下回合能合體，HP自動加滿，到時候用蠟燭+電擊棒（？）配合熱血一下一只<br>
+    主戰區那邊，能反擊到夏京的盡量打，多少不論，消耗他的盾牌足矣</font></p>
+  <p align="left"><font size="-1">4P：飛影合體判定，海魔出擊！<br>
+    下方的合體巨烈獸增援區交給海魔一個人搞定<br>
+    兩只母艦帶上補給修理機，配合圣戰士、巴尼、羅莎美收拾化石獸<br>
+    火山口主戰區先把夏京的盾打光，有餘力的留一個熱血的量，對付夏京身邊的巨烈獸</font></p>
+  <p align="left"><font size="-1">4E：夏京旁邊那一圈盡量用最大技反擊，務必打死，否則下回合很可能騰不出手來（我的場合是，還剩兩只，剛好讓響介和瑪麗亞一人一個）</font></p>
+  <p align="left"><font size="-1">5P：下面的兩隊化石獸全滅確定（托多有集中麗有預知，看准了沒關係map轟下去吧:p）<br>
+    巨烈獸、偽萊丁全滅確定（當然那兩人的援護先用掉）<br>
+    對付夏京請愛用統率，萬丈和鉄也的熱血最大技再統率一下，一輪可以幹他1W以上<br>
+    剩下6K不到，洸熱血努力祝福，搭配大介的援護就解決了</font></p>
+  <p align="left"><font size="-1" color="#FF0000">最後是萊丁与夏京的單挑動畫</font></p>
+  <p align="left"><img src="guide_10.jpg" width="480" height="320"> <img src="guide_11.jpg" width="480" height="320"></p>
+  <p align="left"><font size="-1" color="#FF00FF">（這兩人是在cosplay特列斯跟張五飛嗎？）</font></p>
+  <p align="left"><font size="-1" color="#660000"><br>
+    5回合達成！！集中力→響介</font></p>
+  <p align="left"><font size="-1">----------<br>
+    ■■基亞納高地，在修巴魯玆的指引下，多蒙感受到“死”的恐懼的同時領悟了明鏡止水的意義，就在修行即將大功告成之際，DG襲來</font></p>
+  <p align="left"><font size="-1">探測到異常現象的ガンドール隊立刻趕去</font></p>
+  <p align="left"><font size="-1">■■<font color="#660000">下一話，「水之一滴」<br>
+    真劍勝負！師匠！</font></font><font color="#660000"><br>
+    </font> </p>
+  <hr>
+  <p align="left"><font color="#0000FF">第20話 水のひとしずく</font> </p>
+  <p align="left"><font size="-1">----------<br>
+    <font color="#0000FF">熟練度：</font>擊破東方不敗（HP 51300， 不撤退，但若惡魔鋼彈被擊倒他也會跟著撤退）</font></p>
+  <p align="left"><font size="-1" color="#0000FF">我方初期配置：</font><font size="-1">レイン（シャイニングガンダム）</font></p>
+  <p align="left"><font size="-1" color="#0000FF">敵方初期配置：</font><font size="-1">ゾンビ兵（デスバーディ）X6</font></p>
+  <p align="left"><font size="-1" color="#0000FF">我方援軍：</font><font size="-1">2P 
+    シュバルツ（ガンダムシュピーゲル）；敵增援同時，本隊到著</font></p>
+  <p align="left"><font size="-1" color="#0000FF">中立方：</font><font size="-1">明鏡止水事件後4回合 
+    飛影</font></p>
+  <p align="left"><font size="-1" color="#0000FF">敵援：</font><font size="-1">敵初期配置全滅後的敵回合 
+    東方不敗（マスターガンダム）、キョウジ（デビルガンダム）、？？？（アインストクノッヘン）X6、？？？（アインストグリート）X3</font></p>
+  <p align="left"><font size="-1" color="#0000FF">強化部件：</font><font size="-1">シャッフルの紋章（マスターガンダム）、宇宙合金グレン（デビルガンダム）、バイオセンサー（アインストクノッヘン） 
+    </font></p>
+  <p align="left"><font size="-1">----------<br>
+    ■■<font color="#660000">一開始只有玲一個人，想碰运氣的話就放個必閃衝上去砍</font></font></p>
+  <p align="left"><font size="-1">1P：玲必閃狙擊，距第一個敵人5格以外待機（這樣做是爲了把河對岸那只引過來）</font></p>
+  <p align="left"><font size="-1">1E：反擊1次</font></p>
+  <p align="left"><font size="-1">2P：修巴魯玆、多蒙到著，多蒙坐上閃光，開始反擊<br>
+    修巴魯玆那邊根本不用擔心，全軍第一的技量可不是吹的，加上忍者的技能加成，對付區區3個雑魚一點問題都沒有；倒是多蒙需要照顧一下，安全起見先來個擾亂罷，然後自己再氣合一下</font></p>
+  <p align="left"><font size="-1">2E：反擊，多蒙如果連續被打到就自己去撞墻罷-_-</font></p>
+  <p align="left"><font size="-1">3P：多蒙熱血，砍死1個；修巴魯玆卡位，準備用大招</font></p>
+  <p align="left"><font size="-1">3E：多蒙用閃光手指反擊，再爆1頭，修巴魯玆側敵全滅</font></p>
+  <p align="left"><font size="-1">4P：最後一個敵人，閃光手指送它上天（注意站位，如果站到河岸附近的話待會兒師匠很有可能跑到河裏去，那樣就比較麻煩了）</font></p>
+  <p align="left"><font size="-1">4E：東方不敗、DG增援，明鏡止水劇情發生（修巴魯玆HP-80%，多蒙HP全回復，習得技能“明鏡止水”）<br>
+    本隊增援，原種係增援（出擊的時候在2號位放一個反擊比較強的人，可以先打一下）</font></p>
+  <p align="left"><font size="-1">5P：脫力X2給師匠吃，然後也是慣例的消耗EN開始（61級了，天哪）<br>
+    托多氣合，挂集中砍前面的3只骨頭，母艦留一只下來幫忙；萬丈激勵兩次，洸氣合，過去耗師匠，剩下有種的也上去耗，沒種的...躲到響介和瑪麗亞身邊去<br>
+    修巴魯玆給個信賴，去牽制河對岸的3只植物，注意不要踏入DG射程（6格）</font></p>
+  <p align="left"><font size="-1">5E：小心反擊</font></p>
+  <p align="left"><font size="-1">6P：補給機就位，準備補多蒙；要長氣力的殺骨頭，不用氣力的耗EN，預備下回合總攻師匠；同時注意一下植物的map</font></p>
+  <p align="left"><font size="-1">6E：<font color="#666666">多蒙已經沒EN了...只能拿刀砍...1K都砍不到...</font></font></p>
+  <p align="left"><font size="-1">7P：熱血、統率、援護，能用的都用了，爲什麽這師匠的HP還沒出來！！在攻擊主力全員瀕死的情況下，終于看到了他的HP——<font color="#FF00FF">51300</font>！！<br>
+    天、天、天文數字@@<br>
+    後面還有一只惡魔鋼彈啊@@<br>
+    這仗怎麽打XD</font></p>
+  <p align="left"><font size="-1">7E：多蒙閃光指劍反擊，還剩3K多...惡魔鋼彈的擴散粒子炮打迴避280的托多居然有56%@@</font></p>
+  <p align="left"><font size="-1">8P：多蒙閃光指劍最後一擊，終于...送走了師匠<br>
+    剩下的惡魔鋼彈只有底力3，而且不是超強氣，還好還好，不過打掉1/3HP的時候會超根性一下<font color="#660000">（你、你、你這無恥之徒XD）</font></font></p>
+  <p align="left"><font size="-1">8E：飛影到著</font></p>
+  <p align="left"><font size="-1">9P：海魔合體成功，問題是...氣力不夠用不了電擊棒@@<br>
+    <b>浴血苦戰，終于搞定 </b><br>
+    <font color="#660000">不要問我爲什麽這麽簡單，實在是沒力氣寫了XD 總之就是好不容易補回來1K多的血，碰DG一下又被摸光的...這種程度<br>
+    （多蒙和DG對戰會有劇情對話）</font></font></p>
+  <p align="left"><font size="-1">敵全滅之後，阿魯菲米和阿姆羅等人通過奧拉之路出現在眾人面前，看起來好像是正在交戰的時候進行了跳躍的樣子<br>
+    羅麗發現DG已被破壞，於是先行撤退</font></p>
+  <p align="left"><font size="-1"><br>
+    <font color="#660000">9回合，闘爭心→ジョウ（剛好有機會給他裝，其他時候説不定都捨不得）</font></font></p>
+  <p align="left"><font size="-1">----------<br>
+    ■■<font color="#660000"></font>由於吉恩軍星屑作戰發動，基尼亞斯的阿普薩拉斯計劃遭到凍結，於是他孤注一擲，讓愛娜使用阿普薩拉斯攻擊宇宙科學研究所</font></p>
+  <p align="left"><font size="-1">為增援朗德·貝爾，大介和瑪麗亞準備回到宇宙；而洸聽説原種系列也在宇宙中出現，打算去一探究竟<br>
+    爲此，羅米娜決定使用艾爾珊克的微跳躍航法把他們送往目的地，眾人啓程，前往宇宙科學研究所</font></p>
+  <p align="left"><font size="-1">----------<br>
+    ■■<font color="#660000"></font>克連泰沙、萊丁、艾爾珊克離隊</font></p>
+  <p align="left"><font size="-1">■■<font color="#660000"></font>瑪貝露帶來的圣戰士“寳津”（ボチューン）是相當有趣的機體，看起來雖然不顯眼，但是全改以後能力突飛猛進，尤其是它的攻擊力更是可觀，建議想重用圣戰士的同學不妨利用一下這台機體，奧拉大斬只要120氣力喔~</font></p>
+  <p align="left"><font size="-1">■■<font color="#660000"></font>另外，著重強化飛龍號的移動力，下一話要拿母艦當运輸艦來用<br>
+    忍者眾、小白強制出擊，記得強化；蓋塔裝上光束護罩，有水兵要打</font></p>
+  <p align="left"><font size="-1">----------</font></p>
+  <p align="left"><font size="-1">■■<font color="#660000"></font></font><font size="-1" color="#660000">下一話 
+    「在暴風中閃耀的光輝」</font></p>
+  <p align="left"><font size="-1" color="#660000">聽到我的呼喚了嗎？愛娜！</font></p>
+  <p align="left">&nbsp; </p>
+  <p align="left"></p>
+  <hr>
+  <p align="left"><font color="#0000FF">第21話 嵐の中で輝いて </font></p>
+  <p align="left"><font size="-1">----------<br>
+    <font color="#0000FF">熟練度：</font>守衛艾爾珊克以無傷狀態進行轉移航法（5E）</font></p>
+  <p align="left"><font size="-1" color="#0000FF">我方初期配置：</font><font size="-1">葉月（ガンドール）、ジョウ（黑獅子）、レニー（鳳雷鷹）、マイク（爆竜）、シロー（Ez-8），自選9機</font></p>
+  <p align="left"><font size="-1" color="#0000FF">敵方初期配置：</font><font size="-1">ノリス（グフカスタム）、ジオン兵（ケンプファー）X4、ジオン兵（ハイ·ゴック）X6、ジオン兵（ガルスJ）X6、ジオン兵（ズサ）X3 
+    </font></p>
+  <p align="left"><font size="-1" color="#0000FF">中立方：</font><font size="-1">5E 
+    飛影</font></p>
+  <p align="left"><font size="-1" color="#0000FF">敵援：</font><font size="-1">敵初期配置剩餘12體或以下 
+    地圖正上方 アイナ（アプサラスII）；4E 人工知能（シャーマン）X6、人工知能（バンクス）X3</font></p>
+  <p align="left"><font size="-1" color="#0000FF">強化部件：</font><font size="-1">ブースター（ズサ）、10000（ハイ·ゴック）、チョバムアーマー（ケンプファー） 
+    </font></p>
+  <p align="left"><font size="-1">----------<br>
+    <font size="-1">■■<font color="#660000"></font></font><font size="-1" color="#660000"></font><font color="#FF0000">如果雪山事件完成，本話請務必派出巴尼</font></font></p>
+  <p align="left"><font size="-1" color="#660000">本話沒什麽很強的敵人，可以讓一些等級低的人出來練練手，例如阿同學可以和卡米牛同學輪換一下</font></p>
+  <p align="left"><font size="-1" color="#660000">出陣！</font><font size="-1"><br>
+    <font color="#660000">水中的敵人請交給蓋塔3和爆竜便已足夠，小白和巴尼乘上母艦，剩下的人分兩路攻擊吉恩軍</font></font></p>
+  <p align="left"><font size="-1">1P：蓋塔3入水，注意走位，不要讓敵人排成援護陣<br>
+    萬丈、卡繆、蕾尼對付基地上方敵人，修、鉄也對付基地左側敵人，母艦往修的方向移動</font></p>
+  <p align="left"><font size="-1">1E：反擊</font></p>
+  <p align="left"><font size="-1">2P：錠、響介、巴尼下母艦，配合修等人展開攻擊；萬丈利用自己的統率，盡情殺敵，記得留一兩個給小卡</font></p>
+  <p align="left"><font size="-1">2E：反擊</font></p>
+  <p align="left"><font size="-1">3P：萬丈那邊的應該已經清空了，蓋塔隊和修這兩処把敵人打到12體以下，滿足增援條件；注意先不要去碰那幾只京寳梵，因爲它們的最強武器已經達到了3200，即使有2K以上的裝甲被打還是會很痛，而且愛娜增援後它們會主動進攻，同時被3只圍攻的話會很危險<br>
+    <font color="#0000FF">葉月站到愛娜出擊點6格処待機，把小白丟到愛娜面前，預備第一時間說得</font></font></p>
+  <p align="left"><font size="-1">3E：愛娜增援，京寳梵隊進擊開始，如果感到吃力的話多用援防</font></p>
+  <p align="left"><font size="-1" color="#FF00FF">4P：愛娜的位置如圖（怎麽沒愛娜？厄...那是因爲她已經進母艦了，一時手快按了存盤~.~ 
+    就是光標所在位置啦）</font></p>
+  <p align="left"><img src="guide_12.jpg" width="480" height="320"></p>
+  <p align="left"><font size="-1">愛娜跑進母艦，葉月最大戰速（17格:p）朝諾利斯方向移動<br>
+    水兵附近的一隊敵人注意派人攔截，ガルスJ有5P武器，不要給它機會去碰艾爾珊克<br>
+    萬丈等人適當往小白方向移動，以便吸引增援火力，鉄也加速增援萬丈</font></p>
+  <p align="left"><font size="-1"><br>
+    4E：基地上方敵增援，萬丈小隊展開反擊</font></p>
+  <p align="left"><font size="-1">5P：<font color="#FF0000">請按照愛娜、巴尼的順序說得諾利斯，</font>同時獲得技能“強运”<br>
+    剛好諾利斯可以幫著打京寳梵（小兵：哇咧，隊長居然反水了耶）<br>
+    那麽，後方的敵人已經全滅確定<br>
+    基地上方的敵增援區是重點<br>
+    萬丈找一個敵人HP最多的角落鑽進去，要求能和3個敵人同時形成埋身戰態勢（一般來説如果上一個敵回合有確實的反擊到敵人，那麽敵HP最高不會超過5000，剛好能被日輪攻擊一擊殺），著地，熱血，泰坦大菜刀砍翻一個；卡繆和鳳雷鷹加熱血，攻擊離萬丈2格或以上的バンクス（因爲萬丈在地面的時候シャーマン會主動採取近身戰法，而バンクス的最大技是2格，只會在原地攻擊）；其他的，鉄也能夠到就幫著打一打，補給機也不要見得無所事事，狙擊熱血加上去幫著削血<br>
+    我最後形成這樣的局面：萬丈身邊4XXX血的バンクス和シャーマン各一只（挂點確定），2格処有1只バンクス3位數的HP，3格処一只シャーマン2XXX，都無視，距鳳雷鷹和萬丈2格処一只26XX的シャーマン，考慮到它會挑蕾尼來打，葉月的激勵給蕾尼加上去，氣力132，只要出CT就可確保無虞</font></p>
+  <p align="left"><font size="-1"><br>
+    5E：飛影增援<br>
+    艾爾珊克準備完成，微跳躍航法發動（熟練度入手）<br>
+    蕾尼反擊CT達成，萬丈反擊敵全滅<br>
+    終了:p</font></p>
+  <p align="left"><font size="-1" color="#FF00FF">飛影：#@%#...#&amp;...^*@#！（友情翻譯：我的合體秀還沒完成呢XD）</font></p>
+  <p align="left"><font size="-1"><br>
+    <font color="#660000">5回合！（上一関耗了太多，這次補回來了:p）集中力→恰姆 強运→響介，覆蓋先手必勝（KUSO 後來想想又有些捨不得*_*）</font></font></p>
+  <p align="left"><font size="-1">----------<br>
+    ■■<font color="#660000"></font></font><font size="-1" color="#660000"></font><font size="-1">回頭跟禦統老爺子通話，得知木星蜥蜴在俄羅斯投下的鬱金香中出現了擁有強大對空火力的巨型兵器<br>
+    因此，ガンドール接受要請，与撫子號協同作戰，擊破代號為“ナナフシ”的敵兵器</font></p>
+  <p align="left"><font size="-1">撫子號作戰正式開始，原本打算以長距離火力一決勝負，誰知還沒進入有效射程就被ナナフシ的重力軌道炮給擊落了...現在只能靠艾斯迪巴利斯小隊進行地面攻擊了<br>
+    另一方面，ガンドール隊懾於ナナフシ的對空火力壓制，決定派遣以小白爲首的地面部隊出擊</font></p>
+  <p align="left"><font size="-1">撫子的命运，究竟如何呢？</font></p>
+  <p align="left"></p>
+  <p align="left"><font size="-1">■■</font><font size="-1" color="#660000">下一話 
+    恐怖！無限軌道炮！</font></p>
+  <p align="left"></p>
+  <p align="left"><font size="-1">■■■■</font><font size="-1"><b><font color="#0000FF">地球篇 
+    SCENE4B 完結</font></b><br>
+    </font> <b> </b> <font size="-1"><br>
+    </font><font size="-1"> </font> </p>
+  <hr noshade>
+  <p><font color="#000099"><a href="I_data13_a_3.htm">【Back】</a> <a href="I_data13_a_5.htm">【Next】</a></font></p>
+  <p align="left">&nbsp;</p>
+  </div>
+</body>
+</html>

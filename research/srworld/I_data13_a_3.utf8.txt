@@ -1,0 +1,385 @@
+<html>
+<head>
+<title>Impact-第一部-SCENE 3</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+</head>
+
+<body bgcolor="#FFFFFF" background="bg.jpg" link="#6600CC" vlink="#6600CC" alink="#0099CC">
+<div align="center"> <font color="#000099">★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★</font> 
+  <p align="center"><b><font color="#000066" size="+1">第一部 地上激動篇</font></b></p>
+  <p align="center"><b><font color="#FFCC00">SCENE 3 「世界」</font><br>
+    </b></p>
+  <p align="center"><font color="#000099"><br>
+    ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆</font></p>
+  <hr noshade>
+  <p align="left"><font size="-1"><b><font color="#FF0000" size="+1">本篇注意事項：</font></b></font></p>
+  <p align="left"><font size="-1">■■<font color="#990099">世界編的3個SELECT關卡是地球篇最麻煩的多擇，具體為</font></font></p>
+  <p align="left"><font size="-1">ニューヨーク：<font color="#0000FF">ショウ說得トッド</font>，<font color="#000099"><b>放在第3順位選擇進入4A「魂の故鄉</b>」<font color="#336600"><b>，否則進入4B「地底帝國侵略</b>」</font></font></font></p>
+  <p align="left"><font size="-1">東南アジアジオン秘密基地：<font color="#FF0000">第1、2順位選擇發生GP-02A搶奪事件；</font><font color="#0000FF">シロー擊墜アイナ後發生雪山事件，是以後アイナ和ノリス加入的必要前提</font> 
+    ，但是發生此事件後シロー會離隊，直到SELECT關卡全部完成後復歸</font></p>
+  <p align="left"><font size="-1">中央アジア砂漠地帶：プル出場，擊墜後入隊治療，但暫不出戰；<font color="#0000FF">シロー出戰的場合得到MSケンプファー（第2、3順位限定）</font></font></p>
+  <p align="left">&nbsp;</p>
+  <p align="left">■■■■<b>完全分析：<font color="#FF0000">先記住這句話，這個多擇無論如何不可能做到完美</font></b></p>
+  <p align="left"><font size="-1">■■<b>那麽，我們先來看看4A和4B這兩個分支的情況</b></font></p>
+  <p align="left"><font size="-1" color="#660000"><b>4A</b>是圣戰士路綫，<font color="#0000FF">出場人物為主角（他會隨著路綫變動）、鋼彈係、圣戰士係、蓋塔、鳳雷鷹、黑獅子，沒有母艦（爆）</font>，但有圣戰艦；得到的強化以移動力和运動性爲主，包括靈光推進器；可以提早得到比爾拜因（啤酒:p），在第三部的銀河篇還能進一步改造为<font color="#FF0000">迷彩啤酒</font>；此外，還包括隱藏機體ライネック和幾名圣戰士人物圖鑑，<font color="#FF0000">以及，可以和小羅麗幹一架:p</font>；關卡總體來説，過關易，拿5回合難</font></p>
+  <p align="left"><font size="-1" color="#000066"><b>4B</b>是地上路綫，<font color="#336600">出場人物為主角、除蓋塔以外的傳統超級係、爆竜、巴尼等；強化以裝甲爲主</font>，但是可以拿到<font color="#0000FF">精神エナジー裝置</font>和<font color="#FF0000">V-UP（W）</font>；得到隱藏機體量產型大魔神或者V-UP（U）（根據SCENE1鉄也甲兒的二擇決定）；克連泰沙暫時入隊，獲得寶貴的先期改造機會，為宇宙篇打下基礎；還有就是最重要的，<font color="#FF0000">直接關係到東方不敗入隊的明鏡止水劇情</font>；關卡方面，無論是趕時間或者熟練度都頗有難度</font></p>
+  <p align="left"><font size="-1">從爲了第二、第三部戰鬥考量的角度來看，無疑4B是更好的選擇，如果沒有東方不敗的話，相當於削去了多蒙1/3的戰力（合體技），而V-UP（W）在初期也是很寶貴的強化；但是走4A優先拿到啤酒的話，地球篇剩下的戰鬥會輕鬆不少，而且迷彩啤酒的能力也頗爲不俗<br>
+    <font color="#000066">究竟孰优孰劣，請同學們自行決斷，在此先提一句，咲夜老師選的是4B</font><br>
+    </font></p>
+  <p align="left"><font size="-1">■■<b>然後是另兩個關卡的順序</b></font></p>
+  <p align="left"><font size="-1">從上面列出的事件來看，アイナ跟ノリス要入隊就必須得發生雪山事件，而一旦雪山事件出現的話，シロー將強制離隊一段時間，但爲了拿ケンプファー要求シロー必須在場，那麽，<font color="#0000FF">滿足這兩個條件的順序是中央アジア砂漠地帶→東南アジアジオン秘密基地</font></font></p>
+  <p align="left"><font size="-1">但是，這樣的話走4A就無法拿到ケンプファー，而且，如果我要走4B呢？<br>
+    走4B的話，在不打亂上述順序的前提下，東南アジアジオン秘密基地這一話就會被擠到最後</font></p>
+  <p align="left"><font size="-1">擠到最後的結果是什麽？<br>
+    請回頭看上面：東南アジアジオン秘密基地<font color="#FF0000">第1、2順位選擇發生GP-02A搶奪事件</font><br>
+    也就是說，這話最後選的話將錯過GP-02A搶奪事件（卡多已經溜走了）<br>
+    錯過的壞處是什麽？<br>
+    1.該話熟練度over（要求擊破卡多）；2.卡多身上的強化over（<font color="#FF0000">V-UP(U)</font>）；3.卡多會以核彈襲擊所羅門要塞，並破壞其中的隱藏機體——百式改or<font color="#FF0000">全裝百式改</font><br>
+    錯過的好處是什麽？<br>
+    1.此話拿5回合希望大增（爆）；2.宇宙篇卡多襲擊所羅門一話可以拿到熟練度（在地上把他擊墜的話將不出現）；3.同一話，拿到他身上的強化道具（大型彈匣）</font></p>
+  <p align="left"><font size="-1">比較一下吧，熟練度必丟其一，這個不用想了；強化零件來看，雖然大型彈匣在宇宙篇是比較緊缺的東西，但是V系列的汎用性顯然更好，長遠看的話建議選擇V系列；最後就是關係到隱藏機體，百式改可能不算什麽，但如果是玩低熟練度的話拿到的全裝百式改可是MS係中數一數二的強者！<br>
+    因此，建議如下：進行低熟練度攻略的，強烈推薦在地球篇擊破卡多；如果高熟練的話倒也不是什麽很必要的事<br>
+    對於追求高熟練的咲夜老師來説，也是選擇在地球篇就解決卡多，這樣可以為戰力不足的宇宙篇省下一塊心病:p</font></p>
+  <p align="left"><font size="-1">當然有同學會說，我不讓シロー擊墜アイナ，這樣雪山事件就不會發生，那麽不就可以對換這兩話去拿ケンプファー了麽？<br>
+    <font color="#FF0000">沒錯，不過先請你看看這麽做的收穫比較——</font><br>
+    雪山事件發生：アイナ&amp;ノリス&amp;兩人座機（阿普薩拉斯II和老虎特裝型），以後在銀河篇可以得到GP-02A<font color="#660000">（爲什麽會和這個事件相關的原因非常之KUSO，請容許我賣關子:p）</font><br>
+    不發生：ケンプファー&amp;人物圖鑒（琪琪），ケンプファー擁有相當強力的兩個武器，可惜都只有1發，而且機體能力不佳<br>
+    請自行判斷:p</font></p>
+  <p align="left"><font size="-1">----------<br>
+    <font color="#0000FF">大致上可以選出合適的路綫順序了吧</font></font></p>
+  <p align="left"><font size="-1"><br>
+    <b>如果是決定走4A的，兩條路綫為</b><br>
+    <font color="#660000">1.東南アジアジオン秘密基地→中央アジア砂漠地帶→ニューヨーク（ケンプファー和雪山事件二擇）<br>
+    2.中央アジア砂漠地帶→東南アジアジオン秘密基地→ニューヨーク（無法入手ケンプファー）</font><br>
+    <b>如果決定走4B，那麽有</b><br>
+    <font color="#990000">1.ニューヨーク→東南アジアジオン秘密基地→中央アジア砂漠地帶（ケンプファー和雪山事件二擇）<br>
+    2.ニューヨーク→中央アジア砂漠地帶→東南アジアジオン秘密基地（同時滿足ケンプファー和雪山事件，但無法趕上GP-02搶奪事件）<br>
+    3.東南アジアジオン秘密基地→ニューヨーク→中央アジア砂漠地帶（ケンプファー和雪山事件二擇）<br>
+    4.中央アジア砂漠地帶→ニューヨーク→東南アジアジオン秘密基地（無法入手ケンプファー，無法趕上GP-02搶奪事件）</font></font></p>
+  <p align="left"><font size="-1">■■■■綜上<br>
+    <font color="#000099">想走4A的，如果要拿京寳梵，請選1；如果對京寳梵沒興趣，請選2，因爲先過了中亞這関就有萬丈加入，對戰力是個不錯的補充<br>
+    想走4B的，如果是第一遍玩不建議選擇2、4，因爲錯過搶奪事件的損失比較大，1、3兩條路綫建議先去紐約，因爲東南亞有4個BOSS要打，而且</font></font><font size="-1" color="#000066">雪山事件發生後シロー離隊，對戰力不利</font></p>
+  <p align="left"><font size="-1"><br>
+    <font color="#666666">那麽，同學們都看懂了吧（沒看懂？我看像MX這種程度的SRW比較適合你XD）</font></font></p>
+  <p align="left"><font color="#990099"><b>拙者的路綫選擇是4B，1號綫</b></font></p>
+  <p align="left"><font color="#990000">ニューヨーク→東南アジアジオン秘密基地→中央アジア砂漠地帶</font><font size="-1"><br>
+    </font></p>
+  <hr>
+  <p align="left"><font color="#0000FF">第12話 出擊、超電磁ロボ</font></p>
+  <p align="left"><font size="-1">----------<br>
+    <font size="-1">■■<b></b></font>■■<b></b><font color="#660000">戰前準備：<br>
+    響介裝備<font color="#0000FF">靈光推進器、米氏裝甲、V-UP（W）</font>，鉄也裝備移動+2和EN+100，其他會加速的、跑的快且有遠程P的統一裝上</font></font></p>
+  <p align="left"><font size="-1">移動+1<br>
+    <font color="#FF0000">（如果此戰前響介沒有19級以上或者非常接近19級那就不用照我的方法做了）</font></font></p>
+  <p align="left"><font size="-1"><br>
+    這次我們的目標是<font color="#FF0000"> 以響介擊破小羅麗</font>≧▽≦<br>
+    <font color="#FF00FF">——爲什麽指定要響介擊破羅麗呢？</font><br>
+    <font color="#999900">——因爲我的惡趣味（爆）</font><br>
+    <font color="#666666">——響介沒熱血能行嗎？</font><br>
+    <font color="#006600">——放心，麵包會有的（再爆）</font></font></p>
+  <p align="left"><font size="-1">----------<br>
+    <font color="#0000FF">熟練度：</font>擊墜グレイドン ， HP 25000 ，30%（7500）敗退</font></p>
+  <p align="left"><font size="-1" color="#0000FF">我方初期配置：</font><font size="-1">葉月（ガンドール）、ロミナ（エルシャンク），自選11機</font></p>
+  <p align="left"><font size="-1" color="#0000FF">敵方初期配置：</font><font size="-1">ガルーダ（グレイドン）、人工知能（マグマ獸デモン）X6、人工知能（マグマ獸ガルムス）X8 
+    </font></p>
+  <p align="left"><font size="-1" color="#0000FF">我方援軍：</font><font size="-1">2P 
+    豹馬（コン·バトラーV）</font></p>
+  <p align="left"><font size="-1" color="#0000FF">敵援</font><font size="-1">：敵5體打倒 
+    最左下角アルフィミィ（ベルゼイン·リヒカイト） HP 20000，50%（10000）撤退、？？？（アインストクノッヘン）X2，右下？？？（アインストクノッヘン）X3 
+    </font></p>
+  <p align="left"><font size="-1"><br>
+    <font color="#0000FF">強化部件：</font>精神エナジー裝置（グレイドン）、バイオセンサー（ベルゼイン·リヒカイト）、マグネツトコーティン</font><font size="-1">グ（アインストクノッヘン）</font></p>
+  <p align="left"><font size="-1">----------</font></p>
+  <p align="left"><font size="-1"><font size="-1">■■■■</font><font color="#FFCC00">燃え、ロリーの魂よ！</font></font></p>
+  <p align="left"><font size="-1"><b>出陣！</b> <br>
+    <font color="#660000">1.閃光、2.蓋塔、3.登拜因、4.霊格斯、5.鳳雷鷹、6.Ez-8、7.廢鐵、8.大魔神、9.萊丁、10.美少女鋼彈、11.補給機</font><br>
+    然後就發現，這個陣容沒有修理機，能用信賴的也不多，小白有個愛，不過估計都會被兌換成突擊￣▽￣<br>
+    <font color="#666666">不管了，我豁出去了（爆）</font></font></p>
+  <p align="left"><font size="-1">1P：除了響介以外會加速全加速向上衝，削正上方4只マグマ獸的血，留給響介和鉄也打爆；削血的時候注意マグマ獸對空1格是弱側，可以利用，除了鉄也可以被多打幾下發動頑固一徹，其他人一律不准少血（我沒那麽多信賴給你們用XD）；<font color="#FF0000">補給機請時刻跟在響介身邊</font></font></p>
+  <p align="left"></p>
+  <p align="left"><font size="-1">1E：反擊</font></p>
+  <p align="left"><font size="-1">2P：打倒4只マグマ獸後不要再殺，而是盡量削血，把響介放最前面反擊；マグマ獸デモン對空弱，對地巨強，請優先解決；豹馬氣合十三加速，向上跑到底，單挑3只マグマ獸</font></p>
+  <p align="left"><font size="-1">2E：注意響介不要挂了XD（我被3只圍攻，剩下42點）；豹馬用一個3200的飛彈反擊マグマ獸デモン</font></p>
+  <p align="left"><font size="-1">3P：十三加速大作鉄壁，跑到加魯達射程裏面，回頭打爆剛才那只マグマ獸デモン，小介看情況努力先用出去；本隊開殺，能殺多少殺多少，很快就沒得殺了<br>
+    本隊出擊地點附近記得留幾個人，一般可以考慮留兩只母艦，不放心的話把修也扔過去<br>
+    （存完盤才發現響介的血還是42點￣▽￣// 好在已經開出先手必勝來了，不然真的要哭死） 3E：羅麗登場！主戰區那邊除了響介允許反擊打死敵人使氣力達到130以外其他人一律給我閃的閃防的防XD</font></p>
+  <p align="left"><font size="-1">4P：集中力量削加魯達的血，派個人過去把羅麗慢慢往上引，不要讓她去追母艦</font></p>
+  <p align="left"><font size="-1">4E：繼續忍辱負重XD</font></p>
+  <p align="left"><font size="-1">5P<b>：加魯達我已經忍你好久了XD （HP還剩7576）</b><br>
+    拉拉隊給響介應援，南原小姐激勵用出去，響介王牌+鉄也GB援護統統給我CRITICAL！！（如果此前給鉄也裝了CT+25會比較好凹）<br>
+    加魯達被踢飛:p<br>
+    <font color="#990099">然後響介就丁丁噹噹升到22級，喔，不可思議，學會熱血了耶:p</font><br>
+    補給機跑到響介身邊就位，準備下回合給他補</font></p>
+  <p align="left"><font size="-1">接下來的問題是羅麗，老規矩先脫力X3:p 然後隼人的擾亂用掉<br>
+    鉄也挂個熱血跑到離羅麗最大移動距兩格的地方待機，羅麗會過來用マブイエグリ打，不過這個熱血不是給她吃，而是爲了清理掉先一步過來佔位的骨頭<br>
+    蓋塔鑽地，到鉄也身邊待機；其他有大招的人也往這邊移動</font></p>
+  <p align="left"><font size="-1">5E：鉄也反擊打爆第一個過來的アインストクノッヘン，防禦羅麗的攻擊，剩下一只アインストクノッヘン隨便打打</font></p>
+  <p align="left"><font size="-1">6P：現在才發現廢鐵的移動力少了1格啊啊啊XD 不過這也是沒辦法的事，羅麗已經是最大戰速往上移動了，從加魯達那裏趕過來剛好缺一格...<br>
+    本來以爲可以衝擊一下6回合的，這個就叫做成事在天啊XD<br>
+    發洩完了XD</font></p>
+  <p align="left"><font size="-1">響介接受補給，最大戰速往羅麗方向移動，路上可以順手打只小兵，不過只要氣力高於130是無所謂的；龍馬跑到羅麗身邊卡位</font></p>
+  <p align="left"><font size="-1"><br>
+    6E：才發現龍馬也是瀕死狀態￣▽￣ 好在有無敵的分身！哦不，是OPEN GATE！</font></p>
+  <p align="left"><font size="-1">7P：總攻開始！<br>
+    洸熱血神鳥衝擊、豹馬超電磁SPARK！這樣就去掉近9KHP了<br>
+    然後蓋塔變成2號機，用空B的Drill Punch給我輕輕地摸一下，摸掉12XX點，剛好到限界:p<br>
+    最後是關鍵，響介熱血王牌56%命中57%CT率，<font color="#FF0000">請在凹命中的同時凹CT</font>，大概5次左右就能成功，然後大魔神天雷援護，</font></p>
+  <p align="left"><font size="-1">OVER！</font></p>
+  <p align="left"><font size="-1" color="#666666">“還會...再見面的，我的...響介...”</font><font size="-1"><br>
+    <font size="+1" color="#FF9900">喔喔喔喔喔~~~~~~~~好萌啊啊啊~~~~~~~~~~</font></font></p>
+  <p align="left"><font size="-1">接下來對付蝦兵蟹將，大家盡情的殺吧:p</font></p>
+  <p align="left"><font size="-1"><br>
+    <font color="#660000">7回合，迴避+15→修，覆蓋他的防禦（天生的靶子命:p）</font></font></p>
+  <p align="left"><font size="-1" color="#660000"><b>世界篇第一次大會戰，響介V.S.羅麗 大成功:p</b></font></p>
+  <p align="left"><font size="-1">----------</font></p>
+  <p align="left"><font size="-1"><font size="-1">■■</font>改造：響介、小白、鉄也3個人的武器至少改滿一個，這樣以後的戰鬥會輕鬆很多</font></p>
+  <p align="left"><font size="-1"><font size="-1">■■</font>強化：精神力裝置給登拜因，這樣恰姆很快就能用2個應援</font></p>
+  <p align="left"><font size="-1"><font size="-1">■■</font><font color="#660000">版面選擇ニューヨーク</font></font></p>
+  <p align="left"><font size="-1" color="#660000">進入下一話</font><font size="-1"><br>
+    </font> </p>
+  <p align="left"><font size="-1"> </font> </p>
+  <p align="left"><font size="-1"><br>
+    </font> </p>
+  <hr>
+  <p align="left"><font color="#0000FF">第13話 魂の故鄉から</font> </p>
+  <p align="left"><font size="-1">----------<br>
+    <font size="-1">■■</font><font color="#660000">戰前準備：阿同學換乘Ez-8，裝上靈光推進器、V-UP（W），強化运動；多蒙裝上EN+100；超級係全員強化移動力</font></font></p>
+  <p align="left"><font size="-1">----------</font></p>
+  <p align="left"><font size="-1" color="#0000FF">熟練度：</font><font size="-1">在東方不敗撤退前將其擊倒</font></p>
+  <p align="left"><font size="-1" color="#0000FF">我方初期配置</font><font size="-1">：葉月（ガンドール）、ロミナ（エルシャンク）、ショウ（ダンバイン）、ドモン（シャイニングガンダム）、アレンビー（ノーベルガンダム）</font></p>
+  <p align="left"><font size="-1" color="#0000FF">敵方初期配置：</font><font size="-1">トッド（ダンバイン(トッド)） 
+    HP 24000、ドレイク兵（ビアレス）X2、ドレイク兵（レプラカーン）X2、ドレイク兵（ドラムロ）X4、？？？（アインストグリート）X8</font></p>
+  <p align="left"><font size="-1" color="#0000FF">敵援：</font><font size="-1">敵初期配置全滅後 
+    女神像附近 東方不敗（マスターガンダム(騎乘)） HP 36000 2回合後離脫 、ゾンビ兵（デスバーディ）X2，女神像兩側海域 ゾンビ兵（デスネービー）X6</font></p>
+  <p align="left"><font size="-1" color="#0000FF">強化部件：</font><font size="-1">オーラコンバーター（ダンバイン(トッド)）、シャッフルの紋章（マスターガンダム(騎乘)）、ブースター（デスバーディ）</font></p>
+  <p align="left"><font size="-1">----------<br>
+    <font size="-1">■■</font><font color="#660000">列陣：1.維納斯A、2.梅塔斯、3.鳳雷鷹、4.廢鐵、5.Ez-8、6.大魔神、7.蓋塔、8.孔巴V、9.萊丁</font></font></p>
+  <p align="left"><font size="-1">1P：多蒙、阿蓮比加速氣合往下方自由女神像前進，萊丁和蓋塔3號機可以適當往這一側移動；響介和阿同學往橋上走，其他人用飛的，目標托多，但是要注意避開植物型敵人的射程（8格）</font></p>
+  <p align="left"><font size="-1">1E：無戰事</font></p>
+  <p align="left"><font size="-1">2P：北綫攻擊開始，利用アインストグリート的弱點（1格對空弱側，2格死角）展開攻勢，注意不要用光束兵器，因爲它身上有I力場，效果會變得非常爛<br>
+    中央戰區可以利用圣戰士遠程苦手的特性，先用遠程兵器削弱之，再留給超級係長氣力<br>
+    多蒙、阿蓮比繼續朝小島挺進<br>
+    <font color="#FF0000">注意：アインストグリート是強氣，氣力到了105後就會發動1-10格的直綫型map兵器，請在打倒敵人的同時留意自己的陣型（而且Impact跟以前的SRW不大一樣，只要滿足map範圍内有2體敵人，無論裏面還有多少自己人，對方也會毫不猶豫的使用map）</font></font></p>
+  <p align="left"><font size="-1">2E：反擊</font></p>
+  <p align="left"><font size="-1">3P：修挂上集中，第一時間說得托多；其他人往托多方向跟進，需要氣力的就在路上順手做掉幾個；托多身邊的兩只ビアレス可以先打到1500以下，留給修長氣力</font></p>
+  <p align="left"><font size="-1">3E：反擊</font></p>
+  <p align="left"><font size="-1">4P：全力攻擊托多，注意他的奧拉防壁對遠程攻擊可以打消1500點傷害，飛拳的效果很差，盡量用埋身戰吧；最後讓恰姆給自己一個應援，修擊墜托多（誰上都可以，我只不過尊重一下劇情人物罷了:p）<br>
+    多蒙的EN可以隨便用，過會兒會自己補滿</font></p>
+  <p align="left"><font size="-1">4E：反擊</font></p>
+  <p align="left"><font size="-1">5P：清掃雜兵（又失誤了，應該一開始就讓多蒙往中央直衝的XD，剩下一只HP 2XXX的植物沒人可打）</font></p>
+  <p align="left"><font size="-1">5E：...</font></p>
+  <p align="left"><font size="-1">6P：清屏<br>
+    島上援護陣型排好，東方不敗出現的位置是女神像正前方兩格，而多蒙會自己跑過來，請預留一個位置給他，並在他身邊放上援防<br>
+    蓋塔3號機和萊丁（熱血先挂起來）分別在島左右兩側海域待機，準備應戰僵屍兵</font></p>
+  <p align="left"><font size="-1">6E：<font color="#990066">東方不敗登場！<br>
+    發現自己的師匠居然和惡魔鋼彈勾結，多蒙怒槽滿，衝上前就和師匠展開對決<b>（無論多遠都能衝到，並且HP、EN自動補滿）</b><br>
+    シャイニングフィンガー對ダークネスフィンガー！閃光HP減半，師匠HP-3600（唉，果然還是未夠班）</font><br>
+    蓋塔用大雪山、萊丁用默認武器反擊，之後多蒙最好能凹一凹61%的命中，打到師匠</font></p>
+  <p align="left"><font size="-1">7P：痛苦的歷程開始<br>
+    先照例給師匠脫力，再放攪亂<br>
+    大魔神熱血GB攻擊先上（沒必中了XD），48%命中，有可能的話，凹一下CT（22%￣▽￣）<br>
+    豹馬熱血ビッグブラストディバイダー，61%命中，這個是絕不可能CT的-0-<br>
+    多蒙閃光手指+阿蓮比必中新體操技法<br>
+    阿蓮比移攻搭蕾尼大輪劍（爲什麽蕾尼只打8XX點XD 仔細一看才發現師匠的裝甲已經上1800了，大汗）</font></p>
+  <p align="left"><font size="-1">水裏的敵人隨便打，反正師匠不會跑，長點氣力沒關係，而且他現在也沒什麽EN來用電影彈了:p</font></p>
+  <p align="left"><font size="-1">7E：反擊</font></p>
+  <p align="left"><font size="-1">8P：拉拉隊給多蒙應援，閃光手指最後一擊！</font></p>
+  <p align="left"><font size="-1"><br>
+    <font color="#FF0000">零改作戰，世界篇第二戰役，多蒙V.S.師匠 勝利達成:p</font></font></p>
+  <p align="left"><font size="-1"><br>
+    <font color="#660000">8回合（其實可以7回合的XD） CT+25→豹馬</font></font></p>
+  <p align="left"><font size="-1">----------<br>
+    <font size="-1">■■</font><font color="#660000"></font>新拿到的撲克紋章可以拿給多蒙，這樣出來氣合兩次就130了</font></p>
+  <p align="left"><font size="-1"><font size="-1">■■</font><font color="#660000"></font>下一話有4個BOSS要打，不知道我還能不能撐的下去￣▽￣</font></p>
+  <p align="left"><font size="-1"><font size="-1">■■</font><font color="#660000">版面選擇：東南アジアジオン秘密基地</font></font></p>
+  <p align="left"><font size="-1" color="#660000">進入下一話</font><font size="-1"><br>
+    </font><font size="-1"> </font></p>
+  <hr>
+  <p align="left">第14話 強襲 </p>
+  <p align="left"><font size="-1">----------<br>
+    <font size="-1">■■</font><font color="#660000">戰前準備：大魔神裝備移動+2、V-UP（W），其他超級係強化移動力<br>
+    小白會自動換乘Ez-8</font></font></p>
+  <p align="left"><font size="-1">----------<br>
+    <font color="#0000FF">熟練度：</font>卡多撤退前（5E）將他擊墜或擊退 ，HP 31000，40%（12400）敗退</font></p>
+  <p align="left"><font size="-1" color="#0000FF">我方初期配置：</font><font size="-1">葉月（ガンドール）、ロミナ（エルシャンク）、シロー（Ez-8），自選11機</font></p>
+  <p align="left"><font size="-1" color="#0000FF">敵援：</font><font size="-1"><br>
+    2E 左側&amp;左上 アイナ（アプサラスII）HP 28900 不撤退、ジオン兵（ゲルググM）X2、ジオン兵（グフ）X3、ジオン兵（ザク改）X4；<br>
+    中央偏右，山腳処 ノリス（グフカスタム） HP 17200 不撤退 、ジオン兵（ケンプファー）X3、ジオン兵（ゲルググM）X2；<br>
+    右下，靠近山的平地 ガトー（ガンダム試作2號機） 5E撤退、ジオン兵（ゲルググM）、ジオン兵（ケンプファー）、ジオン兵（グフ）X2、ジオン兵（ザメル）X2 
+    <br>
+    5E ギニアス（ザンジバル） HP 25000 50%（12500）敗退、ジオン兵（ザメル）X4</font></p>
+  <p align="left"><font size="-1" color="#0000FF">強化部件：V－UPユニット（U）</font><font size="-1">（ガンダム試作2號機）、バイオセンサー（アプサラスII）、<font color="#0000FF">大型カートリッジ</font>（ザンジバル）、チョバムアーマー（グフカスタム） 
+    </font></p>
+  <p align="left"><font size="-1">----------<br>
+    <font color="#660000">排陣：1.廢鐵、2.蓋塔、3.孔巴V、4.補給機、5.梅塔斯、6.霊格斯、7.鳳雷鷹、8.萊丁、9.登拜因、10.閃光、11.大魔神</font></font></p>
+  <p align="left"><font size="-1">1P：分成兩隊行動，大魔神和蓋塔往右，Ez-8往上，兩隊各帶領一部分隊友，要求往右去的人擁有低氣力要求且威力不錯的武器</font></p>
+  <p align="left"><font size="-1">1E：安靜...</font></p>
+  <p align="left"><font size="-1">2P：上方部隊排好援護陣型，請盡量利用鳳雷鷹和母艦的援護，萊丁和MS的盾不要隨意耗掉<br>
+    右側，由於卡多出來的時候會帶一只綠勇士給自己做援護，而且這個援護陣型很難打破（即使佔了他們的出擊點，他們也會並肩跑到別處），那麽把大魔神放到綠勇士左側等反擊，蓋塔氣合兩次到大魔神身後，等著河邊的敵人追上來</font></p>
+  <p align="left"><font size="-1">2E：敵援軍出現！<br>
+    西北戰區依靠援護適當反擊，但不准擊墜<br>
+    東南側，如果要取得較好的反擊效果可以讓蓋塔變形為3號機，不過要特別小心京寳梵的近身攻擊；鉄也盡情反擊，對綠勇士用金鋼火焰，這樣的話它不死也重傷，不會主動進行援護了；對卡多請以命中高的招數進行反擊，只要消耗掉他的盾牌即可<br>
+    <font color="#FF0000">敵人陣型圖（圖2中京寳梵和老虎爲了採用近身戰法有移動，無妨；而且大魔神的最佳位置是左側而不是下側，反正這張圖只是看看敵人的站位而已）</font></font></p>
+  <p align="left"><img src="guide_07.jpg" width="480" height="320"> <img src="guide_08.jpg" width="480" height="320"></p>
+  <p align="left"></p>
+  <p align="left"><font size="-1">3P：鉄也、龍馬殺敵，龍馬要求氣力130以上，鉄也多多益善，響介、豹馬分別把氣力提升至110左右<br>
+    <font color="#666666">西北綫給我忍...</font><br>
+    <font color="#FF0000">給卡多先脫力X3灌下去，免得一不小心被扔個核彈</font></font></p>
+  <p align="left"><font size="-1">3E：對卡多的反擊還是以消耗盾牌為優先</font></p>
+  <p align="left"><font size="-1">4P：先用小攻擊耗光卡多的盾牌，然後用熱血盡快調整他的HP到限界，鉄也氣力在130以上使用熱血GB攻擊+蓋塔3分離攻擊援護就能把他打下來<br>
+    <font color="#990099">（可憐的家兔，這次太衰了:p）</font><br>
+    <b>西北綫已經忍無可忍了:p 開殺！！能殺多少殺多少</b></font></p>
+  <p align="left"><font size="-1">4E：反擊</font></p>
+  <p align="left"><font size="-1">5P：南綫全面回撤，多蒙、響介等地面戰部隊負責去和諾利斯大叔打照面:p 阿同學也可以跟過去統率幾下；鉄也、龍馬最大戰速往扎古頭的方向前進，路上順手捏幾只螞蟻~~補給機請算好格子就位<br>
+    西北綫開始攻擊愛娜，以消耗她的EN爲主，如果HP足夠的話也可以考慮冒險站到她的map範圍内</font></p>
+  <p align="left"><font size="-1">5E：基尼亞斯增援，如果吃緊的話可以先迴避或者防禦（此前敵全滅的話他就不出來了）</font></p>
+  <p align="left"><font size="-1">6P：東綫只剩諾利斯一人；北綫愛娜重傷，EN耗盡:p 小白的愛先用出去，然後到愛娜身邊待機，預備下回合全彈發射</font></p>
+  <p align="left"><font size="-1">6E：小兵留著下回合解決，對基尼亞斯就給我狠狠地打:p</font></p>
+  <p align="left"><font size="-1">7P：阿同學挂上應援，搭響介的援護打爆諾利斯 東綫全面告捷<br>
+    補給機繼續給補EN 咦？學會祝福了耶~可喜可賀、可喜可賀啊~~（請學著「尋秦記」裏面的腔調來念:p）<br>
+    北綫愛娜還剩HP 552點 ，留著下回合打（因爲沒人可援護了XD）；基尼亞斯HP限界到達；大魔神、蓋塔就位</font></p>
+  <p align="left"><font size="-1">7E：都已經不好意思還手了XD</font></p>
+  <p align="left"><font size="-1">8P：給小白應援，找個人統率一下擊墜愛娜，結果就看見兩人雙雙殉情（呸，是度蜜月去了XD）<br>
+    <font color="#FF0000">小白擊墜愛娜是日後諾利斯加入的必要條件，不過這會影響到下一話京寳梵的入手，詳情請參閲本SCENE開始前的注意事項</font><br>
+    才發現基尼亞斯的氣力似乎高了點XD 用蓋塔主攻好像打不死...<br>
+    那就接著給我微調（省略不堪入目的手段若干，包括登拜因的爪子、巴爾幹炮...等等）<br>
+    然後很高興的發現基尼亞斯還剩<font color="#0000FF">HP12554點</font><br>
+    </font> <font color="#FF9900">上吧，蓋塔，他是你的了:p</font></p>
+  <p align="left"><font size="-1"><br>
+    <font color="#660000">8回合，CT+25→龍馬</font></font></p>
+  <p align="left"><font size="-1" color="#660000"><br>
+    （這一話打得真是好·爽·呀:D）</font></p>
+  <p align="left"><font size="-1">----------<br>
+    <font size="-1">■■</font><font color="#660000"></font>改造：下一話將會出現第一個零改無法擊破的BOSS（也不是說一定不行，鉄也+豹馬應該可以，問題是這豹馬要練出援攻是猴年馬月的事情），好在和熟練度無關，而且身上的東西也不算太好（超合金Z），所以我就認了XD 
+    <br>
+    不過到了宇宙篇估計是要大開殺戒，因爲我始終都是熟練度優先的呀呀呀XD</font></p>
+  <p align="left"><font size="-1"><font size="-1">■■</font><font color="#660000"></font>如果是要打BOSS的，大魔神武器全改吧，然後搭上Ez-8，輕輕松松的就KO了</font></p>
+  <p align="left"><font size="-1"><br>
+    <font size="-1">■■</font><font color="#660000"></font>強化：擁有長程P武器的全加移動力（鳳雷鷹和霊格斯等），下一話主要是趕時間</font></p>
+  <p align="left"><font size="-1"><font size="-1">■■</font><font color="#660000">版面選擇：中央アジア砂漠地帶</font></font></p>
+  <p align="left"><font size="-1" color="#660000">進入下一話<br>
+    </font><font size="-1"> </font> </p>
+  <p align="left"><br>
+  </p>
+  <hr>
+  <p align="left"><font color="#0000FF">第15話 僕は僕、君はミレーヌ</font></p>
+  <p align="left"><font size="-1">---------- <br>
+    <font color="#0000FF">熟練度：</font>萬丈增援事件發生前（4E）擊毀3個精神波發信裝置（金字塔），HP 各為1000</font></p>
+  <p align="left"><font size="-1" color="#0000FF">我方初期配置：</font><font size="-1">葉月（ガンドール）、ロミナ（エルシャンク），自選12機</font></p>
+  <p align="left"><font size="-1" color="#0000FF">敵方初期配置：</font><font size="-1">メガノイド兵（アイアイ）X6、ドレイク兵（バストール）X3、ジオン兵（グフ）X3 
+    </font></p>
+  <p align="left"><font size="-1" color="#0000FF">我方援軍：</font><font size="-1">4E 
+    萬丈（ダイターン3）</font></p>
+  <p align="left"><font size="-1" color="#0000FF">敵援：</font><font size="-1"><br>
+    2E 地圖中央 ビューティ（合成獸アニヘルム）、レイカ（合成獸アニヘルム）、トッポ（合成獸アニヘルム）<br>
+    熟練度達成後，東北金字塔正下方 プル（キュベレイMk-II(プル)） HP 17000，不撤退<br>
+    4E 東北、東南兩金字塔之間 ミレーヌ（メガボーグ·ミレーヌ） HP 30000，50%（15000）敗退、メガノイド兵（メッタンガー）X3；璞露</font></p>
+  <p align="left"><font size="-1">出擊點左側 メガノイド兵（メッタンガー）X3</font></p>
+  <p align="left"><font size="-1" color="#0000FF">強化部件：</font><font size="-1">サイコフレーム（キュベレイMk-II(プル)）、超合金Z（メガボーグ·ミレーヌ）</font></p>
+  <p align="left"><font size="-1">----------<br>
+    <font size="-1">■■</font><font color="#660000">這一話的出擊走位不是很講究，把鳳雷鷹和霊格斯分別放到最前方和最左下側，其他超級係往左下靠就行了；順便可以把隊伍裏面等級低的人拉出來長長經驗</font></font></p>
+  <p align="left"><font size="-1">1P：阿同學和蕾尼最大戰速，目標是正南、東北、東南的3個金字塔（離我方最遠的3個），主力往左下走</font></p>
+  <p align="left"><font size="-1">1E：反擊...メガノイド兵的命中好高啊，更神奇的是阿同學竟然被連續打兩個CT（1%耶）@@ 
+    阿麗！今天你很有必要去買彩票！</font></p>
+  <p align="left"><font size="-1">2P：跑到金字塔旁邊待機（現在還不能攻擊它），其他人把小兵清一清</font></p>
+  <p align="left"><font size="-1">2E：被控制了精神的萬丈眾出現，任務變更：擊破3個精神波發信裝置（金字塔），<font color="#FF0000">不可擊破萬丈眾</font></font></p>
+  <p align="left"><font size="-1">3P：已經就位的人每人一下，熟練度達成（太簡單了都沒什麽興趣多寫XD）</font></p>
+  <p align="left"><font size="-1">3E：<font color="#FF0000">達成熟練度後，璞露作爲敵增援出現</font><br>
+    可憐的羅麗，剛出來就挨我一記熱血超電磁SPARK:p</font></p>
+  <p align="left"><font size="-1">4P：擊墜璞露（不必擔心，這樣就算救出成功了）<br>
+    咦，地圖上怎麽沒人了？<br>
+    要打BOSS的就去兩個金字塔中間（略靠近東南側）佈陣，反正我是沒什麽追求了XD</font></p>
+  <p align="left"><font size="-1">4E：敵增援，同時萬丈趕到，果然是哪裏有メガノイド哪裏就有破嵐萬丈<br>
+    而且...敵人被嚇到了嗎？居然忘了反擊XD</font></p>
+  <p align="left"><font size="-1">5P：現在就是隨便亂打，反正也沒有什麽戰術</font></p>
+  <p align="left"><font size="-1"><br>
+    <font color="#660000">5回合，集中力→明日香麗（本來應該拿給大作的，但是想到錢...）</font></font></p>
+  <p align="left"><font size="-1">----------</font></p>
+  <p align="left"><font size="-1" color="#333333">然後就是SRW史上最OOXX的劇情之一...<br>
+    兩個人過了一段有時一天兩次，有時三次的生活後...<br>
+    終于，歸隊了</font></p>
+  <p align="left"><font size="-1" color="#003399">同時，修成功地說得了托多加入我方</font></p>
+  <p align="left"><font size="-1" color="#FF0000">（小白、托多入隊）</font></p>
+  <p align="left"><font size="-1">----------</font></p>
+  <p align="left"><font size="-1"><font size="-1">■■</font><font color="#660000"></font></font><font size="-1" color="#660000">下一話，賈布羅之死闘、亞洲尊者再臨！</font><font size="-1"><br>
+    </font></p>
+  <p align="left">&nbsp; </p>
+  <p align="left"></p>
+  <hr>
+  <p align="left"><font color="#0000FF">第16話 異變</font></p>
+  <p align="left"><font size="-1">----------<br>
+    <font size="-1">■■</font></font><font size="-1" color="#660000">戰前準備：強化道具以移動力為優先；阿同學和小白互換座機，挂上大型彈匣和W；請準備派忍者眾出陣（建議鳳雷鷹）</font></p>
+  <p align="left"><font size="-1"><br>
+    ----------<br>
+    <font color="#0000FF">熟練度：</font>5E事件發生前擊破東方不敗 HP 36450，不撤退</font></p>
+  <p align="left"><font size="-1" color="#0000FF">我方初期配置：</font><font size="-1">葉月（ガンドール）、ロミナ（エルシャンク）、ドモン（シャイニングガンダム）、アレンビー（ノーベルガンダム），自選10機</font></p>
+  <p align="left"><font size="-1" color="#0000FF">敵方初期配置：</font><font size="-1">？？？（アインストクノッヘン）X5、？？？（アインストグリート）X6</font></p>
+  <p align="left"><font size="-1" color="#0000FF">我方援軍：</font><font size="-1">5E 
+    シュバルツ（ガンダムシュピーゲル）</font></p>
+  <p align="left"><font size="-1" color="#0000FF">中立方</font><font size="-1">：4E 
+    飛影</font></p>
+  <p align="left"><font size="-1" color="#0000FF">敵援：</font><font size="-1">2E 
+    右上方橋頭 東方不敗（マスターガンダム） 5E事件發生後離脫 ，地圖各處 ゾンビ兵（デスバーディ）X3、ゾンビ兵（デスネービー）X3、ゾンビ兵（デスアーミー）X3、？？？（アインストクノッヘン）X3、？？？（アインストグリート）X4</font></p>
+  <p align="left"><font size="-1" color="#0000FF">強化部件：</font><font size="-1">宇宙合金グレン（マスターガンダム）、忍術指南書（アインストグリート）、10000（アインストグリート）、メガブースター（デスバーディ） 
+    </font></p>
+  <p align="left"><font size="-1">----------<br>
+    </font> <font color="#0000FF">經過這一話我才知道，什麽叫做光腳的不怕穿鞋的XD</font></p>
+  <p align="left"><font size="-1"><br>
+    <font size="-1">■■</font></font><font size="-1" color="#660000">排陣的時候請盡量把超級係們往前挪，阿同學的Ez-8靠下，準備從橋上走</font></p>
+  <p align="left"><font size="-1"><b>好，來戰吧XD</b></font></p>
+  <p align="left"><font size="-1">1P：能加速的可以跑多快就跑多快，美少女鋼彈跟著阿同學往橋邊走，負責斷後，不放心的話就再加個登拜因</font></p>
+  <p align="left"><font size="-1">1E：反擊，植物和骨頭的能力都提升了，被打到可是會很痛的喔</font></p>
+  <p align="left"><font size="-1">2P：主力靠近橋頭位置站好援護陣，後援部隊盡量多打爆幾只敵人給大家加氣力，不過要留意植物的氣力，一旦到了105可要小心map喔</font></p>
+  <p align="left"><font size="-1">2E：敵大量增援，先頭部隊被打得非常慘XD<br>
+    <font color="#660000">不管，有底力的開底力，沒底力靠援護，兩個都沒有...看RP！</font></font></p>
+  <p align="left"><font size="-1">3<font color="#FF0000">P：趕快給師匠脫力呀XD 要不下回合電影彈就轟過來了</font><br>
+    橋頭，以響介為援護中心，陣型展開（同時還要兼顧植物的map範圍XD），先殲滅周圍的敵人，師匠用反擊來打 其他幾個打遊擊戰的傢伙集中火力，優先殺植物，骨頭自己會採用近身戰法；而且對植物最好不要在它的對空死角打它（1~2格），否則這個犯賤的傢伙會主動對你採取近身戰姿勢（但是又打不到XD）</font></p>
+  <p align="left"><font size="-1">3E：阿麗對植物用全彈發射進行反擊，反正師匠也輪不著他來打；師匠那邊，由於他是最後動，所以記得響介的援防一定要留一個下來，不然小蒙被師匠的暗黑手指輕輕一抓就會爆掉（狂汗）</font></p>
+  <p align="left"><font size="-1">4P：<b>全軍，突擊！！</b><br>
+    東綫主戰區慘叫聲不斷<br>
+    「あぁぁぁぁぁぁぁっ...」<br>
+    「うぉぉぉぉぉぉぉっ...」<br>
+    「まだまだ！」</font></p>
+  <p align="left"><font size="-1" color="#FF00FF">請原諒我沒有詳細説明戰況吧，因爲...這戰局的慘烈便是無法用言語來形容的呀XD</font><font size="-1"><br>
+    師匠身邊沒一個血超過2K，響介316點@@，外帶彈切@@</font></p>
+  <p align="left"><img src="guide_09.jpg" width="480" height="320"></p>
+  <p align="left"><font size="-1"><br>
+    終于...師匠的血下W了<br>
+    但是...發現更嚴重的事情——<br>
+    <b><font color="#9900CC">他的裝甲怎麽會有22XX啊啊啊，五雷轟頂只傷他1XXX啊啊啊！</font></b></font></p>
+  <p align="left"><font size="-1">4E：<font color="#FF0000">飛影到著</font>（從來沒有像現在一樣盼望這個傢伙的到來XD）<br>
+    順手就給我把下面的滿血植物給收拾了（真、真拽XD）</font></p>
+  <p align="left"><font size="-1">5P：飛影合體判定，空魔出擊！（HP彈藥全空的蕾尼：終、終於又活過來了）<br>
+    繼續圍毆師匠，還剩HP 2XXX點 咦？還不跑？好樣的！這才叫男人！</font></p>
+  <p align="left"><font color="#CC0066">多蒙：これで、終わりだ！シャァァァイニング、フィンガァァァ－－－！！！</font></p>
+  <p align="left"><font size="-1">師匠擊破！</font></p>
+  <p align="left"><font size="-1">剩下3只水怪、3只植物、2只骨頭、1只飛空型僵屍兵，還能動的都給我上啊！！<br>
+    <font color="#666666">阿同學彈切，登拜因EN空，霊格斯分離了打，萊丁EN空SP空...熱血友情勇氣，就連羅麗魂都快燃燒完了XD</font></font></p>
+  <p align="left"><font size="-1">終于...敵人的HP都到了限界，接下來要做的，就是等敵回合反擊</font></p>
+  <p align="left"><font size="-1"><br>
+    5E：劇情發生，師匠再度出現，還帶來了惡魔鋼彈；這時修巴魯玆出現分散了師匠的注意力，讓多蒙趁機攻擊惡魔鋼彈；可是多蒙卻不忍下殺手，反而使得惡魔鋼彈吸收了能量後完全復活！<br>
+    師匠和DG離開后，多蒙也喪失了戰意（從戰場離脫）</font></p>
+  <p align="left"><font size="-1">敵全滅後，修巴魯玆獨自離開追擊DG</font></p>
+  <p align="left"><font size="-1"><br>
+    <font color="#660000">5回合！！集中力→大作</font></font></p>
+  <p align="left"><font size="-1">----------</font></p>
+  <p align="left"><font size="-1"><font size="-1">■■</font><font color="#660000"></font></font><font size="-1" color="#660000"></font><font size="-1">艾爾珊克上的一幕令人不得不敲...這蕾尼還真能借題發揮啊XD<br>
+    然後又把修巴魯玆當作“傳説中的忍者さま”</font></p>
+  <p align="left"><font size="-1">阿姆羅率領的MS隊正在賈布羅回收敵人殘骸時，突然發生了奧拉之路的召喚現象，從我們眼前消失了<br>
+    失去了MS遠程掩護的ガンドール隊已經沒有餘力突入賈布羅，只能先返回極東基地重振旗鼓</font></p>
+  <p align="left"><font size="-1">與此同時，阿露菲米找到了東方不敗和DG，雙方結成了同盟</font></p>
+  <p align="left"><font size="-1">真是的...前途多難啊</font></p>
+  <p align="left"><font size="-1">----------</font></p>
+  <p align="left"><font size="-1"><font size="-1">■■</font><font color="#660000">根據本SCENE的3個STAGE順序決定分支路綫<br>
+    接下來要進入的路綫是4B</font></font></p>
+  <p align="left"><font size="-1"><br>
+    <font size="-1">■■■■</font><font color="#0000FF"><b>地球篇 SCENE3 完結</b></font></font><font color="#0000FF"><b><br>
+    </b></font><b> </b> </p>
+  <p align="left"><font size="-1"><br>
+    </font><font size="-1"> </font> </p>
+  <hr noshade>
+  <p><font color="#000099"><a href="I_data13_a_2.htm">【Back】</a> <a href="I_data13_a_4.htm">【Next】</a></font></p>
+  <p align="left">&nbsp;</p>
+  </div>
+</body>
+</html>

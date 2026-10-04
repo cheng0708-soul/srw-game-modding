@@ -1,0 +1,68 @@
+<html>
+<head>
+<title>Impact-状态解说</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+</head>
+
+<body bgcolor="#FFFFFF" background="bg.jpg" link="#6600CC" vlink="#6600CC" alink="#0099CC">
+<div align="center"> 
+  <p align="center"><font color="#000099">♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀♀</font></p>
+  <p align="center"><font color="#000099"><br>
+    <b>第二節 狀態解説（也算...湊字數吧）</b></font></p>
+  <hr noshade>
+  <p align="left"><b><font color="#000099">先是簡略狀態</font></b><font color="#000099">，如圖</font></p>
+  <p align="left"><img src="i01.jpg" width="480" height="320"></p>
+  <p align="left">&nbsp;</p>
+  <p align="left"><font color="#000099">名字等級HP什麽的都很一目了然，不多嘴了<br>
+    特技欄裏，藍色表示該特技</font><font color="#0000CC"><b><font color="#0000FF">已經發動</font></b></font><font color="#000099">，括號裏面的數字表示本回合該特技剩餘可使用次數<br>
+    效果：表示現在該人物身上附帶的精神效果<br>
+    1/1表示該機體内只有1個駕駛員，例如斷空我的話，忍是1/4，沙羅是2/4，等等...</font></p>
+  <p align="left"><b><font color="#000099"><br>
+    下面是詳細狀態</font></b></p>
+  <p align="left"><font color="#000099">先是機體的</font></p>
+  <p align="left"><img src="i02.jpg" width="480" height="320"></p>
+  <p align="left"><font color="#000099">*サイズ：機體的體型，對迴避有影響，這點待會兒講計算公式時詳細說，LL——巨型，戰艦級別，L——大型，很多超級機器人和MA是這個級別，M——中型，包括MS等人型機械，小羅麗這4W8的怪物居然也是M的... 
+    S——小型，圣戰士係、核心戰機等（好在這次沒出現SS）<br>
+    移動力顧名思義；运動性是機體的機動力；限界是機體的性能極限，當命中或迴避超過限界數值（顯紅字），這時的命中或迴避即以限界為基準，例如圖中的機體限界為330，如果經過改造後迴避成爲155+180=335，此時的實際迴避即為330</font></p>
+  <p align="left"><font color="#000099">*裝甲只有900？這個就是BOSS級裝甲嗎？呃...其實這個狀態已經是被說得以後的了，在此之前的裝甲差不多是這個數的2倍...<br>
+    <font color="#0000FF"><b>需要補充的是，像底力、頑固一徹等影響裝甲的技能，發動以後裝甲值的變動會直接顯示出來，這點比較好，免得自己去算了:p</b></font></font></p>
+  <p align="left"><font color="#000099">*移動一項中的空A陸A什麽的，指機體在該地形穿越阻礙的能力（例如地上的樹林、山地，宇宙中的隕石群等等），A就是完全不受阻礙，而A以下會不同程度受到阻礙，使移動能力低於賬面數值。（補充，“地”是指地中，專門對應蓋塔2這種會鑽地的機體）</font></p>
+  <p align="left"><font color="#000099">*地形，指機體在不同地形中的適應能力，全面影響機體的戰鬥能力，這個會重點講</font></p>
+  <p align="left"><font color="#000099">剩下的我們在人物狀態裏面再講:p</font></p>
+  <p align="left"><font color="#000099"><b>下面按○鍵，進入第二界面</b></font></p>
+  <p align="left"><img src="i03.jpg" width="480" height="320"></p>
+  <p align="left"><font color="#000099">這裡要講的是修理費和特殊技能<br>
+    修理費分敵我兩種，對我軍來講，修理費就是當機體被擊墜時需要掏的錢（ベルゼイン·リヒカイト只要5000，真好物*_*）；</font><b><font color="#0000FF">而敵軍的修理費除2，就是擊墜該機體后能拿到的資金，也就是敵修理費相當于一個幸运</font></b><br>
+    <font color="#000099">有些時候並不會遵照這個原則，例如發生雪山事件時讓小白加祝福擊墜愛娜，阿普薩拉斯II的修理費是7600，但是結果拿到的卻是17600，多出來的1W...難道是劇情BONUS？<br>
+    特殊技能現在看不到，這個是指機體特殊技能，像分身、HP/EN回復、各種護罩等等</font></p>
+  <p align="left"><font color="#000099">在這個界面按△鍵，可以看到機體的詳細介紹，這個設定很人性化喔~</font></p>
+  <p align="left"><font color="#000099"><img src="i04.jpg" width="480" height="320"></font></p>
+  <p align="left"><font color="#000099"><b>然後是人物</b></font></p>
+  <p align="left"><font color="#000099"><b><img src="i05.jpg" width="480" height="320"></b></font></p>
+  <p align="left"><font color="#000099">先講性格，當本方機體被擊墜時，超強氣性格者氣力+2，強氣+1，普通不變，弱氣-1<br>
+    <b><font color="#FF0000">注意：本作中，用map擊墜的對敵我氣力增減均無影響，</font></b>這點請務必好好利用！</font></p>
+  <p align="left"><font color="#000099">精神和技能接下來會有詳細解説</font></p>
+  <p align="left"><font color="#000099">戰鬥能力：格鬥/射擊，這是直接影響人物使用格鬥/射擊武器效果的數據；技量影響會心一擊的發動和精神指令“てかげん”（手加減）的使用；防禦關係到機體受到攻擊時的傷害程度；命中/迴避這兩項比較直觀，需要注意的是，像外傳一樣，機體运動性不再對命中有加成<br>
+    補充，多蒙的人物技能“明鏡止水”發動後，人物數據的變化會直觀反映出來，<font color="#0000FF"><b>但是像底力一類的技能則不會在賬面上有所變化</b></font>；所以在作戰時踫到黃血高底力等級的人千萬不要被他狀態欄裏的命中能力騙了呀~</font></p>
+  <p align="left"><font color="#000099"><b>同樣，在這個界面按△鍵可以進入裏·人物界面:p </b></font></p>
+  <p align="left"><img src="i06.jpg" width="480" height="320"></p>
+  <p align="left"><font color="#000099">這裡能看到人物的簡介、聲優、三圍（沒有三圍...唉...），還有，按□鍵可以聽到人物的臺詞喔~雖然只有兩句</font><br>
+    <b><font color="#0000FF">蝶のように舞い，蜂のように刺しますの~≧▽≦</font></b></p>
+  <p align="left"><font color="#000099"><b>最後講講武器</b></font></p>
+  <p align="left"><img src="i07.jpg" width="480" height="320"></p>
+  <p align="left"><font color="#000099">先講屬性：武器前面有拳頭符號的表示是格鬥係武器；有準星記號的表示是射擊係武器；末尾帶P的表示該武器可以移動後攻擊；帶B的表示該武器屬於光線係，受到光線護罩、重力防壁等影響；帶有map字樣表示該武器是地圖攻擊武器</font></p>
+  <p align="left"><font color="#000099">彈數、需要氣力、消耗EN這些都很容易看懂，不講；地形適應也是待會兒重點講的内容</font></p>
+  <p align="left"><font color="#000099">必要技能是指使用該武器所必需的人物技能，例如浮游飛翔炮需要NT或強化人間，石破天驚拳需要明鏡止水等等</font></p>
+  <p align="left"><font color="#000099">クリティカル補正，這是武器的會心一擊率補正</font></p>
+  <p align="left"></p>
+  <p align="left"><font color="#000099">好，第二課結束:p <br>
+    </font> </p>
+  <p align="left"><font color="#000099"><b><br>
+    </b> </font> </p>
+  <hr noshade>
+  <p><font color="#000099"><a href="I_data01.htm">【Back】</a> <a href="I_top.htm">〖Top〗</a> 
+    <a href="I_data03.htm">【Next】</a></font></p>
+  <p align="left">&nbsp;</p>
+  </div>
+</body>
+</html>

@@ -1,0 +1,286 @@
+<html>
+<head>
+<title>Impact-第二部-SCENE 5</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+</head>
+
+<body bgcolor="#FFFFFF" background="bg.jpg" link="#6600CC" vlink="#6600CC" alink="#0099CC">
+<div align="center"> <font color="#000099">★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★</font> 
+  <p align="center"><b><font color="#000066" size="+1">第二部 宇宙激震篇</font></b></p>
+  <p align="center"><b>SCENE 5 「コロニー奪還」<br>
+    </b></p>
+  <p align="center"><font color="#000099"><br>
+    ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆</font></p>
+  <hr noshade>
+  <p align="left"><font size="-1"><b><font color="#FF0000" size="+1">本篇注意事項：</font></b></font></p>
+  <p align="left"><font size="-1">■■1.第一個STAGE中，如果在地球篇SCENE5觸發了忍者眾被傳送的事件，那麽他們會和伊路波拉一起出現在本話，並影響熟練度條件</font></p>
+  <p align="left"><font size="-1">2.可選關卡“廢棄コロニー帯”中，讓ロム說得キナ，是日後キナ姐弟加入的必要條件，該話完結後克連泰沙係歸隊</font></p>
+  <p align="left"><font size="-1">3.可選關卡“ルナツー內部”，讓ジュドー說得プルツー，然後在<font color="#FF0000">擊破グレミー且プルツーHP為紅色</font>時再次說得即告成功；同一話，隱藏部屋内入手機體ジェガン 
+    </font></p>
+  <p align="left"><font size="-1">4.經過可選關卡“ストーンサークル2”以後，萊丁加入</font></p>
+  <p align="left"><font size="-1">5.SELECT關卡全部完成後，彈劾凰、忍者眾（如果有上宇宙的話）降落地球協助ガンドール隊攻略百鬼科學要塞島，就此離隊；如果在地球篇完成了プル的加入條件，那麽她和座機キュベレイMk-II（プル）一起加入；補充MSドーベン·ウルフ，不過這架機體上有BUG，到第三部會自動消失，請不要碰它</font></p>
+  <p align="left"><font size="-1">6.本STAGE完結後，羅姆眾正式加入<font color="#660000">（OYeah~~）</font></font></p>
+  <p align="left"><font size="-1"><br>
+    ■■<b>推薦選擇順序</b>：<font color="#FF0000">廢棄コロニー帯（取回克連泰沙）→ルナツー內部（璞露玆有祝福，先取）→ストーンサークル2（取萊丁）→ディラド近海</font></font><br>
+  </p>
+  <p align="left">&nbsp; </p>
+  <hr>
+  <p align="left"><font color="#0000FF">第56話 策谋の宙域</font></p>
+  <p align="left"><font size="-1">----------<br>
+    ■■<font color="#0000FF">熟練度：</font>擊退或擊破マシュマー，HP 26160，20%（5232）敗退；如果滿足忍者眾轉移條件，則要在事件前（4E）將他擊退/擊破</font></p>
+  <p align="left"><font size="-1" color="#0000FF">我方初期配置</font><font size="-1">：ブライト（ラー·カイラム），自選12機，コウ出擊不能</font></p>
+  <p align="left"><font size="-1" color="#0000FF">敵方初期配置</font><font size="-1">：マシュマー（ドーベン·ウルフ）、ゴットン（エンドラ） 
+    HP 25750 不撤退、ネオ·ジオン兵（ドライセン）X3、ネオ·ジオン兵（ガザD(MA)）X9</font></p>
+  <p align="left"><font size="-1" color="#0000FF">我方援軍</font><font size="-1">：<br>
+    4E ジョウ（黑獅子）、レニー（鳳雷鷹）、マイク（爆竜）<br>
+    5P コウ（ガンダム試作3號機）</font></p>
+  <p align="left"><font size="-1" color="#0000FF">敵援</font><font size="-1">：<br>
+    4E イルボラ（スケルトン）、人工知能（シャーマン）X2、人工知能（バンクス）X2<br>
+    5P イリア（R·ジャジャ） HP 15940 不撤退、ネオ·ジオン兵（キュベレイMk-II）X6</font></p>
+  <p align="left"><font size="-1">中立方：6N 飛影</font></p>
+  <p align="left"><font size="-1">強化部件：超合金ニューZ（ドーベン·ウルフ）、ブースター（エンドラ）、高性能照準器（スケルトン）</font></p>
+  <p align="left"><font size="-1">----------<br>
+    <font size="-1">■■</font><font color="#660000">（這幾話是難得的鍛煉二綫隊員的好時機，敵人能力不強，我方主力也不多，趕快練，要不等主力們回來了就沒什麽機會了）</font></font></p>
+  <p align="left"><font size="-1" color="#FF0000">失敗條件：敵人侵入阿納海姆（門口直綫6格）</font></p>
+  <p align="left"><font size="-1" color="#660000">出陣的時候不要把全部主力往敵初期配置方向擺，因爲等會兒增援是在阿納海姆正上方出現的，要預留人手</font></p>
+  <p align="left"><font size="-1">3P，馬修曼擊破</font></p>
+  <p align="left"><font size="-1">4P，敵全滅，列陣等增援</font></p>
+  <p align="left"><font size="-1">4E，如果忍者眾被傳送的話現在會出來</font></p>
+  <p align="left"><font size="-1">5P，GP-03出現在阿納海姆門口，同時敵新人類部隊於阿納海姆左上月面增援</font></p>
+  <p align="left"><font size="-1" color="#666666">戰鬥非常簡單，都不好意思寫了-_-</font></p>
+  <p align="left"><font size="-1">■■<font color="#660000">5回合，集中力→さやか</font></font></p>
+  <p align="left"><font size="-1">----------<br>
+    ■■<font color="#660000">版面選擇：廢棄コロニー帯</font></font></p>
+  <p align="left"><font size="-1" color="#660000">進入下一話</font><br>
+  </p>
+  <hr>
+  <div align="left"> <font color="#0000FF">第57話 燃えて走れ姉弟戦士 </font> 
+    <p><font size="-1">----------<br>
+      ■■<font color="#0000FF">熟練度</font>：本隊增援前（5P）擊退或擊破デビルサターン，HP 27800，30%（8340）敗退</font></p>
+    <p><font size="-1" color="#0000FF">我方初期配置</font><font size="-1">：ロミナ（エルシャンク）（NPC）、デューク（グレンダイザー）、マリア（アフロダイA）</font></p>
+    <p><font size="-1" color="#0000FF">敵方初期配置</font><font size="-1">：デビルサターン（デビルサターン6）、キナ（ジンギマークII） 
+      HP 15000 30%（4500）撤退、人工知能（ブラッディI）X2 HP 11500、人工知能（空中戰車）X4、ザリオスX5、ファルゴスX3、キャスモドンX3</font></p>
+    <p><font size="-1" color="#0000FF">我方援軍</font><font size="-1">：<br>
+      3P 艾爾珊克周圍 ロム（ケンリュウ）、レイナ（パワーライザー(レイナ)）、ブルー·ジェット、ロッド·ドリル、トリプル·ジム <br>
+      5P ブライト（ラー·カイラム），自選10機</font></p>
+    <p><font size="-1" color="#0000FF">強化部件</font><font size="-1">：大型ジエネレーター（デビルサターン6）、高性能レーダー（ジンギマークII）、マグネツトコーティング（ザリオス）、チョバムアーマー（ブラッディI）</font></p>
+    <p><font size="-1">----------<br>
+      ■■<font color="#660000">艾爾珊克半路抛錨，剛好踫到ギャンドラー...開打</font></font></p>
+    <p><font size="-1" color="#660000">兩個BOSS第5回合都會跑，而且キナ要在デビルサターン之前打下來，加上デビルサターン不會主動攻擊...好在克連泰沙武器已經改滿了，不管怎樣試一試先</font></p>
+    <p><font size="-1">1P，大介、瑪麗亞最大戰速往下，兩翼的敵人留給艾爾珊克</font></p>
+    <p><font size="-1">2P，キナ面前5只ザリオス從左至右分別代號A-E，大介跑到B面前2格，飛拳扁キナ，<font color="#FF0000">並被打到</font>，瑪麗亞到A面前2格，給大介補HP</font></p>
+    <p><font size="-1">2E，大介替瑪麗亞援防一次，對雜魚的反擊全部飛拳打回去，<font color="#FF0000">並被打到</font>，對キナ用電的（有可能的話凹一凹CT）；艾爾珊克那邊，如果不幸把敵人打死了就讀盤XD</font></p>
+    <p><font size="-1">3P，<font color="#0000FF">「純なる子供の心を操り、自らの欲望を達しようとするは悲し...人、それをエゴという...！」</font><br>
+      <font color="#666666">（羅姆這個傢伙，看到美女就老老實實報上名號了-_-）</font></font></p>
+    <p><font size="-1">蕾娜激勵傑特，傑特加速突擊集中+大介放電援護，攻擊デビルサターン（傑特凹CT）；大介熱血，向下移動一格用ハンドビーム打デビルサターン；羅姆鼓舞鑽頭氣合跟進（鑽頭請變形了走）；修理機補給機把艾爾珊克附近HP不足的敵人收拾掉</font></p>
+    <p><font size="-1"><br>
+      3E，替羅姆把擋路的B或C處理掉</font></p>
+    <p><font size="-1">4P，羅姆說得キナ；鑽頭熱血，兩格距給キナ吃正拳突，加上大介援護，打跑キナ；傑特突擊集中，木の葉おとし+スペ－スサンダ－攻擊デビルサターン（<font color="#FF0000">至少要把HP數字打出來</font>）；最後祝福應援信賴，有什麽好用的全用掉，大介熱血金鋼戰斧凹CT結果デビルサターン</font></p>
+    <p><font size="-1">デビルサターン逃跑後羅姆眾立刻追擊離去，此時若キナ仍在戰場上也會撤退</font></p>
+    <p><font size="-1">5P，本隊到著，把攻擊力強的人放在前排對付兩只ブラッディI，大介配合一下，6回合過版</font></p>
+    <p><font size="-1"><br>
+      ■■<font color="#660000">6回合，精神力+15→司馬亮</font></font></p>
+    <p><font size="-1">----------<br>
+      ■■艾爾珊克去阿納海姆大修了，要過很~~~長一段時間才能歸隊，好在大介和瑪麗亞回來了，戰力充實中...</font></p>
+    <p><font size="-1"><br>
+      ■■<font color="#660000">下一話 「蠢蠢欲動的幽靈們」</font></font></p>
+    <p><font size="-1" color="#660000">我們“聾得背耳”不就是專門負責惡霊退散的麽<img src="231.gif" width="40" height="40"></font></p>
+    <hr>
+    <p><font color="#0000FF">第58話 動き出す幽鬼たち</font></p>
+    <p><font size="-1">----------<br>
+      ■■<font color="#0000FF">熟練度</font>：擊破ジ·Ｏ，HP 33000，30%（9900）敗退</font></p>
+    <p><font size="-1" color="#0000FF">我方初期配置</font><font size="-1">：ブライト（ラー·カイラム），自選13機</font></p>
+    <p><font size="-1" color="#0000FF">敵方初期配置</font><font size="-1">：グレミー（バウ(MS)） 
+      HP 28820 30%（8641）敗退、プルツー（キュベレイMk-II） HP 24200、ジェリド（ジ·Ｏ）、ネオ·ジオン兵（キュベレイMk-II）X4、ティターンズ兵（パラス·アテネ）X3、ティターンズ兵（ハンブラビ(MS)）X3、ティターンズ兵（ガブスレイ(MS)）X6</font></p>
+    <p><font size="-1" color="#0000FF">敵援</font><font size="-1">：3E 基地門口 ギル（ブラッディI） 
+      HP 30500 30%（9150）敗退、人工知能（空中戰車）X4</font></p>
+    <p><font size="-1" color="#0000FF">強化部件</font><font size="-1">：資金20000（バウ(MS)）、チョバムアーマー（ブラッディI）、オーラコンバーター（第一個隱藏部屋）、ジェガン（第二個隱藏部屋）</font></p>
+    <p><font size="-1">----------<br>
+      ■■<font color="#FF0000">本話請記得派豬頭（:p）出來</font></font></p>
+    <p><font size="-1">■■<font color="#660000">本話的地圖乍一看會被嚇到，要繞好大一個圈子才能到基地門口，其實...肯定有密道的啦:p<br>
+      大致上可以分成兩個戰區：中央的傑利特、門口的3個BOSS</font></font></p>
+    <p><font size="-1" color="#660000">這次BOSS敗退HP沒一個過1W的，克連泰沙或者彈劾凰熱血最大技就差不多了...那麽也就不用考慮攻擊組合的問題<br>
+      建議把沒怎麽改武器的超級係和MS們投入正上方走廊清掃雜兵；武器改滿的、有幸运的，以及豬頭走右側的密道，出了密道後一部分人對付門口的新人類部隊以及增援，一部分人向上走合攻傑利特</font></p>
+    <p><font size="-1" color="#660000">很簡單是不是？那麽，開始</font></p>
+    <p><font size="-1"><img src="guide_51.jpg" width="480" height="320"><br>
+      <font color="#FF00FF">（喏，密道在這裡）</font></font></p>
+    <p><font size="-1" color="#990099">拿了寳箱後不要急著出來，右邊的墻也是可以打的，打破了又是一個隱藏部屋，接下來...不用說了吧，這麽明顯的位置...</font><font size="-1"><br>
+      出了密道後才發現，<font color="#3300FF">原來後援部隊才走了一半的路XD </font>那麽不忙包抄傑利特，先幫著門口的部隊把邱貝雷Mk-II打一打</font></p>
+    <p><font size="-1">3E，基魯增援（一説与殘敵數量有関？我打爆4只他就出來了，或許要在第二回合打爆一定數量敵人才行，懶得再去試:p），<font color="#FF6600">唔...不錯，好多錢，偶收下了:p</font><br>
+      門口敵人的陣型非常好，一個map下去少說可以轟個2W出來...不過我是不準備這麽做啦，因爲隊伍裏有不少會幸运的，加上祝福，大家均分一下才好~.~</font></p>
+    <p><font size="-1">對付新人類部隊請愛用擾亂，雖説邱貝雷Mk-II的地形只有A，不過能力還是很強的，順便可以把武器全改，<font color="#CC0000">运動130+的核心戰機（豬頭開著）踢去第一綫吸引火力</font></font></p>
+    <p><font size="-1">接下來要說得璞露玆：先讓豬頭和她對話一次，然後滅殺<font color="#FF6600">燈泡</font>古利明，再把她HP打到紅<font color="#CC0000">（好像還不夠，應該是5000以下才行）</font>，這樣就可以說得成功了，她會馬上加入（現成的祝福喔）</font></p>
+    <p><font size="-1"><br>
+      ■■<font color="#660000">6回合，精神力+15→さやか</font></font></p>
+    <p><font size="-1">----------<br>
+      ■■<font color="#660000">版面選擇：ストーンサークル2</font></font></p>
+    <p><font size="-1" color="#660000">進入下一話</font></p>
+  </div>
+  <hr>
+  <p align="left"><font color="#0000FF">第59話 常闇の国</font></p>
+  <p align="left"><font size="-1">----------<br>
+    ■■<font color="#0000FF">熟練度</font>：8回合敵全滅</font></p>
+  <p align="left"><font size="-1" color="#0000FF">我方初期配置</font><font size="-1">：洸（ライディーン）</font></p>
+  <p align="left"><font size="-1" color="#0000FF">敵方初期配置</font><font size="-1">：？？？（アインストクノッヘン）X9、？？？（アインストグリート）X3</font></p>
+  <p align="left"><font size="-1" color="#0000FF">我方援軍</font><font size="-1">：4P 
+    ブライト（ラー·カイラム）、エクセレン（ヴァイスリッター），自選12機</font></p>
+  <p align="left"><font size="-1" color="#0000FF">敵援</font><font size="-1">：<br>
+    2E ？？？（アインストクノッヘン）X3、？？？（アインストグリート）X3<br>
+    3E ？？？（アインストグリート）X3、？？？（アインストゲミュート）X3<br>
+    4P ？？？（アインストレジセイア） HP 48000</font></p>
+  <p align="left"><font size="-1" color="#0000FF">強化部件</font><font size="-1">：ミノフスキークラフト（アインストレジセイア）、アポジモーター（アインストゲミュート）、ブースター（アインストクノッヘン）</font></p>
+  <p align="left"><font size="-1">----------<br>
+    ■■<font color="#660000">只有洸一個人...如果沒有改機體的就趕快跑吧，建議到補給點上等援兵比較好，精神盡量用，念動力補SP非常快<br>
+    <font color="#FF00FF">（洸居然有40級@@）</font></font></font></p>
+  <p align="left"><font size="-1" color="#660000">每回合用一個必閃，6面盾牌堅持到本隊增援還是很輕鬆的，殺敵就不用了，等級太高...</font></p>
+  <p align="left"><font size="-1">4P，本隊到著！<br>
+    先看下戰場，地圖上密密麻麻一片紅...<br>
+    想要快點過版，出擊時就要有點講究<br>
+    出擊點左側的3頭植物，建議讓一個<font color="#990000">有熱血、但是武器又沒怎麽改的超級係</font>過去（我這裡是鉄金鋼啦，金鋼火焰3000攻擊，配合熱血很夠用），</font></p>
+  <p align="left"><font size="-1" color="#000066">同時再加個以實體彈攻擊爲主的MS（好像邱貝雷Mk-II剛好）；右側的3只骨頭，以母艦爲主（我傢林有德27級喔，別小看~~），配合GP-03、ヴァル·ヴァロ和修理機，應該也能很快擺平；剩下的超級係主力和王牌R係全軍向上，給魔王大人請安</font></p>
+  <p align="left"><font size="-1" color="#990000">（——等等，魔王是誰？<br>
+    <font color="#FF0000">——別急，你看這不來了麽）</font></font></p>
+  <p align="left"><font size="-1" color="#6600CC">隨著一聲驚天動地（？）的巨響，一個龐然大物出現在敵陣正中</font><font size="-1"><br>
+    <font color="#FF9900">喔~原來是<b>觸手王老兄</b>，久違久違（爆）</font></font></p>
+  <p align="left"><font size="-1">那麽開打吧，重申，<font color="#006600">小心植物的map！</font></font></p>
+  <p align="left"><font size="-1" color="#660033">以擾亂爲主的戰術，超級係們加了必閃鉄壁打，或者与アインストレジセイア近身，不會被打得很慘<br>
+    アインストレジセイア不如地球篇最後一話那麽BT啦，熱血灌上去很快看出效果</font></p>
+  <p align="left"><font size="-1"><br>
+    ■■<font color="#660000">6回合，精神力+15→雅人</font></font></p>
+  <p align="left"><font size="-1">----------<br>
+    ■■萊丁...零改的時候用著很爽，大家都有改了就顯出攻擊方面的不足了，不過雖然不能作爲王牌戰力來用，還是有很多優點的，例如皮厚、SP回復、EN消耗少...</font></p>
+  <p align="left"><font size="-1">給他裝個高性能雷達，移動+1、超合金NewZ，開戰兩氣合，神鳥衝擊隨便用，還算普普啦:p</font></p>
+  <hr>
+  <p align="left"><font color="#0000FF">第60話 魔神転生</font></p>
+  <p align="left"><font size="-1">----------<br>
+    ■■<font color="#0000FF">熟練度</font>：擊破シャビロ，HP 29000，30%（8700）敗退</font></p>
+  <p align="left"><font size="-1" color="#0000FF">我方初期配置</font><font size="-1">：ブライト（ラー·カイラム），自選13機</font></p>
+  <p align="left"><font size="-1" color="#0000FF">敵方初期配置</font><font size="-1">：人工知能（ディラド戰鬥メカ）X13</font></p>
+  <p align="left"><font size="-1" color="#0000FF">敵援</font><font size="-1">：<br>
+    敵初期配置剩餘8體或以下 出擊點右側暗礁空域右下方 ケイム（ディラド決戰メカ） HP 19350 不撤退、人工知能（ディラド戰鬥メカ）X2<br>
+    左側對應位置 シャビロ（シャビロ戦闘メカ）、人工知能（ディラド戰鬥メカ）X2</font></p>
+  <p align="left"><font size="-1" color="#0000FF">強化部件</font><font size="-1">：サイコフレーム（シャビロ戦闘メカ）、メガブースター（ディラド決戰メカ）、對ビームコーティング（ディラド戰鬥メカ）<br>
+    </font></p>
+  <p align="left"><font size="-1">----------<br>
+    ■■<font color="#990000">（看藤原忍和佩吵架真的很有意思^@^）</font></font></p>
+  <p align="left"><font size="-1">■■<font color="#660000">出陣的時候把主力往兩翼擺，特別是左翼<br>
+    右翼有兩三個猛人就夠了，左翼多派幾個過去（說起來我有多少機體武器已經滿了呢？白騎士、克連泰沙、超獸機神、彈劾凰、Zeta、核心戰機，似乎很夠用:p）</font></font></p>
+  <p align="left"><font size="-1" color="#666666">（盯著那顆小惑星看久了爲什麽會覺得渾身發毛呢@@）</font></p>
+  <p align="left"><font size="-1" color="#0000FF">這一話如果配置得當可以創造最快過版紀錄——</font></p>
+  <p align="left"><font size="-1"><br>
+    <font color="#660000">前兩回合，下方攻略部隊滅掉5個敵人應該不難，除此之外還要往敵兩翼移動吃反擊，特別是有一個敵人佔著補給點的，優先解決掉；左翼請把大介埋伏到BOSS出擊點旁邊，必中熱血準備好，右翼就隨便了，保證能反擊就行</font><br>
+    增援條件滿足後，2E，夏比羅登場，<font color="#FF00FF">隨後ケイム趕來救護心上人</font>（<font color="#666666">XD我在說什麽</font>），廢話少說先每人挨一記大招<br>
+    3P，熱血<font color="#FF6600">金鋼戰斧</font>熱血<font color="#CC0000">野獸衝擊</font>熱血<font color="#669900">炎獄魔動砲</font>（<font color="#990099">這是什麽？哦，是我給艾艾B模式取的新名字來著...</font>），夏比羅僕；爲什麽ケイム不跟著跑路呢？那就<font color="#CC00CC">熱血熱血超米加炮二連，送ケイム去見夏BL 
+    :p</font><br>
+    <font color="#660099">下面這麽多人怎麽辦？你當我丟GP-03下來是觀光麽？爆導索呀！過了這話就沒什麽機會再拿出來秀了XD</font></font></p>
+  <p align="left"></p>
+  <p align="left"><font size="-1">■■<font color="#660000"><b>3回合！</b>集中力→ランバ </font></font></p>
+  <p align="left"><font size="-1">----------<br>
+    ■■過版後拿到杜賓狼，記得我說過這玩意兒自己會消失吧，不要給它改造就是了，不過武器的確很不錯，給人坐上去拿來當戰艦援護是個好主意~~</font></p>
+  <p align="left"><font size="-1">■■怪博士ターサン主動和我們聯絡，透露說ギャンドラー和バンカー的目的是在地球上尋找一種名為“ハイリビード”的神秘能源，而且已經找到了性質相近的能源——ムートロン<br>
+    （<font color="#666666">其實老頭是想給點好處我們，以便召回彈劾凰小隊時比較方便些XD 結果要求還沒出口，就被大介給噎回去了——應該不是有意陰他，老頭自己疑心生暗鬼來著<img src="233.gif" width="40" height="40">，然後褲襪兄趁機發揮，老頭完敗:p</font>）<br>
+    不過彈劾凰小隊聽説基魯有意搶奪ムートロン時決定降落地球阻止他（就此離隊）</font></p>
+  <p align="left"><font size="-1">走了彈劾凰，來了璞露，馬馬虎虎:p</font></p>
+  <p align="left"><font size="-1"><br>
+    ■■下一話是大戰，比地球篇同一話的百鬼要塞島要難打得多，而且還有13XXX撤退的BOSS，請做好準備 </font></p>
+  <p align="left"><font size="-1"><br>
+    ■■<font color="#660000">第61話 「在絕望的宇宙中」</font></font></p>
+  <p align="left"><font size="-1" color="#660000">この戰、もはや万に一っも勝っ見込みはあるまい...</font><br>
+  </p>
+  <p align="left"></p>
+  <hr>
+  <p align="left"><font color="#0000FF">第61話 絶望の宇宙に</font></p>
+  <p align="left"><font size="-1">----------<br>
+    ■■<font color="#0000FF">熟練度</font>：擊破ノイエ·ジール，HP 44000，30%（13200）敗退</font></p>
+  <p align="left"><font size="-1" color="#0000FF">我方初期配置</font><font size="-1">：ブライト（ラー·カイラム）、コウ（ガンダム試作3號機），自選12機</font></p>
+  <p align="left"><font size="-1" color="#0000FF">敵方初期配置</font><font size="-1">：ガトー（ノイエ·ジール）、マシュマー（ドーベン·ウルフ） 
+    HP 27000 不撤退、イリア（R·ジャジャ） HP 21750 不撤退、ジオン兵（ヴァル·ヴァロ）X3 HP 12000、ジオン兵（ドライセン）X3、ネオ·ジオン兵（R·ジャジャ）X6</font></p>
+  <p align="left"><font size="-1" color="#0000FF">我方援軍</font><font size="-1">：6P 
+    マシュマー隊附近 ロム（ケンリュウ）、レイナ（パワーライザー(レイナ)）、ブルー·ジェット、ロッド·ドリル、トリプル·ジム 敵援：<br>
+    敵初期配置剩餘8體或以下 地圖左下我方初期配置附近 アルフィミィ（ベルゼイン·リヒカイト） HP 30000 不撤退、？？？（アインストアイゼン）X3<br>
+    5E ガトー隊和イリア隊中間宙域 シーマ（ガンダム試作2號機） HP 34000 不撤退、ジオン兵（ガーベラ·テトラ）X2；イリア隊附近 ネオ·ジオン兵（キュベレイMk-II）X3；マシュマー隊附近 
+    ネオ·ジオン兵（キュベレイMk-II）X3</font></p>
+  <p align="left"><font size="-1" color="#0000FF">強化部件</font><font size="-1">：I·フィールド發生器（ノイエ·ジール）、バイオセンサー（ドーベン·ウルフ）、資金10000（ガンダム試作2號機）、<font color="#FF0000">ソーラーセイル</font>（ベルゼイン·リヒカイト）</font></p>
+  <p align="left"><font size="-1">----------<br>
+    ■■<font color="#660000">戰術：三叉戟<br>
+    大介和羅麗姐妹帶修理機主攻北綫イリア隊，大介反擊一輪後立刻朝東北卡多的方向移動，殘敵留給羅麗姐妹對付，イリア在Impact中的能力不及完結篇那麽強，小心應戰當無虞<br>
+    褲襪（Z）和豬頭（CB）走直綫，逼近マシュマー隊，也是反擊一輪後往上与大部隊合流<br>
+    超級係主力走斜綫，路上幹掉ドライセン長氣力<br>
+    擊破卡多後，分出一部分兵力回頭對付增援的原種係，另一部分對付北綫增援的吉恩軍</font></font></p>
+  <p align="left"><font size="-1">要點：<font color="#0000FF"><br>
+    1.マシュマー的直綫map、アルフィミィ的雙直綫map、シーマ的核彈，請留意！<br>
+    </font><font color="#660000">2.ノイエ·ジール有I力場，加上頑固一徹後光綫武器幾乎看不到效果，請以必殺技對付，我還是用金鋼戰斧+B模式<font color="#FF0000">（艾艾移動力必須加到9，重要！）</font></font><br>
+    <font color="#006600">3.為節省時間最好能在3E把羅麗引出來，因而反擊時能殺敵的盡量殺</font><br>
+    <font color="#990000">4.限定作戰時間12回合，記住了</font></font></p>
+  <p align="left"><font size="-1"><br>
+    <font color="#6600CC">現在這個熟練度下（59）連小兵HP都是8000起跳，攻擊力2500以上，我裝甲1500+的超級係們過去很快就被打殘了&gt;▽&lt;<br>
+    還有，雜兵的技量有110，算是很高，導致超級係們沒裝CT+25的基本出不了CT&gt;_&lt;</font></font></p>
+  <p align="left"><font size="-1" color="#990099">卡多周圍3個開ヴァル·ヴァロ的小兵一定要當心，命中+30、攻擊力2900的大型米加炮非常厲害</font></p>
+  <p align="left"><font size="-1"><br>
+    ■■<b>第三回合，激鬪開始！</b><br>
+    <font color="#660000">神北惠子使用擾亂<br>
+    北綫イリア隊，羅麗姐妹趁艾艾和大介還在附近，先利用援護打擊イリア（原來艾艾的技量成長得這麽快，已經超過大介了耶~），瑪麗亞過來給大介補HP<br>
+    北、中、南三箭齊發，進入主戰區，褲襪站最前吸引火力，其他人把ヴァル·ヴァロ先收拾掉一只<br>
+    剩餘部隊把敵人數量打到8個</font></font></p>
+  <p align="left"><font size="-1">3E，羅麗亂入，這次又帶來假廢鐵3只<br>
+    他們會主動進攻，不必管，解決了卡多再回頭迎擊不遲</font></p>
+  <p align="left"><font size="-1"><br>
+    第四回合，大亂戰<br>
+    擾亂可以先省一省<br>
+    北綫イリア隊，羅麗姐妹浮游飛翔炮互援，擊破イリア（讓受傷輕的人先攻，我這裡是璞露啦，還有裝護罩，只要一下打不死修一修馬上就活過來了）；注意幾個BOSS身上都有資金BONUS，祝福幸运不要忘了用；這邊還剩R·ジャジャ一只，基本上沒多大威脅了<br>
+    褲襪的援護用完後往下迎擊マシュマー，把母艦拉過來援防就萬無一失；二綫超級係到達敵增援宙域（ガトー隊和イリア隊中間）<br>
+    主戰區，大介和艾艾做好援護，把卡多的HP打到限界</font></p>
+  <p align="left"><font size="-1"><br>
+    5P，<font color="#666666">兩只兔子交手居然沒對話，害我老遠的把他調過來&gt;_&lt;</font><br>
+    <font color="#CC0000">那麽就不客氣了，CTCT加熱血，卡多擊破！</font><br>
+    艾艾馬上往下跑，途中与褲襪連擕，攻擊馬修曼<br>
+    羅麗姐妹和瑪麗亞構成援護陣型，站外圍的人請加集中</font></p>
+  <p align="left"><font size="-1"><br>
+    5E，吉恩軍奇襲部隊增援<br>
+    宇S的邱貝雷Mk-II浮游炮非常強！請小心應付 </font></p>
+  <p align="left"><font size="-1"><br>
+    6P，<font color="#330099">時間已經過去了一半，敵人卻還有生力軍加入，難道“聾得背耳”的一世英名要在此終結麽？</font><br>
+    <font color="#660000">「待ていっ！」</font><br>
+    <font color="#0000FF">「大いなる川の流れを力で止めようとする者は、やがて、その愚かなることに気付くだろう。正義の流れは、もはや止められぬ...人、それを怒濤という...！」</font><br>
+    <b>天空之使者、羅姆眾參上！</b></font></p>
+  <p align="left"><font size="-1" color="#9900CC">來得正好，右側的新人類部隊就交給他們對付了~</font></p>
+  <p align="left"><font size="-1" color="#FF00FF">擾亂發動，全軍反擊！</font></p>
+  <p align="left"><font size="-1">希瑪的GP-02是大威脅，一回合擊破它！不過不好打，血多皮厚盾牌多，切浮游炮比拍蒼蠅還輕鬆（哇咧這麽會切不去當NT真是大浪費XD）<br>
+    邱貝雷Mk-II加幸运6000一只，有預算盈餘的就留給它們吧</font></p>
+  <p align="left"><font size="-1">馬修曼擊破！希瑪擊破！BOSS級人物只剩羅麗一個<br>
+    <font color="#0000FF">羅麗攻略組</font><font color="#666666">（這個名字聽著忒邪惡</font>）向目標靠攏，注意map！</font></p>
+  <p align="left"><font size="-1"><br>
+    7P，<font color="#990099">吉恩軍新人類部隊全滅確認</font><br>
+    <font color="#CC0000">羅麗擊破確認</font></font></p>
+  <p align="left"><font size="-1">最後還剩3只龜速中的假廢鐵...</font></p>
+  <p align="left"><font size="-1"><br>
+    8P，<font color="#006600">假廢鐵全滅確認</font><br>
+    コロニー奪還作戰——成功！！</font></p>
+  <p align="left"><font size="-1"><br>
+    ■■<font color="#660000">8回合，CT+25→デューク（覆蓋援防）</font></font></p>
+  <p align="left"><font size="-1" color="#FF00FF">（宇宙篇打到這話才總算有點戰鬥的感覺:p 改造用了8回合，不知道零改要用多少...啊，不能想不能想不能想&gt; 
+    &lt;）</font></p>
+  <p align="left"><font size="-1">----------<br>
+    ■■小羅麗真是大好人~繼地球篇之後又送給我們一個太陽能電池~~<br>
+    <font color="#FF0000">這樣超獸機神就可以完成ソーラーセイル+莉莉絲紋章的最強組合了耶~</font><br>
+    不過不急，暫時先放放，目前資金才是第一要務:p 紋章還是給沙也加用，電池板倒是可以考慮給超獸機神挂上去</font></p>
+  <p align="left"><font size="-1">----------<br>
+    ■■總算是成功阻止了吉恩軍的星屑計劃，不過葉月長官在通訊中主動提到了小惑星的事情（肯定是佩這個多嘴的傢伙），眼看瞞不下去，只能老老實實把詳情告訴他<br>
+    接下來ガンドール隊要著手準備第二次突入賈布羅，我們也該好好研究一下對策才是</font></p>
+  <p align="left"><font size="-1">羅姆等人來到了艦上，<font color="#666666">本來人氣就很高，看到了他們那無機質的身體後更是人氣飆升:p</font><br>
+    洸依舊是追著艾艾死纏爛打地問關於原種的事...不過艾艾除了當年那次事故以外也想不出什麽別的理由來</font></p>
+  <p align="left"><font size="-1">與此同時，明人和萬丈通過玻色跳躍轉移到了月球上的艾爾珊克内，能夠在無保護的情況下成功進行生體玻色跳躍，這更加證實了萬丈對明人身份的猜測...<br>
+    從襲擊川崎的木星蜥蜴機器人殘骸中找到了駕駛員——原來木星蜥蜴並不是教科書上所說那樣只是無人兵器？！發現這一事實的明人感到難以接受；爲了協助朗德·貝爾隊對付迫近地球的小惑星，撫子號進路月球，準備在此与拉·凱拉姆會合，但是誰也沒有想到，那個木星蜥蜴駕駛員不但逃了出來，還意外地“劫持”了4名美女（わぉ~~），正隨著撫子一同前來...</font></p>
+  <p align="left"><font size="-1"><br>
+    <font color="#990099">不願回首的過去、蘊藏於自身的神秘力量，以及...被隱瞞的真實</font></font></p>
+  <p align="left"><font size="-1" color="#000066">伴隨著強力盟友的加入，新的威脅亦展現在眾人眼前</font></p>
+  <p align="left"><font size="-1"><br>
+    </font> <font size="-1"><b><font size="-1"><font size="-1">■■</font></font></b><font size="-1">■■</font><b><font color="#0000FF">宇宙篇 
+    SCENE5 完結</font></b><br>
+    </font></p>
+  <hr noshade>
+  <p><font color="#000099"><a href="I_data13_b_4.htm">【Back】</a> <a href="I_data13_b_6.htm">【Next】</a></font></p>
+  <p align="left">&nbsp;</p>
+</div>
+</body>
+</html>

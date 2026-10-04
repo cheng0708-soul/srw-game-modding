@@ -1,0 +1,421 @@
+<html>
+<head>
+<title>Impact-人物机体培养3</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+</head>
+
+<body bgcolor="#FFFFFF" background="bg.jpg" link="#6600CC" vlink="#6600CC" alink="#0099CC">
+<div align="center"> 
+  <p align="center"><b><font color="#000099">♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂♂</font></b></p>
+  <p><font color="#000099"><b><br>
+    第二章 進階·工慾善其事、必先利其器</b></font></p>
+  <p><font color="#000099"><b><br>
+    </b><font size="-1" color="#CC3300">下面就按照動畫分類，逐一介紹人物和機體，並會結合強化道具和技能裝備給出推薦</font></font></p>
+  <hr noshade>
+  <div align="left"> 
+    <p><font color="#0000FF" size="+1"><b>★☆第三部分---</b></font><font color="#000066"><b>勇者ライディーン</b>、<b>忍者戰士飛影</b>、<b>マシンロボ</b></font></p>
+    <p><font color="#0000FF" size="-1"><br>
+      </font><font color="#336600"><b>勇者ライディーン</b></font><font color="#0000FF" size="-1"><br>
+      </font> </p>
+  </div>
+  <table width="772" cellspacing="0" cellpadding="1" align="left" bordercolor="#000099" border="1">
+    <tr> 
+      <td width="108"> 
+        <div align="center"><b><font color="#000099">姓名</font></b></div>
+      </td>
+      <td width="210"> 
+        <div align="center"><b><font color="#000099">初始技能</font></b></div>
+      </td>
+      <td width="440"> 
+        <div align="center"><b><font color="#000099">精神指令</font></b></div>
+      </td>
+    </tr>
+    <tr> 
+      <td width="108" height="23"> 
+        <div align="center">ひびき洸</div>
+      </td>
+      <td width="210" height="23"> 
+        <div align="center"><font color="#FFCC00">念動力</font>、防禦、援攻、援防</div>
+      </td>
+      <td width="440" height="23"> 
+        <div align="center"> ひらめき 1 必中 1 熱血 1 氣合 18 突擊 30 覺醒 68</div>
+      </td>
+    </tr>
+    <tr> 
+      <td width="108" height="23"> 
+        <div align="center">神宮寺力</div>
+      </td>
+      <td width="210" height="23"> 
+        <div align="center"><font size="-1">底力、援攻、援防、—</font></div>
+      </td>
+      <td width="440" height="23"> 
+        <div align="center">加速 1 狙擊 1 熱血 11 必中 18 突擊 31 自爆 48</div>
+      </td>
+    </tr>
+    <tr> 
+      <td width="108" height="23"> 
+        <div align="center">明日香麗</div>
+      </td>
+      <td width="210" height="23"> 
+        <div align="center"><font color="#FF0000">預知能力</font>、—、—、—</div>
+      </td>
+      <td width="440" height="23"> 
+        <div align="center">加速 1 集中 1 ひらめき 9 祝福 17 覺醒 29 <font color="#0000FF">復活</font> 
+          47</div>
+      </td>
+    </tr>
+    <tr> 
+      <td width="108" height="23"> 
+        <div align="center">櫻野マリ</div>
+      </td>
+      <td width="210" height="23"> 
+        <div align="center"><font color="#FF0000">がんばり屋</font>、—、—、—</div>
+      </td>
+      <td width="440" height="23"> 
+        <div align="center">偵察 1 信賴 1 愛 15 幸运 23 獻身 30 <font color="#0000FF">再動</font> 
+          53</div>
+      </td>
+    </tr>
+  </table>
+  <p align="left"><br>
+    <b> </b> </p>
+  <p align="left">&nbsp;</p>
+  <p align="left">&nbsp;</p>
+  <p align="left">&nbsp;</p>
+  <p align="left"><font size="-1"><br>
+    </font></p>
+  <p align="left"><font size="-1">■■洸很標準，那麽不說了:p</font></p>
+  <p align="left"><font size="-1">神宮寺有熱血必中，偶爾用一下賺點經驗不無小補</font></p>
+  <p align="left"><font size="-1">麗和瑪麗各有所長，一個的祝福是地球篇最主要的資金來源之一，另一個有愛和獻身，縂的來説偏向前者（也有因爲她名字像某人的緣故喔）</font></p>
+  <p align="left"><font size="-1">■■萊丁這次也是很不錯，雖然沒有第4次那麽誇張...<br>
+    陸S宇S，盾牌非常厚；武器2頁多，雖然只用神鳥攻擊就足夠了...神音居然是map<font color="#660000">，威力一般，EN消耗110</font>...不敢去用</font></p>
+  <p align="left">&nbsp;</p>
+  <p align="left"><b><font color="#0000FF">最終強化建議</font></b></p>
+  <p align="left"><font size="-1">■■洸<b>（念動力、防禦、援攻、集中力）</b><br>
+    強化部件：<font color="#000066">V-UPユニット（U）、高性能雷達、移動力+2or超合金NewZ</font></font></p>
+  <p align="left"><font size="-1">有念動力，那麽上手就氣合X2，熱血必閃順便用，反正一回合能補20多<br>
+    三強化槽，裝個V系列變得很好用；射程+1是爲了神鳥用起來更加順手；最後一個可以隨意</font></p>
+  <p align="left"><font size="-1"><br>
+    ■■兩個mm先想好要用誰，因爲不能同時出來的<br>
+    要用的那個挂上輔助係標配，神宮寺就不要管他:p<br>
+    補給機用<font color="#FF0000">リリス王家の紋章、精神エナジー裝置X3</font><br>
+    這樣祝福可以連用3下~~<br>
+    </font> </p>
+  <hr noshade>
+  <p align="left"><b><font color="#FFCC00">忍者戰士飛影</font><br>
+    </b></p>
+  <table width="855" border="1" cellspacing="0" cellpadding="1" align="left" bordercolor="#330099">
+    <tr> 
+      <td width="124"> 
+        <div align="center"><b><font color="#000099">姓名</font></b></div>
+      </td>
+      <td width="296"> 
+        <div align="center"><b><font color="#000099">初始技能</font></b></div>
+      </td>
+      <td width="421"> 
+        <div align="center"><b><font color="#000099">精神指令</font></b></div>
+      </td>
+    </tr>
+    <tr> 
+      <td width="124" height="23"> 
+        <div align="center"><font size="-1">ロミナ</font></div>
+      </td>
+      <td width="296" height="23"> 
+        <div align="center"><font size="-1" color="#FF0000">がんばり屋</font><font size="-1">、援攻、援防、—</font></div>
+      </td>
+      <td width="421" height="23"> 
+        <div align="center"><font size="-1">信賴 1 <font color="#FF0000">脫力</font> 
+          1 獻身 18 幸运 24 奇襲 31 愛 45</font></div>
+      </td>
+    </tr>
+    <tr> 
+      <td width="124" height="23"> 
+        <div align="center"><font size="-1">ジョウ</font></div>
+      </td>
+      <td width="296" height="23"> 
+        <div align="center"><font size="-1">忍者、反骨心、援攻、—</font></div>
+      </td>
+      <td width="421" height="23"> 
+        <div align="center"><font size="-1"> ド根性 1 集中 1 熱血 11 氣合 23 奇襲 34 覺醒 53</font></div>
+      </td>
+    </tr>
+    <tr> 
+      <td width="124" height="23"> 
+        <div align="center"><font size="-1">イルボラ</font></div>
+      </td>
+      <td width="296" height="23"> 
+        <div align="center"><font size="-1">忍者、底力、防禦、逆恨み</font></div>
+      </td>
+      <td width="421" height="23"> 
+        <div align="center"><font size="-1">加速 1 集中 5 熱血 13 ひらめき 19 覺醒 52 獻身 80</font></div>
+      </td>
+    </tr>
+    <tr> 
+      <td width="124" height="23"> 
+        <div align="center"><font size="-1">レニー</font></div>
+      </td>
+      <td width="296" height="23"> 
+        <div align="center"><font size="-1">忍者、援攻、援防、—</font></div>
+      </td>
+      <td width="421" height="23"> 
+        <div align="center"><font size="-1">加速 1 必中 1 ひらめき 14 熱血 22 幸运 33 愛 53</font></div>
+      </td>
+    </tr>
+    <tr> 
+      <td width="124" height="23"> 
+        <div align="center"><font size="-1">マイク</font></div>
+      </td>
+      <td width="296" height="23"> 
+        <div align="center"><font size="-1">忍者、援攻、援防、—</font></div>
+      </td>
+      <td width="421" height="23"> 
+        <div align="center"><font size="-1">努力 1 集中 1 熱血 17 突擊 26 狙擊 39 <font color="#0000FF">補給 
+          60</font></font></div>
+      </td>
+    </tr>
+    <tr> 
+      <td width="124" height="23"> 
+        <div align="center"><font size="-1">ダミアン</font></div>
+      </td>
+      <td width="296" height="23"> 
+        <div align="center"><font size="-1">忍者、援攻、—、—</font></div>
+      </td>
+      <td width="421" height="23"> 
+        <div align="center"><font size="-1">應援 1 ド根性 1 氣合 9 熱血 12 幸运 26 覺醒 78</font></div>
+      </td>
+    </tr>
+  </table>
+  <p align="left"><br>
+    <b> </b> </p>
+  <p align="left">&nbsp;</p>
+  <p align="left">&nbsp;</p>
+  <p align="left">&nbsp;</p>
+  <p align="left"><font size="-1"><br>
+    </font></p>
+  <p align="left">&nbsp;</p>
+  <p align="left"><font size="-1">■■ロミナ王女的SP非常多，有她在的話脫力獻身都不用愁，學到奇襲後可以配合がんばり屋賺經驗，升級挺快</font></p>
+  <p align="left"><font size="-1">真野錠的精神沒什麽好説，覺醒配合忍者殺法或者分身殺法都挺好用，真正令人僕街的是下面這位<font color="#FF0000">↓↓</font>——</font></p>
+  <p align="left"><font size="-1">イルボラ <font color="#FF0000">LV80 獻身</font> 對這種行徑我只能說兩個字<font color="#FF00FF"><b>“太陽”！</b></font></font></p>
+  <p align="left"><font size="-1">蕾尼有了幸运就可以開始當主力了，在此之前的加速配合“大輪劍”也是挺不錯的</font></p>
+  <p align="left"><font size="-1">麥克的補給60級...這個還可以忍一忍</font></p>
+  <p align="left"><font size="-1">ダミアン 78級覺醒..<font color="#666666">.我已經不想說什麽了XD</font></font></p>
+  <p align="left"><font size="-1"><br>
+    ■■エルシャンク的武器一般般，性能也是一般般...</font></p>
+  <p align="left"><font size="-1">黑獅子：运動偏低，雖然有S的體積補正還是不很好閃，武器偏弱</font></p>
+  <p align="left"><font size="-1">鳳雷鷹：這個是3架忍者機裏面最好用的，大輪劍對於趕時間的關卡很有用</font></p>
+  <p align="left"><font size="-1">爆竜：海戰專家可不多，用到的時候會很棒，不過在陸地上並不能完全發揮</font></p>
+  <p align="left"><font size="-1">這3架忍者機和飛影合體之後實力立馬上n個檔次，獸魔的攻擊力媲美多蒙阿蓮比的合體技，海魔水戰陸戰全能，空魔擁有兩招遠程P，而且map範圍很廣（只是130的氣力需求奢侈了點）</font></p>
+  <p align="left"><font size="-1">飛影：移動10格！运動性全軍最高！！除了番外篇的幾個BOSS能有命中其他人基本是0！武器遠近皆全，CT加成非常高，120氣發動的分身攻擊威力不俗！<font color="#0000FF">擁有獨一無二的移攻map</font>！更令人感動的是加入時<font color="#FF0000">已經全改</font>！！！你所要做的只是給它<font color="#FF0000">選擇追加改造</font>即可</font></p>
+  <p align="left"><font size="-1">零影：和飛影比起來就差一個檔次了XD 而且零改狀態XD</font></p>
+  <p align="left"><b><font color="#0000FF">最終強化建議</font></b></p>
+  <p align="left"><font size="-1">■■羅米娜王女加個集中力就行了<br>
+    戰艦挂上<font color="#0000FF">精神エナジー裝置X4</font>，專心用脫力吧，什麽時候氣力上了120就去撿個漏長長級</font></p>
+  <p align="left"><font size="-1"><br>
+    ■■<b>錠（忍者、反骨心、援攻、鬥爭心）</b><br>
+    強化部件：黑獅子以运動EN爲主，飛影就真的可以隨意了</font></p>
+  <p align="left"><font size="-1">忍者眾在地球篇入隊後一定要記得在地球篇結束之前給錠裝上鬥爭心，如果是打算改造EN的話那沒關係，打算衝零改就一定要裝這個，我已經有過慘痛教訓了T.T</font></p>
+  <p align="left"><font size="-1"><br>
+    ■■蕾尼跟麥克可以先裝CT，後期可以給蕾尼把迴避跟集中力什麽的加上去<br>
+    如果是打算讓空魔做主力的，可以給蕾尼加強运<br>
+    機體強化运動EN</font></p>
+  <p align="left"><font size="-1"><br>
+    ■■伊路波拉正廢柴，逆恨到了我方徹底廢掉，平時要出去混只能跟著飛影用殘像殺法...<font color="#660000">其實還是可以用用的，只不過剛才比較氣憤罷了:p</font></font></p>
+  <p align="left"><font size="-1"><br>
+    ■■ダミアン：這個渣一樣的人物除了用用應援我實在想不出還有什麽用啊XD</font></p>
+  <p align="left"><font size="-1" color="#FF0000"><b>☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆</b></font><font size="-1"><br>
+    <font color="#660000"><b>飛影合體判定</b><br>
+    1.版面上有忍者眾機體<br>
+    2.忍者眾氣力在110以上<br>
+    3.3機同時在場，合體幾率黑獅子60%，鳳雷鷹和爆竜各20%；黑獅子和任意一人，60%：40%；鳳雷鷹和爆竜，各50%<br>
+    4.如果上述條件不滿足，則自行行動，每個我方回合初始進行合體判定，一定回合後若仍不滿足則自行離開</font></font></p>
+  <p align="left"><font size="-1" color="#660000">有飛影出場的関請盡量派忍者眾出來——不是爲了他的戰力，而是這傢伙實在是頭號搶錢高手XD 
+    跑的快、會兩動、武器強...這倒也罷了，記得植物惑星最終戰時我正和一群自爆龍打得火熱，結果這傢伙衝過來就打爆一頭，然後map範圍内敵2體滿足，氣力滿足，就見敵人嘩嘩的自爆掉，那個錢啊T.T</font></p>
+  <p align="left"><font size="-1" color="#660000"><br>
+    <b>合體的妙用</b><br>
+    後期錠坐上飛影後可以自由選擇合體/分離，這樣就可以衍生出不少戰法<br>
+    例如錠用個奇襲和鳳雷鷹合體，那麽鳳雷鷹就會帶有必中的效果，可以好好給人援護，援完後分離，再和爆竜合體，爆竜也有必中了，接著援...<br>
+    要注意的一點是，<font color="#0000FF">如果飛影在合體前未曾行動，那麽合體後無論過幾回合分離，仍然是未行動狀態；但是一旦行動完了後合體，分離以後必定還是行動完了狀態</font></font></p>
+  <p align="left"><font size="-1"><br>
+    <b><font color="#FF0000">☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆</font></b><br>
+    </font> </p>
+  <hr noshade>
+  <p align="left"><b><font color="#FF0000">マシンロボ</font></b><br>
+  </p>
+  <table width="824" border="1" cellspacing="0" cellpadding="1" align="left" bordercolor="#330099">
+    <tr> 
+      <td width="108"> 
+        <div align="center"><b><font color="#000099">姓名</font></b></div>
+      </td>
+      <td width="295"> 
+        <div align="center"><b><font color="#000099">初始技能</font></b></div>
+      </td>
+      <td width="407"> 
+        <div align="center"><b><font color="#000099">精神指令</font></b></div>
+      </td>
+    </tr>
+    <tr> 
+      <td width="108" height="23"> 
+        <div align="center"><font size="-1">ロム</font></div>
+      </td>
+      <td width="295" height="23"> 
+        <div align="center"><font size="-1">先手必勝、統率、防禦、—</font></div>
+      </td>
+      <td width="407" height="23"> 
+        <div align="center"><font size="-1" color="#FFCC00">鼓舞</font><font size="-1"> 
+          1 氣合 1 集中 13 熱血 20 見切り 34 <font color="#0000FF">魂</font> 68</font></div>
+      </td>
+    </tr>
+    <tr> 
+      <td width="108" height="23"> 
+        <div align="center"><font size="-1">ジェット</font></div>
+      </td>
+      <td width="295" height="23"> 
+        <div align="center"><font size="-1">防禦、援攻、カウンター、—</font></div>
+      </td>
+      <td width="407" height="23"> 
+        <div align="center"><font size="-1">加速 1 突擊 1 集中 13 熱血 29 見切り 46 <font color="#0000FF">魂</font> 
+          60</font></div>
+      </td>
+    </tr>
+    <tr> 
+      <td width="108" height="23"> 
+        <div align="center"><font size="-1">ドリル</font></div>
+      </td>
+      <td width="295" height="23"> 
+        <div align="center"><font size="-1">底力、援攻、援防、—</font></div>
+      </td>
+      <td width="407" height="23"> 
+        <div align="center"><font size="-1">ド根性 1 氣合 1 熱血 10 必中 18 ひらめき29 <font color="#0000FF">脫力</font> 
+          45</font></div>
+      </td>
+    </tr>
+    <tr> 
+      <td width="108" height="23"> 
+        <div align="center"><font size="-1">レイナ</font></div>
+      </td>
+      <td width="295" height="23"> 
+        <div align="center"><font size="-1" color="#FF0000">がんばり屋</font><font size="-1">、援防、—、—</font></div>
+      </td>
+      <td width="407" height="23"> 
+        <div align="center"><font size="-1">激勵 1 祝福 1 獻身 11 ひらめき 19 愛 39 <font color="#0000FF">復活</font> 
+          60</font></div>
+      </td>
+    </tr>
+    <tr> 
+      <td width="108" height="23"> 
+        <div align="center"><font size="-1">ジム</font></div>
+      </td>
+      <td width="295" height="23"> 
+        <div align="center"><font size="-1">援攻、援防、—、—</font></div>
+      </td>
+      <td width="407" height="23"> 
+        <div align="center"><font size="-1"> 信賴 1 根性 1 應援 9 祝福 19 激勵 26 補給 51</font></div>
+      </td>
+    </tr>
+    <tr> 
+      <td width="108" height="23"> 
+        <div align="center"><font size="-1">グローバイン</font></div>
+      </td>
+      <td width="295" height="23"> 
+        <div align="center"><font size="-1">頑固一徹、防禦、援攻、援防</font></div>
+      </td>
+      <td width="407" height="23"> 
+        <div align="center"><font size="-1">努力 1 見切り 1 氣合 1 奇襲 1 根性 1 <font color="#0000FF">魂</font> 
+          65</font></div>
+      </td>
+    </tr>
+    <tr> 
+      <td width="108" height="23"> 
+        <div align="center"><font size="-1">キナ</font></div>
+      </td>
+      <td width="295" height="23"> 
+        <div align="center"><font size="-1">反骨心、援攻、援防、—</font></div>
+      </td>
+      <td width="407" height="23"> 
+        <div align="center"><font size="-1">突擊 1 熱血 1 鐵壁 14 必中 18 激勵 28 自爆 42</font></div>
+      </td>
+    </tr>
+    <tr> 
+      <td width="108" height="23"> 
+        <div align="center"><font size="-1">コロン </font></div>
+      </td>
+      <td width="295" height="23"> 
+        <div align="center"><font size="-1"></font></div>
+      </td>
+      <td width="407" height="23"> 
+        <div align="center"><font size="-1">努力 1 集中 1 根性 12 氣合 15 <font color="#FF0000">かく亂 
+          </font>21 <font color="#0000FF">再動</font> 47</font></div>
+      </td>
+    </tr>
+  </table>
+  <p align="left"><br>
+    <b> </b> </p>
+  <p align="left">&nbsp;</p>
+  <p align="left">&nbsp;</p>
+  <p align="left">&nbsp;</p>
+  <p align="left">&nbsp;</p>
+  <p align="left">&nbsp;</p>
+  <p align="left">&nbsp; </p>
+  <p align="left"><font size="-1">■■羅姆的鼓舞就不用説了，好東西，魂實在是太晚，影響他的實用性</font></p>
+  <p align="left"><font size="-1">傑特有加速突擊，配合5-7格的木の葉おとし會很有用</font></p>
+  <p align="left"><font size="-1">鑽頭的熱血非常早，45級習得脫力，偶爾可以一用</font></p>
+  <p align="left"><font size="-1">蕾娜和基姆的輔助精神十分好</font></p>
+  <p align="left"><font size="-1">古洛拜因的精神非常棒，但是人就不怎麽樣</font></p>
+  <p align="left"><font size="-1" color="#660000">牛魔王姐弟（爆）</font><font size="-1">有一些好精神，不過一般上不了場，但由於羅姆眾經常是全員強制出擊，到時候不用白不用:p</font></p>
+  <p align="left"><font size="-1" color="#666666"><b>話説這姐弟倆被說得的過程實在是搞笑</b><br>
+    姐&amp;弟：羅姆！我們要為父親報仇！！<br>
+    羅姆：胡説，你們的父親不是我殺的<br>
+    姐&amp;弟：不要狡辯，這是迪安度拉跟我們說的！<br>
+    羅姆：哦，原來是這樣，你們被她騙了<br>
+    （羅姆悄悄做個手勢，戰友們把迪安度拉等人打得落荒而逃）<br>
+    羅姆：你們看，連自己的同伴都不顧，這種人說的話你們認爲可以相信嗎？<br>
+    （姐弟倆動搖中）<br>
+    羅姆深情地吟著詩：<font color="#0000FF">純なる子供の心を操り、自らの欲望を達しようとするは悲し…人それを『エゴ』という</font><br>
+    牛弟：姐姐，看來我們是搞錯了<br>
+    牛姐：哦，羅姆君我們錯怪你了，請讓我們加入你吧<font color="#FF0000">（心_心）</font><br>
+    <b>（核爆） <br>
+    </b> </font> <br>
+    <font size="-1">■■ケンリュウ和バイカンフー都是很不錯的機體，前者側重迴避，後者側重攻擊，而且羅姆的盾非常的厚，小兵就沒幾個能打穿的</font></p>
+  <p align="left"><font size="-1">ジェット可以變形成巡航形態，適合趕時間，人型的武器都很好用，當然還有合體技</font></p>
+  <p align="left"><font size="-1">ドリル也可以變形趕路，普通技沒上面兩位好用，不過他是等著跟合身後的羅姆打合體技的，普通技就無視吧</font></p>
+  <p align="left"><font size="-1">補給機修理機什麽的，反正是不能指望他們的攻擊力，不過蕾娜的螳螂拳倒是可以一看:p</font></p>
+  <p align="left"><font size="-1">グローバイン能力是一般，不過入手時武器已經改了6段，3100的暗黑雙殺劍用用倒也不錯~</font></p>
+  <p align="left"><font size="-1">至於牛魔王.<font color="#660000">..算了吧，還是用他們的精神比較實惠</font></font></p>
+  <p align="left"><font size="-1" color="#666666"><br>
+    （這個係的最大缺點就是飄忽不定，想好好給他們強化一下都難，論整體實力算是中上水準，可就是因爲不能好好用，印象分大減）</font></p>
+  <p align="left"><b><font color="#0000FF">最終強化建議</font></b></p>
+  <p align="left"><font size="-1">■■羅姆<b>（先手必勝、統率、防禦、CT+25or<font color="#FF0000">起死回生</font>）</b><br>
+    <font color="#000066">強化EN和运動/移動（裝哈羅或者靈光推進器）</font></font></p>
+  <p align="left"><font size="-1">羅姆關於裝起死回生的分析參見G鋼彈篇<br>
+    由於要大量使用合體技，EN強化必須，而且要跟上傑特的話還要強化移動力</font></p>
+  <p align="left"><font size="-1"><br>
+    ■■傑特<b>（防禦、援攻、迴避+15、CT+25）</b><br>
+    強化运動、EN，可以拿V-UPユニット（U）給他裝上去；由於CT+25後會心率變得很高，適合進一步提升攻擊力，再加個V-UPユニット（W）會更好</font></p>
+  <p align="left"><font size="-1"><br>
+    ■■鑽頭<b>（底力、援攻、CT+25、命中+20）</b><br>
+    強化考慮移動、裝甲，平時不要用到什麽耗EN的大招，留足合體技的就行了</font></p>
+  <p align="left"><font size="-1"><br>
+    ■■蕾娜&amp;基姆 參照輔助係標配<br>
+    強化以移動裝甲優先，適當裝SP+10的上去</font></p>
+  <p align="left"><font size="-1"><br>
+    ■■古洛拜因<b>（頑固一徹、防禦、援攻、CT+25</b>）<br>
+    沒什麽可說，EN和裝甲吧</font></p>
+  <p align="left"><font size="-1"><br>
+    ■■牛...這個...真的有人打算裝集中力給他們嗎？<br>
+    機體安全第一，裝甲優先</font></p>
+  <hr noshade>
+  <p align="center"><b><font color="#660000">今天的課就到這裡結束~</font></b></p>
+  <p align="center"><font color="#660000"><b>現在同學們已經基本了解了征服冥王星的手段</b></font></p>
+  <p align="center"><font color="#660000"><b>那麽，接下來我們就要進入實戰</b></font></p>
+  <p align="center"><font color="#660000"><b>咲夜老師會帶大家以自己的雙手征服這塊未開化的土地！</b></font></p>
+  <p align="center"><font color="#660000"><b><font color="#FF9900">期間還會穿插一些極限挑戰的内容喔~</font></b></font></p>
+  <p align="center"><font color="#660000"><b>敬請期待</b></font></p>
+  <p align="center"><font color="#660000"><b>我們下節課再見~~</b></font><br>
+  </p>
+  <hr noshade>
+  <p><font color="#000099"><a href="I_data11.htm">【Back】</a> <a href="I_top.htm">〖Top〗</a> 
+    <a href="I_data13.htm">【Next】</a></font></p>
+  <p align="left">&nbsp;</p>
+</div>
+</body>
+</html>

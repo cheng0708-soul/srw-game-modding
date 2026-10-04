@@ -1,0 +1,59 @@
+<html>
+<head>
+<title>Impact-目录</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+</head>
+
+<body bgcolor="#FFFFFF" text="#6600CC" background="bg.jpg" link="#6600CC" vlink="#6600CC" alink="#0099CC">
+<div align="center"> 
+  <p>&nbsp;</p>
+  <p><img src="index.JPG" width="300" height="425"></p>
+  <p>作者：Destiny</p>
+  <p><font color="#000066">部分資料數據來源:巴哈姆特電玩咨訊站</font></p>
+  <table width="652" cellspacing="1" cellpadding="1" height="130">
+    <tr bgcolor="#CCCCFF"> 
+      <td height="34"> 
+        <div align="center"><font color="#6600CC"><a href="I_data01.htm">基本操作</a></font></div>
+      </td>
+      <td height="34"> 
+        <div align="center"><a href="I_data02.htm">状态解说</a></div>
+      </td>
+      <td height="34"> 
+        <div align="center"><font color="#6600CC"><a href="I_data03.htm">系统简介</a></font></div>
+      </td>
+      <td height="34"> 
+        <div align="center"><font color="#6600CC"><a href="I_data04.htm">精神一览</a></font></div>
+      </td>
+    </tr>
+    <tr bgcolor="#CCCCFF"> 
+      <td height="36"> 
+        <div align="center"><font color="#6600CC"><a href="I_data05.htm">机体&amp;机师技能一览</a></font></div>
+      </td>
+      <td height="36"> 
+        <div align="center"><font color="#6600CC"><a href="I_data07.htm">道具一览</a></font></div>
+      </td>
+      <td height="36"> 
+        <div align="center"><font color="#6600CC"><a href="I_data08.htm">合体技一览</a></font></div>
+      </td>
+      <td height="36"> 
+        <div align="center"><font color="#6600CC"><a href="I_data09.htm">改造秘诀</a></font></div>
+      </td>
+    </tr>
+    <tr bgcolor="#CCCCFF"> 
+      <td height="33"> 
+        <div align="center"><font color="#6600CC"><a href="I_data10.htm">人物机体培养(一)</a></font></div>
+      </td>
+      <td height="33"> 
+        <div align="center"><font color="#6600CC"><a href="I_data11.htm">人物机体培养(二)</a></font></div>
+      </td>
+      <td height="33"> 
+        <div align="center"><font color="#6600CC"><a href="I_data12.htm">人物机体培养(三)</a></font></div>
+      </td>
+      <td height="33"> 
+        <div align="center"><font color="#FFCC00"><b><a href="I_data13.htm">究極の攻略へ..！</a></b></font></div>
+      </td>
+    </tr>
+  </table>
+</div>
+</body>
+</html>

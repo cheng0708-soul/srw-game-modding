@@ -95,10 +95,12 @@
       </a>
 
       <nav class="main-nav">
-        <a href="#secrets" class="nav-link active"><span>🛸</span> 隐藏要素雷达</a>
-        <a href="#timeline" class="nav-link"><span>📋</span> 关卡进度速查</a>
-        <a href="#cheats" class="nav-link"><span>⚡</span> 金手指定制台</a>
-        <a href="#database" class="nav-link"><span>💾</span> 改造与CG数据库</a>
+        <a href="#secrets" class="nav-link active"><span>🛸</span> 隐藏要素</a>
+        <a href="#timeline" class="nav-link"><span>📋</span> 进度速查</a>
+        <a href="#stagesGuide" class="nav-link"><span>📖</span> 流程战术手册</a>
+        <a href="#cheats" class="nav-link"><span>⚡</span> 金手指定制</a>
+        <a href="#tacticsSection" class="nav-link"><span>💥</span> 合体技&精神</a>
+        <a href="#database" class="nav-link"><span>💾</span> 数据库</a>
       </nav>
 
       <div class="header-actions">
@@ -134,11 +136,15 @@
           </div>
           <div class="metric-card gold">
             <div class="metric-num">205</div>
-            <div class="metric-label">PNCH 金手指补丁</div>
+            <div class="metric-label">PNCH 金手指</div>
           </div>
           <div class="metric-card green">
-            <div class="metric-num">105</div>
-            <div class="metric-label">战术关卡全覆盖</div>
+            <div class="metric-num">115</div>
+            <div class="metric-label">关卡战术精析</div>
+          </div>
+          <div class="metric-card" style="border-left-color: var(--accent-red);">
+            <div class="metric-num">16</div>
+            <div class="metric-label">威力合体绝技</div>
           </div>
         </div>
       </div>
@@ -230,6 +236,36 @@
       </div>
     </section>
 
+
+    <!-- SECTION: 105关全流程战术攻防手册 (机战世界权威整合) -->
+    <section id="stagesGuide" class="timeline-section" style="padding-top: 48px;">
+      <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 16px;">
+        <h2 style="font-family: var(--font-hud); font-size: 1.6rem; color: var(--text-bright); display: flex; align-items: center; gap: 10px;">
+          <span style="color: var(--accent-cyan);">§ 03</span> 全流程战术攻防手册
+        </h2>
+        <span style="font-size: 0.85rem; color: var(--text-muted); font-family: var(--font-hud);">SRWORLD TACTICAL WALKTHROUGH</span>
+      </div>
+      <p style="color: var(--text-muted); font-size: 0.9rem; margin-bottom: 20px;">
+        整合机战世界（SRWorld）权威通关秘笈。收录全场景关卡熟练度拿法、敌方初期配置、撤退血线、避坑提示与战术走位，全中文梳理。
+      </p>
+
+      <div class="tactical-controls" style="padding: 0 0 16px;">
+        <div class="filter-pills">
+          <button class="filter-btn stage-part-btn active" data-part="第1部 地上篇">第1部 地上篇 (全6场景)</button>
+          <button class="filter-btn stage-part-btn" data-part="第2部 宇宙篇">第2部 宇宙篇 (全6场景)</button>
+          <button class="filter-btn stage-part-btn" data-part="第3部 银河篇">第3部 银河篇 (全6场景)</button>
+          <button class="filter-btn stage-part-btn" data-part="隐藏终章">隐藏终章 (逆袭的夏亚)</button>
+        </div>
+
+        <div class="search-box">
+          <span class="search-icon">🔍</span>
+          <input type="text" id="stageSearchInput" class="search-input" placeholder="搜索关卡名/熟练度/敌人...">
+        </div>
+      </div>
+
+      <div id="stageListDisplay" class="stage-guide-container"></div>
+    </section>
+
     <!-- SECTION 3: 金手指在线定制生成器 -->
     <section id="cheats" style="padding-top: 48px;">
       <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 16px;">
@@ -285,6 +321,36 @@
       </div>
     </section>
 
+
+    <!-- SECTION: 战术整备室·合体技与精神指令 -->
+    <section id="tacticsSection" style="padding-top: 48px;">
+      <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 16px;">
+        <h2 style="font-family: var(--font-hud); font-size: 1.6rem; color: var(--text-bright); display: flex; align-items: center; gap: 10px;">
+          <span style="color: var(--accent-gold);">§ 05</span> 战术整备室 · 合体技与精神全集
+        </h2>
+        <span style="font-size: 0.85rem; color: var(--text-muted); font-family: var(--font-hud);">COMBOS, SPIRITS & ABILITIES</span>
+      </div>
+      <p style="color: var(--text-muted); font-size: 0.9rem; margin-bottom: 20px;">
+        收录夫妻合体技「狂暴幽灵」、石破天惊拳等16组毁天灭地合体绝技、35项精神指令消费详解、强化芯片与机体特技隐藏公式（盾防/剑切）。
+      </p>
+
+      <div class="tactical-controls" style="padding: 0 0 16px;">
+        <div class="timeline-nav-tabs" style="margin-bottom: 0;">
+          <button class="timeline-tab tactic-tab active" data-type="combos">💥 威力合体技 (16组)</button>
+          <button class="timeline-tab tactic-tab" data-type="spirits">🧠 精神指令一览 (35项)</button>
+          <button class="timeline-tab tactic-tab" data-type="items">🔧 强化芯片部件 (35项)</button>
+          <button class="timeline-tab tactic-tab" data-type="skills">🛡️ 特技与公式 (68项)</button>
+        </div>
+
+        <div class="search-box">
+          <span class="search-icon">🔍</span>
+          <input type="text" id="tacticSearchInput" class="search-input" placeholder="筛选招式名/机体/精神效果...">
+        </div>
+      </div>
+
+      <div id="tacticDisplay"></div>
+    </section>
+
     <!-- SECTION 4: 数据库（改造继承、集装箱、全CG） -->
     <section id="database" style="padding-top: 48px;">
       <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 16px;">
@@ -334,6 +400,8 @@
   <script src="data/cheats.js"></script>
   <script src="data/timeline.js"></script>
   <script src="data/extras.js"></script>
+  <script src="data/srworld_tactics.js"></script>
+  <script src="data/srworld_stages.js"></script>
   <!-- Main App Script -->
   <script src="js/app.js"></script>
 </body>
