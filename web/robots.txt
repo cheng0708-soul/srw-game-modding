@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cheng0708-soul.github.io/srw-game-modding/sitemap.xml
