@@ -2,6 +2,8 @@
 
 > 机战系列在 PCSX2 上的 隐藏要素补完 / 金手指 / 码破解 研究仓库。
 > 首作已完成：**《超级机器人大战IMPACT》**（205 组补丁全交付），含完整方法论、调研资料原文与游戏存档分享。
+> 
+> 🌐 **官方在线网站**：👉 [https://cheng0708-soul.github.io/srw-game-modding/](https://cheng0708-soul.github.io/srw-game-modding/)
 
 A community research repo for modding **Super Robot Wars** games on PCSX2 — code decryption pipeline, cheat patches, and sources archive.
 First title completed: **SRW IMPACT** (205 cheat groups delivered).

@@ -940,3 +940,45 @@ body {
     width: 100%;
   }
 }
+
+/* Author Badge Styling */
+.author-pill {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(14, 21, 35, 0.9);
+  border: 1px solid var(--accent-gold);
+  padding: 6px 14px;
+  clip-path: var(--clip-corner-sm);
+  font-family: var(--font-hud);
+  font-size: 0.8rem;
+  color: var(--text-main);
+  box-shadow: 0 0 12px rgba(255, 215, 0, 0.2);
+  transition: all 0.25s ease;
+}
+.author-pill:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 0 16px rgba(255, 215, 0, 0.35);
+  border-color: #ffe066;
+}
+.author-badge-icon {
+  font-size: 0.95rem;
+}
+.author-badge-text strong {
+  color: var(--accent-gold);
+  font-weight: 800;
+  letter-spacing: 0.5px;
+}
+
+.footer-credit {
+  font-family: var(--font-hud);
+  font-size: 0.82rem;
+  color: var(--accent-cyan);
+  background: rgba(0, 240, 255, 0.08);
+  border: 1px solid rgba(0, 240, 255, 0.3);
+  padding: 6px 14px;
+  clip-path: var(--clip-corner-sm);
+}
+.footer-credit strong {
+  color: var(--accent-gold);
+}
