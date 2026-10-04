@@ -4,3 +4,6 @@
 # 原始日文抓取存档（来源站点限制转载）— 不随公开仓库分发
 research/hidden-elements/*.txt
 research/hidden-elements/_raw/
+
+# 中文参考资料（第三方攻略原文，本地留存）
+research/中文参考资料/
