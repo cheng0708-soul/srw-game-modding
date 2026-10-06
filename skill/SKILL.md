@@ -124,6 +124,7 @@ d1, d2 = a.dec_pair(0x3C6CC12C, 0x1456E7A6)
 - **在线网站**: https://cheng0708-soul.github.io/srw-game-modding/ （"IMPACT 战术整备室"）。Pages 源 = main 分支 `/docs` —— **改网站必须改 `docs/`**，`web/` 保持同步。板块: 32项隐藏要素互动雷达 · 105关防漏速查 · 205组 pnach 在线定制导出 · SRWorld 攻略数据库 · 合体技与精神 · 时间线/EXTRA/CG。
 - **网页数据管线**: `tools/build_web_data.py` 从 pnach + research 生成 `docs/data/*.js`（cheats / secrets / timeline / extras / srworld_stages / srworld_tactics）。
 - **更新分工（用户 2026-10-06 确认）**: 网站内容在本地文件夹直接更新；**GitHub 同步经由 Hermes** —— 本地更新 → 吸收进本 skill → 推送仓库（同步不追求实时，按节点/用户要求推）。
+- **访问计数（2026-10-06 接入）**: 页脚「总访问量/独立访客」用 Vercount（不蒜子兼容服务，免注册）。接入点仅 2 处（`index.html`：页脚 `.visit-counter-line` 标记 + 末尾 `events.vercount.one/js` script）；换服务/撤除只改这两处。数据起步于部署当天。
 
 ## 文件
 - `references/impact.md` — IMPACT 专档（成果 + 地址表 + 错位史料）
