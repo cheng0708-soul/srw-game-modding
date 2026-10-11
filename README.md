@@ -1,12 +1,12 @@
 # 超级机器人大战 (SRW) PCSX2 修改研究 · srw-game-modding
 
 > 机战系列在 PCSX2 上的 隐藏要素补完 / 金手指 / 码破解 研究仓库。
-> 首作已完成：**《超级机器人大战IMPACT》**（205 组补丁全交付），含完整方法论、调研资料原文与游戏存档分享。
+> 首作已完成：**《超级机器人大战IMPACT》**（245 组补丁全交付），含完整方法论、调研资料原文与游戏存档分享。
 > 
 > 🌐 **官方在线网站**：👉 [https://cheng0708-soul.github.io/srw-game-modding/](https://cheng0708-soul.github.io/srw-game-modding/)
 
 A community research repo for modding **Super Robot Wars** games on PCSX2 — code decryption pipeline, cheat patches, and sources archive.
-First title completed: **SRW IMPACT** (205 cheat groups delivered).
+First title completed: **SRW IMPACT** (245 cheat groups delivered).
 
 ---
 
@@ -17,15 +17,16 @@ First title completed: **SRW IMPACT** (205 cheat groups delivered).
 | `skill/` | 完整方法论技能包（总流程 + 各作专档 + 解密/读档工具）——下次攻克别的机战照着走 |
 | `research/` | 调研原始资料（日站 5ch 改造帖全清单 / 博客实测记录 / 中文圈原码表 / 隐藏要素攻略） |
 | `tools/` | 配套脚本（AR2→PCSX2 解密器、全表生成器、存档读取器） |
-| `pnach/` | 成品：IMPACT 完整补丁（205 组）+ 详细中文说明文档 |
+| `pnach/` | 成品：IMPACT 完整补丁（245 组）+ 详细中文说明文档 |
 | `saves/` | 游戏存档分享（即时档 + 记忆卡） |
 
 ## 🎮 成果一览（SRW IMPACT · SLPS-25104 汉化版）
 
-- **205 个分组** = 隐藏要素补漏 19 + 便利金手指 5 + 必杀技追加 3 + **全机体目录 160（第1部→最终章全机型）** + 隐藏机师 18
+- **245 个分组** = 按部版补漏 60（12 机体 + 7 机师 + F91，各按 ·第1部/·第2部/·第3部 三条；只勾当前所在部）+ 便利金手指 5 + 必杀技追加 3 + **全机体目录 159（第1部→最终章全机型）** + 隐藏机师补充 18
 - 隐藏机体补齐：G-3高达、夏亚专用扎古、巴斯特尔、丹拜因(托德)、加普兰、阿普萨拉斯II、特装型古夫、京宝梵、卡碧尼Mk-II(普露)、量产型大魔神、莱涅克、德克萨斯麦克
 - 便利码：资金MAX / 强化零件全 / 全机15段改造+插件4格 / EN&弹药不减 / 战后等级MAX
 - **后期隐藏要素研究（2026-10-04 补）**：第1～3部+隐藏最终话全部入手条件（中文整理）+ 全105关资料归档 → 见 `research/隐藏要素总整理-中文-2026-10-04.md`
+- **资料库全量补漏（2026-10-11）**：5ch 改造スレ三串全文 + 質問/避難所帖 + 総合改造スレ（2023-2026）+ 華魯サンジュ博客 IMPACT 全 25 篇 + 「とものおうち」复刻全码页 —— 全部归档于 `research/`
 
 ## 🚀 使用方法（PCSX2）
 
@@ -33,7 +34,7 @@ First title completed: **SRW IMPACT** (205 cheat groups delivered).
    - macOS：`~/Library/Application Support/PCSX2/cheats/`
    - Windows：`文档\PCSX2\cheats\`
 2. 启动游戏前确认「启用作弊」已开启
-3. 游戏内 → 属性 → Cheats 面板 → 勾选要用的分组（**默认全部未勾选，用哪台勾哪台**）
+3. 游戏内 → 属性 → Cheats 面板 → 勾选要用的分组（补漏条目按所在部选 ·第N部 版本，存档后即可关勾；其余默认未勾选，用哪台勾哪台）
 4. 详细说明见 `pnach/IMPACT-补机体说明-2026-10-02.md`（含换值规则、风险提示、完整地址表）
 
 ## 🔬 技术核心（原理简介）
@@ -43,14 +44,14 @@ First title completed: **SRW IMPACT** (205 cheat groups delivered).
   - 主码 `EC878304 1434A4A4` 解密 → `F01000DC 0022C307`
   - 资金码 `1CB46B60 17E9C729` 解密 → `2025E838 05F5E09C`（与中文圈 PCSX2 原码一字不差）
 - 发现并修正了网络流传清单的「**错位抄本**」问题（整版编号差一格，会导致加错机体）
-- 机体/机师"存在标志"：向记录特定偏移写 1；部分机体需按部换值（1部/2部/3部 = 03/1F/04）
+- 机体/机师"存在标志"：向记录特定偏移写 1；**须匹配当前所在部**（1部/2部/3部 = 03/1F/04；存档后即可关闭代码、数据保留）
 - 工具：`tools/converter.py`（解密）、`skill/scripts/savestate_read.py`（读即时档验证）
 
 ## 📚 资料来源与致谢
 
-- **5ch 改造スレ**（スレ1/2/3 存档原文见 `research/`，含全机体/机师存在フラグ表）
-- **teruyuka 改造コード页**（资金/改造/等级等成年码）
-- **華魯サンジュ博客**（ameblo 实测记录，含"变更块"格式的破解线索）
+- **5ch 改造スレ**（スレ1/2/3 全文存档见 `research/`，含全机体/机师存在フラグ表；另收質問/避難所帖与総合改造スレ 2023-2026）
+- **teruyuka 改造コード页**（资金/改造/等级等成年码）；**「とものおうち」复刻全码页**（daihouko.com）
+- **華魯サンジュ博客**（ameblo 实测记录，IMPACT 系列全 25 篇已归档；含「敵ユニット表示」「のりかえ制限なし」工具码块）
 - **中文圈原码表**（a9vg 等，交叉验证用）
 
 `research/` 内资料为研究归档，版权归各原作者；仅供研究学习交流。

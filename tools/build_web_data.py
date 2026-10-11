@@ -27,6 +27,10 @@ for i, b in enumerate(blocks):
     patches = re.findall(r'(patch=[^\n\r]+)', b)
     raw_codes = re.findall(r'//\s*原码:\s*([^\n\r]+)', b)
     notes = re.findall(r'//\s*说明:\s*([^\n\r]+)', b)
+    if not raw_codes:
+        _m = re.search(r'原码[:：]?\s*([0-9A-Fa-f]{6,10}(?:\s+[0-9A-Fa-f]{6,10})?)', desc)
+        if _m:
+            raw_codes = [_m.group(1)]
     
     if any(k in title for k in ['资金', '熟练度', '精神', 'EN', '气力', '经验', '金钱', '修理', '补给']):
         cat = '便利辅助'
@@ -48,16 +52,17 @@ for i, b in enumerate(blocks):
     cheats.append({
         'id': f'cheat_{i}',
         'title': title,
-        'description': desc,
+        'description': (desc.split('｜')[0].strip() or title),
         'category': cat,
         'patches': patches,
         'raw_code': raw_codes[0] if raw_codes else '',
         'note': notes[0] if notes else '',
-        'default_enabled': (i <= 20)
+        'default_enabled': False
     })
 
 with open(os.path.join(data_dir, 'cheats.js'), 'w', encoding='utf-8') as f:
     f.write('window.SRW_CHEATS = ' + json.dumps(cheats, ensure_ascii=False, indent=2) + ';\n')
+print(f'Generated cheats.js with {len(cheats)} items.')
 
 # 2. 解析 隐藏要素 Markdown 表格
 doc_path = os.path.join(base_dir, 'research/隐藏要素总整理-中文-2026-10-04.md')
@@ -180,3 +185,12 @@ extra_data = {
 with open(os.path.join(data_dir, 'extras.js'), 'w', encoding='utf-8') as f:
     f.write('window.SRW_EXTRAS = ' + json.dumps(extra_data, ensure_ascii=False, indent=2) + ';\n')
 print('Generated extras.js (inheritances, containers, CG).')
+
+
+# SYNC web/data -> docs/data
+import shutil as _shutil
+_docs_data = os.path.join(base_dir, 'docs/data')
+os.makedirs(_docs_data, exist_ok=True)
+for _fn in ['cheats.js', 'secrets.js', 'timeline.js', 'extras.js']:
+    _shutil.copy2(os.path.join(data_dir, _fn), os.path.join(_docs_data, _fn))
+print('Synced web/data -> docs/data')

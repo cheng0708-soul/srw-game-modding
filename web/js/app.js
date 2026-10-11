@@ -308,7 +308,9 @@ document.addEventListener('DOMContentLoaded', () => {
   const cheatSearchInput = document.getElementById('cheatSearchInput');
   const btnSelectAll = document.getElementById('btnSelectAll');
   const btnDeselectAll = document.getElementById('btnDeselectAll');
-  const btnSelectRecommended = document.getElementById('btnSelectRecommended');
+  const btnSelectPart1 = document.getElementById('btnSelectPart1');
+  const btnSelectPart2 = document.getElementById('btnSelectPart2');
+  const btnSelectPart3 = document.getElementById('btnSelectPart3');
   const btnCopyPnach = document.getElementById('btnCopyPnach');
   const btnDownloadPnach = document.getElementById('btnDownloadPnach');
   const selectedCheatsCountEl = document.getElementById('selectedCheatsCount');
@@ -327,6 +329,7 @@ document.addEventListener('DOMContentLoaded', () => {
     out += `// 由 SRW IMPACT 战术整备室在线定制导出\n`;
     out += `// 适用: PCSX2 模拟器 cheats 目录 (SLPS-25104_10C3D363.pnach)\n`;
     out += `// 当前启用补丁条数: ${enabledCheats.size} 项\n`;
+    out += `// 注意: 标有 ·第1部/·第2部/·第3部 的条目, 只勾选你当前所在部的版本\n`;
     out += `// ============================================================\n\n`;
 
     (window.SRW_CHEATS || []).forEach(c => {
@@ -432,16 +435,18 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  if (btnSelectRecommended) {
-    btnSelectRecommended.addEventListener('click', () => {
-      playBeep(880, 'triangle', 0.1);
-      enabledCheats.clear();
-      (window.SRW_CHEATS || []).forEach(c => {
-        if (c.default_enabled) enabledCheats.add(c.id);
+  [[btnSelectPart1, '·第1部'], [btnSelectPart2, '·第2部'], [btnSelectPart3, '·第3部']].forEach(([btn, tag]) => {
+    if (btn) {
+      btn.addEventListener('click', () => {
+        playBeep(880, 'triangle', 0.1);
+        enabledCheats.clear();
+        (window.SRW_CHEATS || []).forEach(c => {
+          if (c.title.endsWith(tag)) enabledCheats.add(c.id);
+        });
+        renderCheats();
       });
-      renderCheats();
-    });
-  }
+    }
+  });
 
   if (btnCopyPnach) {
     btnCopyPnach.addEventListener('click', () => {
