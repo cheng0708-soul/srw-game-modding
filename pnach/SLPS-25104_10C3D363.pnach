@@ -1,114 +1,250 @@
 gametitle=SUPER ROBOT WARS IMPACT (WGF汉化版) [SLPS-25104] [10C3D363]
 
 // ============================================================
-// 隐藏机体补完补丁 (2026-10-02)
-// 原理: 向机体表记录(+4字节)/机师表记录(+8字节)写入"存在标志"1
-// 来源: 日站AR2v2加密码离线解密, 已验证:
-//   资金码 1CB46B60 17E9C729 -> 2025E838 05F5E09C (与中文圈原码一致)
-//   主码 EC878304 1434A4A4 -> F01000DC 0022C307 (与你参考材料一致)
-// 用法: 游戏属性 -> Cheats -> 各分组可单独开关
-// 结构: ①补漏19组(你已选的保持) ②便利码5组 ③必杀技3组 ④全机体目录160组 ⑤机师补充18组
-// (②③④⑤全部默认未勾选 —— 要用哪台在面板里打勾; 面板有搜索框)
-// 若个别机体未出现: 把该行 00000001 依次换成 00000003 / 0000001F / 00000004
+// ★ 补漏机体 · 按部版（第1部/第2部/第3部 各做一份；用哪个勾哪个）
+// ------------------------------------------------------------
+// 用法: 只勾「当前所在部」对应的版本; 跨部时取消旧版、勾上新版。
+// 值规律(日站总表): 同一机体、同一地址, 数据值随部变化:
+//     第1部 → 00000003   (原码 1456E7A8)
+//     第2部 → 0000001F   (原码 1456E7AC)
+//     第3部 → 00000004   (原码 1456E7A1)
+// 跨部行为(日站实测): 第1部用码叫出的机体 → 第2部会被清退(用第2部版重叫);
+//     第2部叫出的机体 → 可一直用到第3部; 第3部若消失换第3部版重叫。
+// 个别机体特例: 值可能不同(例: νガンダムHWS); 某版勾了不出现时,
+//     先把该组值依次换 03 / 1F / 04 试, 或换其它部的版本试。
+// 注意: 剧情仍会正常入手的机体不建议提前开(可能变两台);
+//     金手指机体不触发剧情台词; 改完先验证、再游戏内存档。
 // ============================================================
 
-[G-3高达 (克里斯机)]
-description=G-3高达
-patch=1,EE,00FD3E04,extended,00000001
-// 原码: 3C6CC12C 1456E7A6
+[G-3高达·第1部]
+description=G-3高达(克里斯机)·第1部用｜原码 3C6CC12C 1456E7A8
+patch=1,EE,00FD3E04,extended,00000003
 
-[夏亚专用扎古 (库瓦特罗机)]
-description=夏亚专用扎古
-patch=1,EE,00FD3F04,extended,00000001
-// 原码: 3C6CC02C 1456E7A6
+[G-3高达·第2部]
+description=G-3高达(克里斯机)·第2部用｜原码 3C6CC12C 1456E7AC
+patch=1,EE,00FD3E04,extended,0000001F
 
-[巴斯特尔 (嘉拉莉亚机)]
-description=巴斯特尔
-patch=1,EE,00FD8904,extended,00000001
-// 原码: 3C6C0A2C 1456E7A6
+[G-3高达·第3部]
+description=G-3高达(克里斯机)·第3部用｜原码 3C6CC12C 1456E7A1
+patch=1,EE,00FD3E04,extended,00000004
 
-[加普兰 (罗莎米娅机)]
-description=加普兰(MS)
-patch=1,EE,00FD5204,extended,00000001
-// 原码: 3C6CD52C 1456E7A6
-// 如需MA形态: 00FD5304 (原码 3C6CD42C)
+[夏亚专用扎古·第1部]
+description=夏亚专用扎古·第1部用｜原码 3C6CC02C 1456E7A8
+patch=1,EE,00FD3F04,extended,00000003
 
-[丹拜因 (托德机)]
-description=丹拜因(托德)
-patch=1,EE,00FD8304,extended,00000001
-// 原码: 3C6C042C 1456E7A6
+[夏亚专用扎古·第2部]
+description=夏亚专用扎古·第2部用｜原码 3C6CC02C 1456E7AC
+patch=1,EE,00FD3F04,extended,0000001F
 
-[阿普萨拉斯II]
-description=阿普萨拉斯II
-patch=1,EE,00FD4104,extended,00000001
-// 原码: 3C6CC22C 1456E7A6
+[夏亚专用扎古·第3部]
+description=夏亚专用扎古·第3部用｜原码 3C6CC02C 1456E7A1
+patch=1,EE,00FD3F04,extended,00000004
 
-[特装型古夫 (诺里斯机)]
-description=特装型古夫
-patch=1,EE,00FD4204,extended,00000001
-// 原码: 3C6CC52C 1456E7A6
+[巴斯特尔·第1部]
+description=巴斯特尔(嘉拉莉亚机)·第1部用｜原码 3C6C0A2C 1456E7A8
+patch=1,EE,00FD8904,extended,00000003
 
-[京宝梵]
-description=京宝梵
-patch=1,EE,00FD4404,extended,00000001
-// 原码: 3C6CC72C 1456E7A6
+[巴斯特尔·第2部]
+description=巴斯特尔(嘉拉莉亚机)·第2部用｜原码 3C6C0A2C 1456E7AC
+patch=1,EE,00FD8904,extended,0000001F
 
-[卡碧尼Mk-II (普露机)]
-description=卡碧尼Mk-II(普露)
-patch=1,EE,00FD6A04,extended,00000001
-// 原码: 3C6CED2C 1456E7A6
+[巴斯特尔·第3部]
+description=巴斯特尔(嘉拉莉亚机)·第3部用｜原码 3C6C0A2C 1456E7A1
+patch=1,EE,00FD8904,extended,00000004
 
-[量产型大魔神]
-description=量产型大魔神
-patch=1,EE,00FD9A04,extended,00000001
-// 原码: 3C6C1D2C 1456E7A6
+[加普兰·第1部]
+description=加普兰MS(罗莎米娅机)·第1部用｜原码 3C6CD52C 1456E7A8
+patch=1,EE,00FD5204,extended,00000003
 
-[莱涅克]
-description=莱涅克
-patch=1,EE,00FD8D04,extended,00000001
-// 原码: 3C6C0E2C 1456E7A6
+[加普兰·第2部]
+description=加普兰MS(罗莎米娅机)·第2部用｜原码 3C6CD52C 1456E7AC
+patch=1,EE,00FD5204,extended,0000001F
 
-[德克萨斯麦克 (杰克&梅丽机)]
-description=德克萨斯麦克
-patch=1,EE,00FDA004,extended,00000001
-// 原码: 3C6C232C 1456E7A6
+[加普兰·第3部]
+description=加普兰MS(罗莎米娅机)·第3部用｜原码 3C6CD52C 1456E7A1
+patch=1,EE,00FD5204,extended,00000004
 
-// ---------------- 机师 ----------------
+[丹拜因(托德机)·第1部]
+description=丹拜因(托德机)·第1部用｜原码 3C6C042C 1456E7A8
+patch=1,EE,00FD8304,extended,00000003
 
-[机师: 嘉拉莉亚]
-description=嘉拉莉亚=尼亚姆希
-patch=1,EE,00FF2988,extended,00000001
-// 原码: 3C6AAAB0 1456E7A6
+[丹拜因(托德机)·第2部]
+description=丹拜因(托德机)·第2部用｜原码 3C6C042C 1456E7AC
+patch=1,EE,00FD8304,extended,0000001F
 
-[机师: 罗莎米娅]
-description=罗莎米娅=巴达姆
-patch=1,EE,00FF1D88,extended,00000001
-// 原码: 3C6A9EB0 1456E7A6
+[丹拜因(托德机)·第3部]
+description=丹拜因(托德机)·第3部用｜原码 3C6C042C 1456E7A1
+patch=1,EE,00FD8304,extended,00000004
 
-[机师: 托德=吉尼斯]
-description=托德=吉尼斯
-patch=1,EE,00FF2D08,extended,00000001
-// 原码: 3C6AAE30 1456E7A6
+[阿普萨拉斯II·第1部]
+description=阿普萨拉斯II·第1部用｜原码 3C6CC22C 1456E7A8
+patch=1,EE,00FD4104,extended,00000003
 
-[机师: 普露]
-description=艾尔比=普露
-patch=1,EE,00FF1E88,extended,00000001
-// 原码: 3C6AA1B0 1456E7A6
+[阿普萨拉斯II·第2部]
+description=阿普萨拉斯II·第2部用｜原码 3C6CC22C 1456E7AC
+patch=1,EE,00FD4104,extended,0000001F
 
-[机师: 杰克=金]
-description=杰克=金
-patch=1,EE,00FF3808,extended,00000001
-// 原码: 3C6ABB30 1456E7A6
+[阿普萨拉斯II·第3部]
+description=阿普萨拉斯II·第3部用｜原码 3C6CC22C 1456E7A1
+patch=1,EE,00FD4104,extended,00000004
 
-[机师: 梅丽=金]
-description=梅丽=金
-patch=1,EE,00FF3888,extended,00000001
-// 原码: 3C6ABBB0 1456E7A6
+[特装型古夫·第1部]
+description=特装型古夫(诺里斯机)·第1部用｜原码 3C6CC52C 1456E7A8
+patch=1,EE,00FD4204,extended,00000003
 
-[机师: 诺里斯=帕卡德]
-description=诺里斯=帕卡德
-patch=1,EE,00FF1788,extended,00000001
-// 原码: 3C6A98B0 1456E7A6
+[特装型古夫·第2部]
+description=特装型古夫(诺里斯机)·第2部用｜原码 3C6CC52C 1456E7AC
+patch=1,EE,00FD4204,extended,0000001F
+
+[特装型古夫·第3部]
+description=特装型古夫(诺里斯机)·第3部用｜原码 3C6CC52C 1456E7A1
+patch=1,EE,00FD4204,extended,00000004
+
+[京宝梵·第1部]
+description=京宝梵·第1部用｜原码 3C6CC72C 1456E7A8
+patch=1,EE,00FD4404,extended,00000003
+
+[京宝梵·第2部]
+description=京宝梵·第2部用｜原码 3C6CC72C 1456E7AC
+patch=1,EE,00FD4404,extended,0000001F
+
+[京宝梵·第3部]
+description=京宝梵·第3部用｜原码 3C6CC72C 1456E7A1
+patch=1,EE,00FD4404,extended,00000004
+
+[卡碧尼Mk-II(普露机)·第1部]
+description=卡碧尼Mk-II(普露机)·第1部用｜原码 3C6CED2C 1456E7A8
+patch=1,EE,00FD6A04,extended,00000003
+
+[卡碧尼Mk-II(普露机)·第2部]
+description=卡碧尼Mk-II(普露机)·第2部用｜原码 3C6CED2C 1456E7AC
+patch=1,EE,00FD6A04,extended,0000001F
+
+[卡碧尼Mk-II(普露机)·第3部]
+description=卡碧尼Mk-II(普露机)·第3部用｜原码 3C6CED2C 1456E7A1
+patch=1,EE,00FD6A04,extended,00000004
+
+[量产型大魔神·第1部]
+description=量产型大魔神·第1部用｜原码 3C6C1D2C 1456E7A8
+patch=1,EE,00FD9A04,extended,00000003
+
+[量产型大魔神·第2部]
+description=量产型大魔神·第2部用｜原码 3C6C1D2C 1456E7AC
+patch=1,EE,00FD9A04,extended,0000001F
+
+[量产型大魔神·第3部]
+description=量产型大魔神·第3部用｜原码 3C6C1D2C 1456E7A1
+patch=1,EE,00FD9A04,extended,00000004
+
+[莱涅克·第1部]
+description=莱涅克·第1部用｜原码 3C6C0E2C 1456E7A8
+patch=1,EE,00FD8D04,extended,00000003
+
+[莱涅克·第2部]
+description=莱涅克·第2部用｜原码 3C6C0E2C 1456E7AC
+patch=1,EE,00FD8D04,extended,0000001F
+
+[莱涅克·第3部]
+description=莱涅克·第3部用｜原码 3C6C0E2C 1456E7A1
+patch=1,EE,00FD8D04,extended,00000004
+
+[德克萨斯麦克·第1部]
+description=德克萨斯麦克(杰克&梅丽机)·第1部用｜原码 3C6C232C 1456E7A8
+patch=1,EE,00FDA004,extended,00000003
+
+[德克萨斯麦克·第2部]
+description=德克萨斯麦克(杰克&梅丽机)·第2部用｜原码 3C6C232C 1456E7AC
+patch=1,EE,00FDA004,extended,0000001F
+
+[德克萨斯麦克·第3部]
+description=德克萨斯麦克(杰克&梅丽机)·第3部用｜原码 3C6C232C 1456E7A1
+patch=1,EE,00FDA004,extended,00000004
+
+// ---------------- 机师（按部版） ----------------
+
+[机师: 嘉拉莉亚·第1部]
+description=嘉拉莉亚=尼亚姆希·第1部用｜原码 3C6AAAB0 1456E7A8
+patch=1,EE,00FF2988,extended,00000003
+
+[机师: 嘉拉莉亚·第2部]
+description=嘉拉莉亚=尼亚姆希·第2部用｜原码 3C6AAAB0 1456E7AC
+patch=1,EE,00FF2988,extended,0000001F
+
+[机师: 嘉拉莉亚·第3部]
+description=嘉拉莉亚=尼亚姆希·第3部用｜原码 3C6AAAB0 1456E7A1
+patch=1,EE,00FF2988,extended,00000004
+
+[机师: 罗莎米娅·第1部]
+description=罗莎米娅=巴达姆·第1部用｜原码 3C6A9EB0 1456E7A8
+patch=1,EE,00FF1D88,extended,00000003
+
+[机师: 罗莎米娅·第2部]
+description=罗莎米娅=巴达姆·第2部用｜原码 3C6A9EB0 1456E7AC
+patch=1,EE,00FF1D88,extended,0000001F
+
+[机师: 罗莎米娅·第3部]
+description=罗莎米娅=巴达姆·第3部用｜原码 3C6A9EB0 1456E7A1
+patch=1,EE,00FF1D88,extended,00000004
+
+[机师: 托德=吉尼斯·第1部]
+description=托德=吉尼斯·第1部用｜原码 3C6AAE30 1456E7A8
+patch=1,EE,00FF2D08,extended,00000003
+
+[机师: 托德=吉尼斯·第2部]
+description=托德=吉尼斯·第2部用｜原码 3C6AAE30 1456E7AC
+patch=1,EE,00FF2D08,extended,0000001F
+
+[机师: 托德=吉尼斯·第3部]
+description=托德=吉尼斯·第3部用｜原码 3C6AAE30 1456E7A1
+patch=1,EE,00FF2D08,extended,00000004
+
+[机师: 普露·第1部]
+description=艾尔比=普露·第1部用｜原码 3C6AA1B0 1456E7A8
+patch=1,EE,00FF1E88,extended,00000003
+
+[机师: 普露·第2部]
+description=艾尔比=普露·第2部用｜原码 3C6AA1B0 1456E7AC
+patch=1,EE,00FF1E88,extended,0000001F
+
+[机师: 普露·第3部]
+description=艾尔比=普露·第3部用｜原码 3C6AA1B0 1456E7A1
+patch=1,EE,00FF1E88,extended,00000004
+
+[机师: 杰克=金·第1部]
+description=杰克=金·第1部用｜原码 3C6ABB30 1456E7A8
+patch=1,EE,00FF3808,extended,00000003
+
+[机师: 杰克=金·第2部]
+description=杰克=金·第2部用｜原码 3C6ABB30 1456E7AC
+patch=1,EE,00FF3808,extended,0000001F
+
+[机师: 杰克=金·第3部]
+description=杰克=金·第3部用｜原码 3C6ABB30 1456E7A1
+patch=1,EE,00FF3808,extended,00000004
+
+[机师: 梅丽=金·第1部]
+description=梅丽=金·第1部用｜原码 3C6ABBB0 1456E7A8
+patch=1,EE,00FF3888,extended,00000003
+
+[机师: 梅丽=金·第2部]
+description=梅丽=金·第2部用｜原码 3C6ABBB0 1456E7AC
+patch=1,EE,00FF3888,extended,0000001F
+
+[机师: 梅丽=金·第3部]
+description=梅丽=金·第3部用｜原码 3C6ABBB0 1456E7A1
+patch=1,EE,00FF3888,extended,00000004
+
+[机师: 诺里斯=帕卡德·第1部]
+description=诺里斯=帕卡德·第1部用｜原码 3C6A98B0 1456E7A8
+patch=1,EE,00FF1788,extended,00000003
+
+[机师: 诺里斯=帕卡德·第2部]
+description=诺里斯=帕卡德·第2部用｜原码 3C6A98B0 1456E7AC
+patch=1,EE,00FF1788,extended,0000001F
+
+[机师: 诺里斯=帕卡德·第3部]
+description=诺里斯=帕卡德·第3部用｜原码 3C6A98B0 1456E7A1
+patch=1,EE,00FF1788,extended,00000004
 
 // ============================================================
 // ★ 便利金手指（默认未勾选; 要用时在面板里打勾）
@@ -620,9 +756,17 @@ patch=1,EE,00FD7604,extended,00000001
 description=Hi-νガンダム｜原码 3C6CF82C 1456E7A6
 patch=1,EE,00FD7704,extended,00000001
 
-[高达F91]
-description=ガンダムF91｜原码 3C6CFB2C 1456E7A6
-patch=1,EE,00FD7804,extended,00000001
+[高达F91·第1部]
+description=ガンダムF91·第1部用｜原码 3C6CFB2C 1456E7A8
+patch=1,EE,00FD7804,extended,00000003
+
+[高达F91·第2部]
+description=ガンダムF91·第2部用｜原码 3C6CFB2C 1456E7AC
+patch=1,EE,00FD7804,extended,0000001F
+
+[高达F91·第3部]
+description=ガンダムF91·第3部用｜原码 3C6CFB2C 1456E7A1
+patch=1,EE,00FD7804,extended,00000004
 
 [维基纳·基纳]
 description=ビギナ・ギナ｜原码 3C6CFA2C 1456E7A6
