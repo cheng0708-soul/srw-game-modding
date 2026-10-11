@@ -95,19 +95,38 @@
       </a>
 
       <nav class="main-nav">
-        <a href="#secrets" class="nav-link active"><span>🛸</span> 隐藏要素</a>
-        <a href="#timeline" class="nav-link"><span>📋</span> 进度速查</a>
-        <a href="#stagesGuide" class="nav-link"><span>📖</span> 流程战术手册</a>
-        <a href="#cheats" class="nav-link"><span>⚡</span> 金手指定制</a>
-        <a href="#tacticsSection" class="nav-link"><span>💥</span> 合体技&精神</a>
-        <a href="#database" class="nav-link"><span>💾</span> 数据库</a>
+        <a href="#secrets" class="nav-link active" data-view="secrets"><span>🛸</span> 隐藏要素</a>
+        <a href="#stagesGuide" class="nav-link" data-view="stagesGuide"><span>📖</span> 105关攻略</a>
+        <a href="#cheats" class="nav-link" data-view="cheats"><span>⚡</span> 金手指定制</a>
+        <a href="#tacticsSection" class="nav-link" data-view="tacticsSection"><span>💥</span> 战术攻防</a>
+        <a href="#timeline" class="nav-link" data-view="timeline"><span>📋</span> 历史档案</a>
+        <a href="#database" class="nav-link" data-view="database"><span>💾</span> 数据库</a>
       </nav>
 
       <div class="header-actions">
+        <button id="viewModeToggleBtn" class="btn-icon" title="切换单模块视窗/全页平铺">🎛️ 聚焦视窗: 开</button>
         <button id="soundToggleBtn" class="btn-icon">🔊 战术音效: 开</button>
         <div class="author-pill">
           <span class="author-badge-icon">🎖️</span>
           <span class="author-badge-text">作者: <strong>luke爱分享</strong></span>
+        </div>
+      </div>
+    </div>
+    <!-- HUD Tactical Status Bar -->
+    <div class="hud-status-strip">
+      <div class="container status-strip-inner">
+        <div class="status-indicator">
+          <span class="status-dot"></span>
+          <span class="status-label">TACTICAL CONSOLE:</span>
+          <span id="activeViewIndicator" class="status-view-tag">🛸 隐藏要素总装库</span>
+        </div>
+        <div class="status-quick-pills">
+          <button class="quick-pill active" data-target="secrets">🛸 隐藏要素 (32+7)</button>
+          <button class="quick-pill" data-target="stagesGuide">📖 105关全攻略</button>
+          <button class="quick-pill" data-target="cheats">⚡ 金手指定制</button>
+          <button class="quick-pill" data-target="tacticsSection">💥 战术攻防</button>
+          <button class="quick-pill" data-target="timeline">📋 历史档案</button>
+          <button class="quick-pill" data-target="hero">🏠 指挥室</button>
         </div>
       </div>
     </div>
@@ -165,47 +184,88 @@
   <main class="container">
 
     <!-- SECTION 1: 隐藏要素互动雷达 -->
-    <section id="secrets" style="padding-top: 48px;">
+    <section id="secrets" class="tactical-view-panel" style="padding-top: 32px;">
       <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 8px;">
         <h2 style="font-family: var(--font-hud); font-size: 1.6rem; color: var(--text-bright); display: flex; align-items: center; gap: 10px;">
-          <span style="color: var(--accent-cyan);">§ 01</span> 隐藏要素战术雷达
+          <span style="color: var(--accent-cyan);">§ 01</span> 隐藏要素全维战术总装库
         </h2>
-        <span style="font-size: 0.85rem; color: var(--text-muted); font-family: var(--font-hud);">INTERACTIVE SECRET MATRIX</span>
+        <span style="font-size: 0.85rem; color: var(--accent-gold); font-family: var(--font-hud);">INTERACTIVE SECRETS LAB · 7 维全域资料</span>
       </div>
 
-      <!-- Controls & Search -->
-      <div class="tactical-controls">
-        <div class="filter-pills">
-          <button class="filter-btn secret-filter-btn active" data-part="ALL">全部 (32项)</button>
-          <button class="filter-btn secret-filter-btn" data-part="P1">第1部 地上/宇宙 (15项)</button>
-          <button class="filter-btn secret-filter-btn" data-part="P2">第2部 逆转篇 (5项)</button>
-          <button class="filter-btn secret-filter-btn" data-part="P3">第3部 银河篇 (12项)</button>
-        </div>
-
-        <div class="search-box">
-          <span class="search-icon">🔍</span>
-          <input type="text" id="secretSearchInput" class="search-input" placeholder="输入机体/机师/关卡(如东方不败、雪霸)...">
-        </div>
+      <!-- Sub Tabs Navigation -->
+      <div class="secrets-subnav-bar">
+        <button class="secrets-sub-btn active" data-sub="radar"><span>🛰️</span> 要素雷达 (32项)</button>
+        <button class="secrets-sub-btn" data-sub="matrix"><span>🧭</span> 关键路线决策矩阵</button>
+        <button class="secrets-sub-btn" data-sub="containers"><span>📦</span> 隐藏宝箱与集装箱</button>
+        <button class="secrets-sub-btn" data-sub="remodels"><span>🔄</span> 机体改造继承</button>
+        <button class="secrets-sub-btn" data-sub="cg"><span>🎬</span> 全20项CG与结局</button>
+        <button class="secrets-sub-btn" data-sub="checkpoints"><span>📋</span> 关卡进度打卡清单</button>
+        <button class="secrets-sub-btn" data-sub="tips"><span>💡</span> 核心秘技与避坑指南</button>
       </div>
 
-      <!-- Progress Tracking Bar -->
-      <div class="progress-hud">
-        <div class="progress-info">
-          <span class="progress-title">本周目达成进度:</span>
-          <span id="progressCounter" class="progress-counter">0 / 32 (0%)</span>
+      <!-- Sub Panel 1: 原有的要素雷达 (含搜索与卡片) -->
+      <div id="subTabRadar" class="secrets-sub-panel active">
+        <div class="tactical-controls">
+          <div class="filter-pills">
+            <button class="filter-btn secret-filter-btn active" data-part="ALL">全部 (32项)</button>
+            <button class="filter-btn secret-filter-btn" data-part="P1">第1部 地上/宇宙 (15项)</button>
+            <button class="filter-btn secret-filter-btn" data-part="P2">第2部 逆转篇 (5项)</button>
+            <button class="filter-btn secret-filter-btn" data-part="P3">第3部 银河篇 (12项)</button>
+          </div>
+
+          <div class="search-box">
+            <span class="search-icon">🔍</span>
+            <input type="text" id="secretSearchInput" class="search-input" placeholder="输入机体/机师/关卡(如东方不败、雪霸)...">
+          </div>
         </div>
-        <div class="progress-track">
-          <div id="progressFill" class="progress-fill"></div>
+
+        <div class="progress-hud">
+          <div class="progress-info">
+            <span class="progress-title">本周目达成进度:</span>
+            <span id="progressCounter" class="progress-counter">0 / 32 (0%)</span>
+          </div>
+          <div class="progress-track">
+            <div id="progressFill" class="progress-fill"></div>
+          </div>
+          <button id="resetProgressBtn" class="btn-reset-progress">重置进度</button>
         </div>
-        <button id="resetProgressBtn" class="btn-reset-progress">重置进度</button>
+
+        <div id="secretsGrid" class="secrets-grid"></div>
       </div>
 
-      <!-- Secrets Cards Grid -->
-      <div id="secretsGrid" class="secrets-grid"></div>
+      <!-- Sub Panel 2: 路线决策矩阵 -->
+      <div id="subTabMatrix" class="secrets-sub-panel" style="display: none;">
+        <div id="matrixContainer" class="subtab-content-wrap"></div>
+      </div>
+
+      <!-- Sub Panel 3: 隐藏宝箱与集装箱 -->
+      <div id="subTabContainers" class="secrets-sub-panel" style="display: none;">
+        <div id="containersDisplay" class="subtab-content-wrap"></div>
+      </div>
+
+      <!-- Sub Panel 4: 机体改造继承 -->
+      <div id="subTabRemodels" class="secrets-sub-panel" style="display: none;">
+        <div id="remodelsDisplay" class="subtab-content-wrap"></div>
+      </div>
+
+      <!-- Sub Panel 5: 全20项CG与结局 -->
+      <div id="subTabCG" class="secrets-sub-panel" style="display: none;">
+        <div id="cgGalleryDisplay" class="subtab-content-wrap"></div>
+      </div>
+
+      <!-- Sub Panel 6: 关卡进度打卡清单 -->
+      <div id="subTabCheckpoints" class="secrets-sub-panel" style="display: none;">
+        <div id="checkpointsDisplay" class="subtab-content-wrap"></div>
+      </div>
+
+      <!-- Sub Panel 7: 核心秘技与避坑指南 -->
+      <div id="subTabTips" class="secrets-sub-panel" style="display: none;">
+        <div id="tipsDisplay" class="subtab-content-wrap"></div>
+      </div>
     </section>
 
     <!-- SECTION 2: 关卡进度防遗漏速查 -->
-    <section id="timeline" class="timeline-section" style="padding-top: 48px;">
+    <section id="timeline" class="tactical-view-panel" class="timeline-section" style="padding-top: 48px;">
       <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 16px;">
         <h2 style="font-family: var(--font-hud); font-size: 1.6rem; color: var(--text-bright); display: flex; align-items: center; gap: 10px;">
           <span style="color: var(--accent-gold);">§ 02</span> 判定关卡进度速查清单
@@ -238,7 +298,7 @@
 
 
     <!-- SECTION: 105关全流程战术攻防手册 (机战世界权威整合) -->
-    <section id="stagesGuide" class="timeline-section" style="padding-top: 48px;">
+    <section id="stagesGuide" class="tactical-view-panel" class="timeline-section" style="padding-top: 48px;">
       <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 16px;">
         <h2 style="font-family: var(--font-hud); font-size: 1.6rem; color: var(--text-bright); display: flex; align-items: center; gap: 10px;">
           <span style="color: var(--accent-cyan);">§ 03</span> 全流程战术攻防手册
@@ -267,7 +327,7 @@
     </section>
 
     <!-- SECTION 3: 金手指在线定制生成器 -->
-    <section id="cheats" style="padding-top: 48px;">
+    <section id="cheats" class="tactical-view-panel" style="padding-top: 48px;">
       <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 16px;">
         <h2 style="font-family: var(--font-hud); font-size: 1.6rem; color: var(--text-bright); display: flex; align-items: center; gap: 10px;">
           <span style="color: var(--accent-cyan);">§ 03</span> PCSX2 金手指 (.pnach) 在线工作台
@@ -325,7 +385,7 @@
 
 
     <!-- SECTION: 战术整备室·合体技与精神指令 -->
-    <section id="tacticsSection" style="padding-top: 48px;">
+    <section id="tacticsSection" class="tactical-view-panel" style="padding-top: 48px;">
       <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 16px;">
         <h2 style="font-family: var(--font-hud); font-size: 1.6rem; color: var(--text-bright); display: flex; align-items: center; gap: 10px;">
           <span style="color: var(--accent-gold);">§ 05</span> 战术整备室 · 合体技与精神全集
@@ -354,7 +414,7 @@
     </section>
 
     <!-- SECTION 4: 数据库（改造继承、集装箱、全CG） -->
-    <section id="database" style="padding-top: 48px;">
+    <section id="database" class="tactical-view-panel" style="padding-top: 48px;">
       <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 16px;">
         <h2 style="font-family: var(--font-hud); font-size: 1.6rem; color: var(--text-bright); display: flex; align-items: center; gap: 10px;">
           <span style="color: var(--accent-amber);">§ 04</span> 战术数据库与附录

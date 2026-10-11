@@ -1146,3 +1146,407 @@ body {
   color: #c8d8ea;
   line-height: 1.6;
 }
+
+/* ==========================================================================
+   TACTICAL CONSOLE & MULTI-VIEW HUD SYSTEM (v2.5)
+   ========================================================================== */
+
+/* HUD Tactical Status Strip */
+.hud-status-strip {
+  background: rgba(4, 10, 20, 0.95);
+  border-bottom: 1px solid rgba(0, 240, 255, 0.2);
+  padding: 8px 0;
+  backdrop-filter: blur(8px);
+  position: relative;
+  z-index: 99;
+}
+
+.status-strip-inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.status-indicator {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-family: var(--font-hud);
+  font-size: 0.82rem;
+  letter-spacing: 1px;
+}
+
+.status-dot {
+  width: 8px;
+  height: 8px;
+  background: var(--accent-cyan);
+  border-radius: 50%;
+  box-shadow: 0 0 8px var(--accent-cyan);
+  animation: radarBlink 1.5s infinite;
+}
+
+.status-label {
+  color: var(--text-muted);
+}
+
+.status-view-tag {
+  color: var(--accent-gold);
+  font-weight: 800;
+  background: rgba(255, 215, 0, 0.1);
+  padding: 2px 8px;
+  border-radius: 2px;
+  border: 1px solid rgba(255, 215, 0, 0.3);
+}
+
+.status-quick-pills {
+  display: flex;
+  gap: 6px;
+  overflow-x: auto;
+  padding-bottom: 2px;
+}
+
+.quick-pill {
+  background: rgba(12, 24, 44, 0.8);
+  border: 1px solid rgba(0, 240, 255, 0.2);
+  color: var(--text-muted);
+  font-family: var(--font-hud);
+  font-size: 0.78rem;
+  padding: 4px 10px;
+  border-radius: 2px;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: all 0.2s ease;
+}
+
+.quick-pill:hover,
+.quick-pill.active {
+  background: rgba(0, 240, 255, 0.18);
+  border-color: var(--accent-cyan);
+  color: var(--text-bright);
+  box-shadow: 0 0 10px rgba(0, 240, 255, 0.3);
+}
+
+/* Secrets 7-Sub-Tabs Navigation Bar */
+.secrets-subnav-bar {
+  display: flex;
+  gap: 8px;
+  margin: 16px 0 24px 0;
+  overflow-x: auto;
+  padding-bottom: 6px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.secrets-sub-btn {
+  background: rgba(10, 18, 30, 0.9);
+  border: 1px solid rgba(0, 240, 255, 0.25);
+  color: var(--text-muted);
+  font-family: var(--font-hud);
+  font-size: 0.85rem;
+  padding: 8px 16px;
+  border-radius: 2px;
+  cursor: pointer;
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  transition: all 0.25s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+.secrets-sub-btn:hover {
+  background: rgba(0, 240, 255, 0.12);
+  color: var(--text-bright);
+  border-color: var(--accent-cyan);
+}
+
+.secrets-sub-btn.active {
+  background: linear-gradient(135deg, rgba(0, 240, 255, 0.25), rgba(176, 38, 255, 0.15));
+  border-color: var(--accent-cyan);
+  color: var(--accent-cyan);
+  box-shadow: 0 0 14px rgba(0, 240, 255, 0.35);
+  font-weight: 800;
+}
+
+/* Sub-panel Content Wrappers */
+.subtab-content-wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  animation: hudPanelFadeIn 0.35s ease-out;
+}
+
+@keyframes hudPanelFadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Matrix & Data Tables */
+.hud-table-card {
+  background: rgba(10, 18, 32, 0.9);
+  border: 1px solid rgba(0, 240, 255, 0.2);
+  border-radius: 4px;
+  overflow: hidden;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+}
+
+.hud-table-header {
+  padding: 16px 20px;
+  background: linear-gradient(90deg, rgba(0, 240, 255, 0.15), rgba(10, 18, 32, 0.4));
+  border-bottom: 1px solid rgba(0, 240, 255, 0.25);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.hud-table-title {
+  font-family: var(--font-hud);
+  font-size: 1.15rem;
+  color: var(--text-bright);
+  font-weight: 800;
+}
+
+.hud-table-subtitle {
+  font-size: 0.82rem;
+  color: var(--accent-cyan);
+}
+
+.hud-table-desc {
+  padding: 12px 20px;
+  font-size: 0.88rem;
+  color: #b0c4de;
+  line-height: 1.6;
+  background: rgba(0, 0, 0, 0.2);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.hud-data-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.88rem;
+}
+
+.hud-data-table th {
+  background: rgba(14, 26, 48, 0.8);
+  color: var(--accent-gold);
+  font-family: var(--font-hud);
+  font-weight: 800;
+  padding: 12px 14px;
+  text-align: left;
+  border-bottom: 1px solid rgba(0, 240, 255, 0.2);
+  letter-spacing: 0.5px;
+}
+
+.hud-data-table td {
+  padding: 12px 14px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+  color: var(--text-bright);
+  line-height: 1.5;
+}
+
+.hud-data-table tr:hover {
+  background: rgba(0, 240, 255, 0.05);
+}
+
+.hud-data-table tr.highlight-row {
+  background: rgba(0, 240, 255, 0.1);
+  font-weight: 600;
+}
+
+.hud-table-notes {
+  padding: 12px 20px;
+  background: rgba(255, 215, 0, 0.04);
+  border-top: 1px solid rgba(255, 215, 0, 0.15);
+  font-size: 0.82rem;
+  color: #e6c875;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+/* CG Gallery Cards */
+.cg-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 16px;
+}
+
+.cg-card {
+  background: rgba(10, 18, 32, 0.85);
+  border: 1px solid rgba(176, 38, 255, 0.25);
+  border-radius: 4px;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  transition: all 0.25s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.cg-card::before {
+  content: "";
+  position: absolute;
+  top: 0; left: 0;
+  width: 4px; height: 100%;
+  background: var(--accent-purple);
+}
+
+.cg-card:hover {
+  transform: translateY(-2px);
+  border-color: var(--accent-purple);
+  box-shadow: 0 6px 20px rgba(176, 38, 255, 0.2);
+}
+
+.cg-name {
+  font-family: var(--font-hud);
+  font-size: 1.05rem;
+  font-weight: 800;
+  color: var(--text-bright);
+}
+
+.cg-cond {
+  font-size: 0.85rem;
+  color: #c0d4ea;
+  line-height: 1.5;
+}
+
+/* Checkpoints Timeline Checklist */
+.checkpoint-part-card {
+  background: rgba(10, 18, 32, 0.85);
+  border: 1px solid rgba(0, 240, 255, 0.2);
+  border-radius: 4px;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+.checkpoint-part-title {
+  font-family: var(--font-hud);
+  font-size: 1.2rem;
+  color: var(--accent-cyan);
+  font-weight: 800;
+  margin-bottom: 14px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.checkpoint-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.checkpoint-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  background: rgba(0, 0, 0, 0.3);
+  padding: 10px 14px;
+  border-radius: 3px;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  transition: background 0.2s ease;
+}
+
+.checkpoint-item:hover {
+  background: rgba(0, 240, 255, 0.06);
+}
+
+.checkpoint-checkbox {
+  appearance: none;
+  width: 18px;
+  height: 18px;
+  background: rgba(14, 26, 48, 0.8);
+  border: 1px solid var(--accent-cyan);
+  border-radius: 2px;
+  cursor: pointer;
+  margin-top: 2px;
+  flex-shrink: 0;
+  position: relative;
+  transition: all 0.2s ease;
+}
+
+.checkpoint-checkbox:checked {
+  background: var(--accent-cyan);
+}
+
+.checkpoint-checkbox:checked::after {
+  content: "✓";
+  position: absolute;
+  top: 50%; left: 50%;
+  transform: translate(-50%, -50%);
+  color: #030812;
+  font-size: 13px;
+  font-weight: 900;
+}
+
+.checkpoint-stage-badge {
+  font-family: var(--font-hud);
+  font-weight: 700;
+  font-size: 0.85rem;
+  color: var(--accent-gold);
+  min-width: 140px;
+  flex-shrink: 0;
+}
+
+.checkpoint-action {
+  font-size: 0.88rem;
+  color: #cfddec;
+  line-height: 1.5;
+}
+
+/* Tips & Bug Warning Cards */
+.tip-hud-card {
+  background: rgba(10, 18, 32, 0.9);
+  border: 1px solid rgba(255, 153, 0, 0.3);
+  border-left: 5px solid var(--accent-orange);
+  border-radius: 4px;
+  padding: 18px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.3);
+}
+
+.tip-hud-title {
+  font-family: var(--font-hud);
+  font-size: 1.1rem;
+  color: var(--text-bright);
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.tip-hud-tag {
+  font-size: 0.75rem;
+  font-family: var(--font-hud);
+  background: rgba(255, 153, 0, 0.15);
+  color: var(--accent-orange);
+  padding: 2px 8px;
+  border-radius: 2px;
+  border: 1px solid rgba(255, 153, 0, 0.4);
+}
+
+.tip-hud-content {
+  font-size: 0.9rem;
+  color: #d8e4f2;
+  line-height: 1.6;
+}
+
+/* Responsive adjust for HUD Status Bar */
+@media (max-width: 768px) {
+  .status-strip-inner {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .checkpoint-item {
+    flex-direction: column;
+    gap: 6px;
+  }
+  .checkpoint-stage-badge {
+    min-width: auto;
+  }
+}
