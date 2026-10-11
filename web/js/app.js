@@ -48,16 +48,9 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   // ==============================================================
-  // 2. Navigation smooth scroll & active state
+  // 2. Navigation managed in Module 10 (Tactical Console Engine)
   // ==============================================================
-  // navLinks reuse
-  navLinks.forEach(link => {
-    link.addEventListener('click', (e) => {
-      playBeep(659, 'sine', 0.05);
-      navLinks.forEach(l => l.classList.remove('active'));
-      link.classList.add('active');
-    });
-  });
+  const navLinks = document.querySelectorAll('.main-nav .nav-link');
 
   // ==============================================================
   // 3. Section 1: Secrets Matrix (隐藏要素互动雷达)
