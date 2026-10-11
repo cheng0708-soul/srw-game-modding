@@ -1,12 +1,12 @@
 # 超级机器人大战 (SRW) PCSX2 修改研究 · srw-game-modding
 
 > 机战系列在 PCSX2 上的 隐藏要素补完 / 金手指 / 码破解 研究仓库。
-> 首作已完成：**《超级机器人大战IMPACT》**（245 组补丁全交付），含完整方法论、调研资料原文与游戏存档分享。
+> 首作已完成：**《超级机器人大战IMPACT》**（599 组补丁全交付），含完整方法论、调研资料原文与游戏存档分享。
 > 
 > 🌐 **官方在线网站**：👉 [https://cheng0708-soul.github.io/srw-game-modding/](https://cheng0708-soul.github.io/srw-game-modding/)
 
 A community research repo for modding **Super Robot Wars** games on PCSX2 — code decryption pipeline, cheat patches, and sources archive.
-First title completed: **SRW IMPACT** (245 cheat groups delivered).
+First title completed: **SRW IMPACT** (599 cheat groups delivered).
 
 ---
 
@@ -17,12 +17,13 @@ First title completed: **SRW IMPACT** (245 cheat groups delivered).
 | `skill/` | 完整方法论技能包（总流程 + 各作专档 + 解密/读档工具）——下次攻克别的机战照着走 |
 | `research/` | 调研原始资料（日站 5ch 改造帖全清单 / 博客实测记录 / 中文圈原码表 / 隐藏要素攻略） |
 | `tools/` | 配套脚本（AR2→PCSX2 解密器、全表生成器、存档读取器） |
-| `pnach/` | 成品：IMPACT 完整补丁（245 组）+ 详细中文说明文档 |
+| `pnach/` | 成品：IMPACT 完整补丁（599 组）+ 详细中文说明文档 |
 | `saves/` | 游戏存档分享（即时档 + 记忆卡） |
 
 ## 🎮 成果一览（SRW IMPACT · SLPS-25104 汉化版）
 
-- **245 个分组** = 按部版补漏 60（12 机体 + 7 机师 + F91，各按 ·第1部/·第2部/·第3部 三条；只勾当前所在部）+ 便利金手指 5 + 必杀技追加 3 + **全机体目录 159（第1部→最终章全机型）** + 隐藏机师补充 18
+- **599 个分组** = 按部版补漏 60 + 便利金手指 5 + 必杀技追加 3 + **全机体目录·按部版 480（159 台 × 3 部）** + 隐藏机师·按部版 54（18 名 × 3 部）
+- **全机体调出（魔改模式，2026-10-11）**：F91 实测成功后，目录区 159 台 + 机师补充 18 名全量按部化——勾当前所在部的版本，机体/机师即出现在名册；出现后游戏内存档，即可关闭代码（数据保留）
 - 隐藏机体补齐：G-3高达、夏亚专用扎古、巴斯特尔、丹拜因(托德)、加普兰、阿普萨拉斯II、特装型古夫、京宝梵、卡碧尼Mk-II(普露)、量产型大魔神、莱涅克、德克萨斯麦克
 - 便利码：资金MAX / 强化零件全 / 全机15段改造+插件4格 / EN&弹药不减 / 战后等级MAX
 - **后期隐藏要素研究（2026-10-04 补）**：第1～3部+隐藏最终话全部入手条件（中文整理）+ 全105关资料归档 → 见 `research/隐藏要素总整理-中文-2026-10-04.md`

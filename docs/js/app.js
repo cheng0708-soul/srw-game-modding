@@ -441,7 +441,7 @@ document.addEventListener('DOMContentLoaded', () => {
         playBeep(880, 'triangle', 0.1);
         enabledCheats.clear();
         (window.SRW_CHEATS || []).forEach(c => {
-          if (c.title.endsWith(tag)) enabledCheats.add(c.id);
+          if (c.pack === 'fix' && c.title.endsWith(tag)) enabledCheats.add(c.id);
         });
         renderCheats();
       });

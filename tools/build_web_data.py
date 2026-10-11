@@ -7,6 +7,15 @@ web_dir = os.path.join(base_dir, 'web')
 data_dir = os.path.join(web_dir, 'data')
 os.makedirs(data_dir, exist_ok=True)
 
+# 补漏包基准名（网站「补漏·第N部」按钮使用）
+_FIX_BASES = {'G-3高达', '丹拜因(托德机)', '京宝梵', '加普兰', '卡碧尼Mk-II(普露机)', '夏亚专用扎古', '巴斯特尔', '德克萨斯麦克', '机师: 嘉拉莉亚', '机师: 托德=吉尼斯', '机师: 普露', '机师: 杰克=金', '机师: 梅丽=金', '机师: 罗莎米娅', '机师: 诺里斯=帕卡德', '特装型古夫', '莱涅克', '量产型大魔神', '阿普萨拉斯II', '高达F91'}
+def _pack_of(_t):
+    _b = re.sub(r'·第[123]部$', '', _t)
+    if _b != _t:
+        return 'fix' if _b in _FIX_BASES else 'catalog'
+    return ''
+
+
 # 1. 解析 pnach
 pnach_path = os.path.join(base_dir, 'pnach/SLPS-25104_10C3D363.pnach')
 with open(pnach_path, 'r', encoding='utf-8', errors='ignore') as f:
@@ -54,6 +63,7 @@ for i, b in enumerate(blocks):
         'title': title,
         'description': (desc.split('｜')[0].strip() or title),
         'category': cat,
+        'pack': _pack_of(title),
         'patches': patches,
         'raw_code': raw_codes[0] if raw_codes else '',
         'note': notes[0] if notes else '',
